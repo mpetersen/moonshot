@@ -14,9 +14,9 @@ Satellites
 		Physical Data  ·  Apparent View/Data   Rise and Set    Ephemeris  ·  Physical Ephemeris  ·  Solstices etc.  ·  Solar Eclipses  ·  Transits  ·  Global Transits  ·  Image Database  ·  Space Weather  ·  Altitude/Shadow Length/Solar Energy
     → Nightvision-Mode
 Show or hide current site settings
-Somewhere, Germany
-Easting:	9:29:27.6
-Northing:	51:17:57.48
+Bergedorf, Hamburg, Germany
+Easting:	10:13:44.328
+Northing:	53:29:12.768
 Time zone:	CET/
 CEST
 
@@ -33,1104 +33,1104 @@ Submit
 Daily Almanac
 
  additionally, list times of civil (-6°) and astronomical (-18°) twilight
-1 Jan 2019	Rise  :  8h26.7m  Set  : 16h24.4m  Transit: 12h25m28s
-        az=127.4°        az=232.7°          Altitude=15.8° Sgr
-Dawn  :  7h04m    Dusk : 17h47m    Day    :  7h57.8m
-2 Jan 2019	Rise  :  8h26.6m  Set  : 16h25.5m  Transit: 12h25m56s
-        az=127.2°        az=232.8°          Altitude=15.8° Sgr
-Dawn  :  7h04m    Dusk : 17h48m    Day    :  7h58.9m
-3 Jan 2019	Rise  :  8h26.4m  Set  : 16h26.6m  Transit: 12h26m24s
-        az=127.1°        az=233.0°          Altitude=15.9° Sgr
-Dawn  :  7h04m    Dusk : 17h49m    Day    :  8h00.2m
-4 Jan 2019	Rise  :  8h26.2m  Set  : 16h27.7m  Transit: 12h26m52s
-        az=126.9°        az=233.2°          Altitude=16.0° Sgr
-Dawn  :  7h04m    Dusk : 17h50m    Day    :  8h01.5m
-5 Jan 2019	Rise  :  8h25.9m  Set  : 16h28.9m  Transit: 12h27m19s
-        az=126.7°        az=233.4°          Altitude=16.1° Sgr
-Dawn  :  7h04m    Dusk : 17h51m    Day    :  8h03.0m
-6 Jan 2019	Rise  :  8h25.6m  Set  : 16h30.2m  Transit: 12h27m46s
-        az=126.5°        az=233.6°          Altitude=16.3° Sgr
-Dawn  :  7h04m    Dusk : 17h52m    Day    :  8h04.5m
-7 Jan 2019	Rise  :  8h25.2m  Set  : 16h31.4m  Transit: 12h28m12s
-        az=126.2°        az=233.8°          Altitude=16.4° Sgr
-Dawn  :  7h04m    Dusk : 17h53m    Day    :  8h06.2m
-8 Jan 2019	Rise  :  8h24.8m  Set  : 16h32.7m  Transit: 12h28m38s
-        az=126.0°        az=234.1°          Altitude=16.5° Sgr
-Dawn  :  7h03m    Dusk : 17h54m    Day    :  8h07.9m
-9 Jan 2019	Rise  :  8h24.3m  Set  : 16h34.1m  Transit: 12h29m03s
-        az=125.8°        az=234.3°          Altitude=16.6° Sgr
-Dawn  :  7h03m    Dusk : 17h55m    Day    :  8h09.7m
-10 Jan 2019	Rise  :  8h23.8m  Set  : 16h35.4m  Transit: 12h29m27s
-        az=125.5°        az=234.6°          Altitude=16.8° Sgr
-Dawn  :  7h03m    Dusk : 17h56m    Day    :  8h11.6m
-11 Jan 2019	Rise  :  8h23.2m  Set  : 16h36.9m  Transit: 12h29m52s
-        az=125.2°        az=234.9°          Altitude=16.9° Sgr
-Dawn  :  7h02m    Dusk : 17h58m    Day    :  8h13.6m
-12 Jan 2019	Rise  :  8h22.6m  Set  : 16h38.3m  Transit: 12h30m15s
-        az=124.9°        az=235.2°          Altitude=17.1° Sgr
-Dawn  :  7h02m    Dusk : 17h59m    Day    :  8h15.7m
-13 Jan 2019	Rise  :  8h21.9m  Set  : 16h39.8m  Transit: 12h30m38s
-        az=124.6°        az=235.5°          Altitude=17.3° Sgr
-Dawn  :  7h02m    Dusk : 18h00m    Day    :  8h17.9m
-14 Jan 2019	Rise  :  8h21.1m  Set  : 16h41.3m  Transit: 12h31m00s
-        az=124.3°        az=235.8°          Altitude=17.4° Sgr
-Dawn  :  7h01m    Dusk : 18h01m    Day    :  8h20.1m
-15 Jan 2019	Rise  :  8h20.4m  Set  : 16h42.8m  Transit: 12h31m22s
-        az=124.0°        az=236.1°          Altitude=17.6° Sgr
-Dawn  :  7h00m    Dusk : 18h03m    Day    :  8h22.4m
-16 Jan 2019	Rise  :  8h19.5m  Set  : 16h44.3m  Transit: 12h31m43s
-        az=123.7°        az=236.5°          Altitude=17.8° Sgr
-Dawn  :  7h00m    Dusk : 18h04m    Day    :  8h24.8m
-17 Jan 2019	Rise  :  8h18.6m  Set  : 16h45.9m  Transit: 12h32m03s
-        az=123.3°        az=236.8°          Altitude=18.0° Sgr
-Dawn  :  6h59m    Dusk : 18h05m    Day    :  8h27.3m
-18 Jan 2019	Rise  :  8h17.7m  Set  : 16h47.5m  Transit: 12h32m22s
-        az=123.0°        az=237.2°          Altitude=18.2° Sgr
-Dawn  :  6h58m    Dusk : 18h07m    Day    :  8h29.8m
-19 Jan 2019	Rise  :  8h16.7m  Set  : 16h49.1m  Transit: 12h32m41s
-        az=122.6°        az=237.5°          Altitude=18.4° Sgr
-Dawn  :  6h58m    Dusk : 18h08m    Day    :  8h32.4m
-20 Jan 2019	Rise  :  8h15.7m  Set  : 16h50.8m  Transit: 12h32m59s
-        az=122.2°        az=237.9°          Altitude=18.6° Sgr
-Dawn  :  6h57m    Dusk : 18h10m    Day    :  8h35.1m
-21 Jan 2019	Rise  :  8h14.6m  Set  : 16h52.4m  Transit: 12h33m16s
-        az=121.8°        az=238.3°          Altitude=18.8° Cap
-Dawn  :  6h56m    Dusk : 18h11m    Day    :  8h37.8m
-22 Jan 2019	Rise  :  8h13.5m  Set  : 16h54.1m  Transit: 12h33m32s
-        az=121.4°        az=238.7°          Altitude=19.1° Cap
-Dawn  :  6h55m    Dusk : 18h12m    Day    :  8h40.6m
-23 Jan 2019	Rise  :  8h12.4m  Set  : 16h55.8m  Transit: 12h33m48s
-        az=121.0°        az=239.1°          Altitude=19.3° Cap
-Dawn  :  6h54m    Dusk : 18h14m    Day    :  8h43.4m
-24 Jan 2019	Rise  :  8h11.2m  Set  : 16h57.5m  Transit: 12h34m03s
-        az=120.6°        az=239.5°          Altitude=19.5° Cap
-Dawn  :  6h53m    Dusk : 18h15m    Day    :  8h46.3m
-25 Jan 2019	Rise  :  8h09.9m  Set  : 16h59.2m  Transit: 12h34m17s
-        az=120.2°        az=240.0°          Altitude=19.8° Cap
-Dawn  :  6h52m    Dusk : 18h17m    Day    :  8h49.3m
-26 Jan 2019	Rise  :  8h08.6m  Set  : 17h00.9m  Transit: 12h34m31s
-        az=119.8°        az=240.4°          Altitude=20.0° Cap
-Dawn  :  6h51m    Dusk : 18h18m    Day    :  8h52.3m
-27 Jan 2019	Rise  :  8h07.3m  Set  : 17h02.7m  Transit: 12h34m43s
-        az=119.3°        az=240.9°          Altitude=20.3° Cap
-Dawn  :  6h50m    Dusk : 18h20m    Day    :  8h55.4m
-28 Jan 2019	Rise  :  8h06.0m  Set  : 17h04.4m  Transit: 12h34m55s
-        az=118.9°        az=241.3°          Altitude=20.5° Cap
-Dawn  :  6h49m    Dusk : 18h21m    Day    :  8h58.5m
-29 Jan 2019	Rise  :  8h04.6m  Set  : 17h06.2m  Transit: 12h35m06s
-        az=118.4°        az=241.8°          Altitude=20.8° Cap
-Dawn  :  6h48m    Dusk : 18h23m    Day    :  9h01.6m
-30 Jan 2019	Rise  :  8h03.2m  Set  : 17h08.0m  Transit: 12h35m16s
-        az=117.9°        az=242.2°          Altitude=21.1° Cap
-Dawn  :  6h47m    Dusk : 18h25m    Day    :  9h04.8m
-31 Jan 2019	Rise  :  8h01.7m  Set  : 17h09.8m  Transit: 12h35m26s
-        az=117.5°        az=242.7°          Altitude=21.4° Cap
-Dawn  :  6h45m    Dusk : 18h26m    Day    :  9h08.1m
-1 Feb 2019	Rise  :  8h00.2m  Set  : 17h11.6m  Transit: 12h35m34s
-        az=117.0°        az=243.2°          Altitude=21.6° Cap
-Dawn  :  6h44m    Dusk : 18h28m    Day    :  9h11.4m
-2 Feb 2019	Rise  :  7h58.7m  Set  : 17h13.4m  Transit: 12h35m42s
-        az=116.5°        az=243.7°          Altitude=21.9° Cap
-Dawn  :  6h43m    Dusk : 18h29m    Day    :  9h14.7m
-3 Feb 2019	Rise  :  7h57.1m  Set  : 17h15.2m  Transit: 12h35m49s
-        az=116.0°        az=244.2°          Altitude=22.2° Cap
-Dawn  :  6h42m    Dusk : 18h31m    Day    :  9h18.1m
-4 Feb 2019	Rise  :  7h55.5m  Set  : 17h17.0m  Transit: 12h35m55s
-        az=115.5°        az=244.7°          Altitude=22.5° Cap
-Dawn  :  6h40m    Dusk : 18h32m    Day    :  9h21.5m
-5 Feb 2019	Rise  :  7h53.9m  Set  : 17h18.8m  Transit: 12h36m01s
-        az=115.0°        az=245.2°          Altitude=22.8° Cap
-Dawn  :  6h39m    Dusk : 18h34m    Day    :  9h24.9m
-6 Feb 2019	Rise  :  7h52.2m  Set  : 17h20.6m  Transit: 12h36m05s
-        az=114.5°        az=245.7°          Altitude=23.1° Cap
-Dawn  :  6h37m    Dusk : 18h36m    Day    :  9h28.4m
-7 Feb 2019	Rise  :  7h50.6m  Set  : 17h22.4m  Transit: 12h36m09s
-        az=113.9°        az=246.3°          Altitude=23.4° Cap
-Dawn  :  6h36m    Dusk : 18h37m    Day    :  9h31.9m
-8 Feb 2019	Rise  :  7h48.9m  Set  : 17h24.3m  Transit: 12h36m12s
-        az=113.4°        az=246.8°          Altitude=23.7° Cap
-Dawn  :  6h34m    Dusk : 18h39m    Day    :  9h35.4m
-9 Feb 2019	Rise  :  7h47.1m  Set  : 17h26.1m  Transit: 12h36m14s
-        az=112.9°        az=247.3°          Altitude=24.1° Cap
-Dawn  :  6h33m    Dusk : 18h40m    Day    :  9h39.0m
-10 Feb 2019	Rise  :  7h45.3m  Set  : 17h27.9m  Transit: 12h36m15s
-        az=112.3°        az=247.9°          Altitude=24.4° Cap
-Dawn  :  6h31m    Dusk : 18h42m    Day    :  9h42.5m
-11 Feb 2019	Rise  :  7h43.6m  Set  : 17h29.7m  Transit: 12h36m16s
-        az=111.8°        az=248.4°          Altitude=24.7° Cap
-Dawn  :  6h30m    Dusk : 18h44m    Day    :  9h46.2m
-12 Feb 2019	Rise  :  7h41.7m  Set  : 17h31.5m  Transit: 12h36m16s
-        az=111.3°        az=249.0°          Altitude=25.0° Cap
-Dawn  :  6h28m    Dusk : 18h45m    Day    :  9h49.8m
-13 Feb 2019	Rise  :  7h39.9m  Set  : 17h33.3m  Transit: 12h36m15s
-        az=110.7°        az=249.5°          Altitude=25.4° Cap
-Dawn  :  6h26m    Dusk : 18h47m    Day    :  9h53.4m
-14 Feb 2019	Rise  :  7h38.0m  Set  : 17h35.2m  Transit: 12h36m13s
-        az=110.1°        az=250.1°          Altitude=25.7° Cap
-Dawn  :  6h25m    Dusk : 18h49m    Day    :  9h57.1m
-15 Feb 2019	Rise  :  7h36.2m  Set  : 17h37.0m  Transit: 12h36m10s
-        az=109.6°        az=250.7°          Altitude=26.0° Cap
-Dawn  :  6h23m    Dusk : 18h50m    Day    : 10h00.8m
-16 Feb 2019	Rise  :  7h34.2m  Set  : 17h38.8m  Transit: 12h36m07s
-        az=109.0°        az=251.2°          Altitude=26.4° Cap
-Dawn  :  6h21m    Dusk : 18h52m    Day    : 10h04.5m
-17 Feb 2019	Rise  :  7h32.3m  Set  : 17h40.6m  Transit: 12h36m03s
-        az=108.4°        az=251.8°          Altitude=26.7° Aqr
-Dawn  :  6h19m    Dusk : 18h54m    Day    : 10h08.3m
-18 Feb 2019	Rise  :  7h30.4m  Set  : 17h42.4m  Transit: 12h35m59s
-        az=107.9°        az=252.4°          Altitude=27.1° Aqr
-Dawn  :  6h18m    Dusk : 18h55m    Day    : 10h12.0m
-19 Feb 2019	Rise  :  7h28.4m  Set  : 17h44.2m  Transit: 12h35m53s
-        az=107.3°        az=253.0°          Altitude=27.4° Aqr
-Dawn  :  6h16m    Dusk : 18h57m    Day    : 10h15.8m
-20 Feb 2019	Rise  :  7h26.4m  Set  : 17h46.0m  Transit: 12h35m47s
-        az=106.7°        az=253.6°          Altitude=27.8° Aqr
-Dawn  :  6h14m    Dusk : 18h59m    Day    : 10h19.6m
-21 Feb 2019	Rise  :  7h24.4m  Set  : 17h47.8m  Transit: 12h35m40s
-        az=106.1°        az=254.2°          Altitude=28.2° Aqr
-Dawn  :  6h12m    Dusk : 19h00m    Day    : 10h23.4m
-22 Feb 2019	Rise  :  7h22.4m  Set  : 17h49.6m  Transit: 12h35m33s
-        az=105.5°        az=254.8°          Altitude=28.5° Aqr
-Dawn  :  6h10m    Dusk : 19h02m    Day    : 10h27.2m
-23 Feb 2019	Rise  :  7h20.3m  Set  : 17h51.3m  Transit: 12h35m25s
-        az=104.9°        az=255.3°          Altitude=28.9° Aqr
-Dawn  :  6h08m    Dusk : 19h04m    Day    : 10h31.0m
-24 Feb 2019	Rise  :  7h18.3m  Set  : 17h53.1m  Transit: 12h35m17s
-        az=104.3°        az=255.9°          Altitude=29.3° Aqr
-Dawn  :  6h06m    Dusk : 19h05m    Day    : 10h34.8m
-25 Feb 2019	Rise  :  7h16.2m  Set  : 17h54.9m  Transit: 12h35m07s
-        az=103.7°        az=256.6°          Altitude=29.6° Aqr
-Dawn  :  6h04m    Dusk : 19h07m    Day    : 10h38.7m
-26 Feb 2019	Rise  :  7h14.1m  Set  : 17h56.7m  Transit: 12h34m58s
-        az=103.1°        az=257.2°          Altitude=30.0° Aqr
-Dawn  :  6h02m    Dusk : 19h09m    Day    : 10h42.5m
-27 Feb 2019	Rise  :  7h12.0m  Set  : 17h58.4m  Transit: 12h34m48s
-        az=102.5°        az=257.8°          Altitude=30.4° Aqr
-Dawn  :  6h00m    Dusk : 19h10m    Day    : 10h46.4m
-28 Feb 2019	Rise  :  7h09.9m  Set  : 18h00.2m  Transit: 12h34m37s
-        az=101.9°        az=258.4°          Altitude=30.8° Aqr
-Dawn  :  5h58m    Dusk : 19h12m    Day    : 10h50.3m
-1 Mar 2019	Rise  :  7h07.8m  Set  : 18h01.9m  Transit: 12h34m26s
-        az=101.3°        az=259.0°          Altitude=31.1° Aqr
-Dawn  :  5h56m    Dusk : 19h14m    Day    : 10h54.1m
-2 Mar 2019	Rise  :  7h05.7m  Set  : 18h03.7m  Transit: 12h34m14s
-        az=100.7°        az=259.6°          Altitude=31.5° Aqr
-Dawn  :  5h54m    Dusk : 19h16m    Day    : 10h58.0m
-3 Mar 2019	Rise  :  7h03.5m  Set  : 18h05.4m  Transit: 12h34m02s
-        az=100.1°        az=260.2°          Altitude=31.9° Aqr
-Dawn  :  5h52m    Dusk : 19h17m    Day    : 11h01.9m
-4 Mar 2019	Rise  :  7h01.3m  Set  : 18h07.2m  Transit: 12h33m49s
-        az= 99.4°        az=260.9°          Altitude=32.3° Aqr
-Dawn  :  5h50m    Dusk : 19h19m    Day    : 11h05.8m
-5 Mar 2019	Rise  :  6h59.2m  Set  : 18h08.9m  Transit: 12h33m36s
-        az= 98.8°        az=261.5°          Altitude=32.7° Aqr
-Dawn  :  5h48m    Dusk : 19h21m    Day    : 11h09.8m
-6 Mar 2019	Rise  :  6h57.0m  Set  : 18h10.7m  Transit: 12h33m22s
-        az= 98.2°        az=262.1°          Altitude=33.0° Aqr
-Dawn  :  5h45m    Dusk : 19h22m    Day    : 11h13.7m
-7 Mar 2019	Rise  :  6h54.8m  Set  : 18h12.4m  Transit: 12h33m08s
-        az= 97.6°        az=262.7°          Altitude=33.4° Aqr
-Dawn  :  5h43m    Dusk : 19h24m    Day    : 11h17.6m
-8 Mar 2019	Rise  :  6h52.6m  Set  : 18h14.1m  Transit: 12h32m54s
-        az= 96.9°        az=263.3°          Altitude=33.8° Aqr
-Dawn  :  5h41m    Dusk : 19h26m    Day    : 11h21.5m
-9 Mar 2019	Rise  :  6h50.4m  Set  : 18h15.8m  Transit: 12h32m39s
-        az= 96.3°        az=264.0°          Altitude=34.2° Aqr
-Dawn  :  5h39m    Dusk : 19h28m    Day    : 11h25.4m
-10 Mar 2019	Rise  :  6h48.2m  Set  : 18h17.6m  Transit: 12h32m24s
-        az= 95.7°        az=264.6°          Altitude=34.6° Aqr
-Dawn  :  5h37m    Dusk : 19h29m    Day    : 11h29.4m
-11 Mar 2019	Rise  :  6h46.0m  Set  : 18h19.3m  Transit: 12h32m08s
-        az= 95.1°        az=265.2°          Altitude=35.0° Aqr
-Dawn  :  5h34m    Dusk : 19h31m    Day    : 11h33.3m
-12 Mar 2019	Rise  :  6h43.7m  Set  : 18h21.0m  Transit: 12h31m53s
-        az= 94.4°        az=265.9°          Altitude=35.4° Aqr
-Dawn  :  5h32m    Dusk : 19h33m    Day    : 11h37.2m
-13 Mar 2019	Rise  :  6h41.5m  Set  : 18h22.7m  Transit: 12h31m37s
-        az= 93.8°        az=266.5°          Altitude=35.8° Psc
-Dawn  :  5h30m    Dusk : 19h35m    Day    : 11h41.2m
-14 Mar 2019	Rise  :  6h39.3m  Set  : 18h24.4m  Transit: 12h31m20s
-        az= 93.2°        az=267.1°          Altitude=36.2° Psc
-Dawn  :  5h28m    Dusk : 19h36m    Day    : 11h45.1m
-15 Mar 2019	Rise  :  6h37.0m  Set  : 18h26.1m  Transit: 12h31m03s
-        az= 92.6°        az=267.8°          Altitude=36.6° Psc
-Dawn  :  5h25m    Dusk : 19h38m    Day    : 11h49.1m
-16 Mar 2019	Rise  :  6h34.8m  Set  : 18h27.8m  Transit: 12h30m47s
-        az= 91.9°        az=268.4°          Altitude=37.0° Psc
-Dawn  :  5h23m    Dusk : 19h40m    Day    : 11h53.0m
-17 Mar 2019	Rise  :  6h32.5m  Set  : 18h29.5m  Transit: 12h30m29s
-        az= 91.3°        az=269.0°          Altitude=37.4° Psc
-Dawn  :  5h21m    Dusk : 19h42m    Day    : 11h57.0m
-18 Mar 2019	Rise  :  6h30.2m  Set  : 18h31.1m  Transit: 12h30m12s
-        az= 90.7°        az=269.7°          Altitude=37.8° Psc
-Dawn  :  5h18m    Dusk : 19h43m    Day    : 12h00.9m
-19 Mar 2019	Rise  :  6h28.0m  Set  : 18h32.8m  Transit: 12h29m54s
-        az= 90.0°        az=270.3°          Altitude=38.2° Psc
-Dawn  :  5h16m    Dusk : 19h45m    Day    : 12h04.8m
-20 Mar 2019	Rise  :  6h25.7m  Set  : 18h34.5m  Transit: 12h29m37s
-        az= 89.4°        az=270.9°          Altitude=38.5° Psc
-Dawn  :  5h14m    Dusk : 19h47m    Day    : 12h08.8m
-21 Mar 2019	Rise  :  6h23.4m  Set  : 18h36.2m  Transit: 12h29m19s
-        az= 88.8°        az=271.6°          Altitude=38.9° Psc
-Dawn  :  5h11m    Dusk : 19h49m    Day    : 12h12.7m
-22 Mar 2019	Rise  :  6h21.2m  Set  : 18h37.9m  Transit: 12h29m01s
-        az= 88.1°        az=272.2°          Altitude=39.3° Psc
-Dawn  :  5h09m    Dusk : 19h51m    Day    : 12h16.7m
-23 Mar 2019	Rise  :  6h18.9m  Set  : 18h39.5m  Transit: 12h28m43s
-        az= 87.5°        az=272.8°          Altitude=39.7° Psc
-Dawn  :  5h06m    Dusk : 19h52m    Day    : 12h20.6m
-24 Mar 2019	Rise  :  6h16.6m  Set  : 18h41.2m  Transit: 12h28m25s
-        az= 86.9°        az=273.5°          Altitude=40.1° Psc
-Dawn  :  5h04m    Dusk : 19h54m    Day    : 12h24.6m
-25 Mar 2019	Rise  :  6h14.4m  Set  : 18h42.9m  Transit: 12h28m07s
-        az= 86.2°        az=274.1°          Altitude=40.5° Psc
-Dawn  :  5h02m    Dusk : 19h56m    Day    : 12h28.5m
-26 Mar 2019	Rise  :  6h12.1m  Set  : 18h44.5m  Transit: 12h27m48s
-        az= 85.6°        az=274.7°          Altitude=40.9° Psc
-Dawn  :  4h59m    Dusk : 19h58m    Day    : 12h32.4m
-27 Mar 2019	Rise  :  6h09.8m  Set  : 18h46.2m  Transit: 12h27m30s
-        az= 85.0°        az=275.3°          Altitude=41.3° Psc
-Dawn  :  4h57m    Dusk : 20h00m    Day    : 12h36.4m
-28 Mar 2019	Rise  :  6h07.6m  Set  : 18h47.9m  Transit: 12h27m12s
-        az= 84.4°        az=276.0°          Altitude=41.7° Psc
-Dawn  :  4h54m    Dusk : 20h02m    Day    : 12h40.3m
-29 Mar 2019	Rise  :  6h05.3m  Set  : 18h49.5m  Transit: 12h26m54s
-        az= 83.7°        az=276.6°          Altitude=42.1° Psc
-Dawn  :  4h52m    Dusk : 20h03m    Day    : 12h44.2m
-30 Mar 2019	Rise  :  6h03.1m  Set  : 18h51.2m  Transit: 12h26m36s
-        az= 83.1°        az=277.2°          Altitude=42.5° Psc
-Dawn  :  4h49m    Dusk : 20h05m    Day    : 12h48.1m
-31 Mar 2019	Rise  :  7h00.8m  Set  : 19h52.9m  Transit: 13h26m18s
-        az= 82.5°        az=277.8°          Altitude=42.9° Psc
-Dawn  :  5h47m    Dusk : 21h07m    Day    : 12h52.1m
-1 Apr 2019	Rise  :  6h58.5m  Set  : 19h54.5m  Transit: 13h26m00s
-        az= 81.9°        az=278.5°          Altitude=43.2° Psc
-Dawn  :  5h44m    Dusk : 21h09m    Day    : 12h56.0m
-2 Apr 2019	Rise  :  6h56.3m  Set  : 19h56.2m  Transit: 13h25m43s
-        az= 81.2°        az=279.1°          Altitude=43.6° Psc
-Dawn  :  5h42m    Dusk : 21h11m    Day    : 12h59.9m
-3 Apr 2019	Rise  :  6h54.1m  Set  : 19h57.8m  Transit: 13h25m25s
-        az= 80.6°        az=279.7°          Altitude=44.0° Psc
-Dawn  :  5h39m    Dusk : 21h13m    Day    : 13h03.8m
-4 Apr 2019	Rise  :  6h51.8m  Set  : 19h59.5m  Transit: 13h25m08s
-        az= 80.0°        az=280.3°          Altitude=44.4° Psc
-Dawn  :  5h37m    Dusk : 21h15m    Day    : 13h07.7m
-5 Apr 2019	Rise  :  6h49.6m  Set  : 20h01.2m  Transit: 13h24m50s
-        az= 79.4°        az=280.9°          Altitude=44.8° Psc
-Dawn  :  5h34m    Dusk : 21h17m    Day    : 13h11.6m
-6 Apr 2019	Rise  :  6h47.4m  Set  : 20h02.8m  Transit: 13h24m33s
-        az= 78.8°        az=281.6°          Altitude=45.2° Psc
-Dawn  :  5h32m    Dusk : 21h19m    Day    : 13h15.5m
-7 Apr 2019	Rise  :  6h45.1m  Set  : 20h04.5m  Transit: 13h24m16s
-        az= 78.2°        az=282.2°          Altitude=45.5° Psc
-Dawn  :  5h29m    Dusk : 21h21m    Day    : 13h19.4m
-8 Apr 2019	Rise  :  6h42.9m  Set  : 20h06.2m  Transit: 13h24m00s
-        az= 77.6°        az=282.8°          Altitude=45.9° Psc
-Dawn  :  5h27m    Dusk : 21h23m    Day    : 13h23.2m
-9 Apr 2019	Rise  :  6h40.7m  Set  : 20h07.8m  Transit: 13h23m43s
-        az= 76.9°        az=283.4°          Altitude=46.3° Psc
-Dawn  :  5h24m    Dusk : 21h25m    Day    : 13h27.1m
-10 Apr 2019	Rise  :  6h38.5m  Set  : 20h09.5m  Transit: 13h23m27s
-        az= 76.3°        az=284.0°          Altitude=46.7° Psc
-Dawn  :  5h22m    Dusk : 21h27m    Day    : 13h31.0m
-11 Apr 2019	Rise  :  6h36.3m  Set  : 20h11.1m  Transit: 13h23m11s
-        az= 75.7°        az=284.6°          Altitude=47.0° Psc
-Dawn  :  5h19m    Dusk : 21h29m    Day    : 13h34.8m
-12 Apr 2019	Rise  :  6h34.2m  Set  : 20h12.8m  Transit: 13h22m56s
-        az= 75.1°        az=285.2°          Altitude=47.4° Psc
-Dawn  :  5h17m    Dusk : 21h31m    Day    : 13h38.6m
-13 Apr 2019	Rise  :  6h32.0m  Set  : 20h14.4m  Transit: 13h22m40s
-        az= 74.5°        az=285.8°          Altitude=47.7° Psc
-Dawn  :  5h14m    Dusk : 21h33m    Day    : 13h42.5m
-14 Apr 2019	Rise  :  6h29.8m  Set  : 20h16.1m  Transit: 13h22m25s
-        az= 74.0°        az=286.4°          Altitude=48.1° Psc
-Dawn  :  5h12m    Dusk : 21h35m    Day    : 13h46.3m
-15 Apr 2019	Rise  :  6h27.7m  Set  : 20h17.8m  Transit: 13h22m10s
-        az= 73.4°        az=287.0°          Altitude=48.5° Psc
-Dawn  :  5h09m    Dusk : 21h37m    Day    : 13h50.1m
-16 Apr 2019	Rise  :  6h25.5m  Set  : 20h19.4m  Transit: 13h21m56s
-        az= 72.8°        az=287.6°          Altitude=48.8° Psc
-Dawn  :  5h06m    Dusk : 21h39m    Day    : 13h53.9m
-17 Apr 2019	Rise  :  6h23.4m  Set  : 20h21.1m  Transit: 13h21m42s
-        az= 72.2°        az=288.1°          Altitude=49.2° Psc
-Dawn  :  5h04m    Dusk : 21h41m    Day    : 13h57.7m
-18 Apr 2019	Rise  :  6h21.3m  Set  : 20h22.7m  Transit: 13h21m28s
-        az= 71.6°        az=288.7°          Altitude=49.5° Psc
-Dawn  :  5h01m    Dusk : 21h43m    Day    : 14h01.4m
-19 Apr 2019	Rise  :  6h19.2m  Set  : 20h24.4m  Transit: 13h21m15s
-        az= 71.0°        az=289.3°          Altitude=49.9° Psc
-Dawn  :  4h59m    Dusk : 21h45m    Day    : 14h05.2m
-20 Apr 2019	Rise  :  6h17.1m  Set  : 20h26.0m  Transit: 13h21m02s
-        az= 70.5°        az=289.9°          Altitude=50.2° Ari
-Dawn  :  4h56m    Dusk : 21h47m    Day    : 14h08.9m
-21 Apr 2019	Rise  :  6h15.1m  Set  : 20h27.7m  Transit: 13h20m49s
-        az= 69.9°        az=290.4°          Altitude=50.6° Ari
-Dawn  :  4h54m    Dusk : 21h50m    Day    : 14h12.6m
-22 Apr 2019	Rise  :  6h13.0m  Set  : 20h29.3m  Transit: 13h20m37s
-        az= 69.3°        az=291.0°          Altitude=50.9° Ari
-Dawn  :  4h51m    Dusk : 21h52m    Day    : 14h16.3m
-23 Apr 2019	Rise  :  6h11.0m  Set  : 20h31.0m  Transit: 13h20m26s
-        az= 68.8°        az=291.6°          Altitude=51.2° Ari
-Dawn  :  4h49m    Dusk : 21h54m    Day    : 14h20.0m
-24 Apr 2019	Rise  :  6h09.0m  Set  : 20h32.6m  Transit: 13h20m15s
-        az= 68.2°        az=292.1°          Altitude=51.6° Ari
-Dawn  :  4h46m    Dusk : 21h56m    Day    : 14h23.7m
-25 Apr 2019	Rise  :  6h07.0m  Set  : 20h34.3m  Transit: 13h20m04s
-        az= 67.7°        az=292.7°          Altitude=51.9° Ari
-Dawn  :  4h44m    Dusk : 21h58m    Day    : 14h27.3m
-26 Apr 2019	Rise  :  6h05.0m  Set  : 20h35.9m  Transit: 13h19m54s
-        az= 67.1°        az=293.2°          Altitude=52.2° Ari
-Dawn  :  4h41m    Dusk : 22h00m    Day    : 14h30.9m
-27 Apr 2019	Rise  :  6h03.0m  Set  : 20h37.6m  Transit: 13h19m44s
-        az= 66.6°        az=293.8°          Altitude=52.5° Ari
-Dawn  :  4h39m    Dusk : 22h03m    Day    : 14h34.6m
-28 Apr 2019	Rise  :  6h01.1m  Set  : 20h39.2m  Transit: 13h19m35s
-        az= 66.0°        az=294.3°          Altitude=52.9° Ari
-Dawn  :  4h36m    Dusk : 22h05m    Day    : 14h38.1m
-29 Apr 2019	Rise  :  5h59.1m  Set  : 20h40.8m  Transit: 13h19m27s
-        az= 65.5°        az=294.8°          Altitude=53.2° Ari
-Dawn  :  4h34m    Dusk : 22h07m    Day    : 14h41.7m
-30 Apr 2019	Rise  :  5h57.2m  Set  : 20h42.5m  Transit: 13h19m19s
-        az= 65.0°        az=295.4°          Altitude=53.5° Ari
-Dawn  :  4h31m    Dusk : 22h09m    Day    : 14h45.2m
-1 May 2019	Rise  :  5h55.4m  Set  : 20h44.1m  Transit: 13h19m11s
-        az= 64.4°        az=295.9°          Altitude=53.8° Ari
-Dawn  :  4h29m    Dusk : 22h11m    Day    : 14h48.7m
-2 May 2019	Rise  :  5h53.5m  Set  : 20h45.7m  Transit: 13h19m04s
-        az= 63.9°        az=296.4°          Altitude=54.1° Ari
-Dawn  :  4h26m    Dusk : 22h14m    Day    : 14h52.2m
-3 May 2019	Rise  :  5h51.7m  Set  : 20h47.3m  Transit: 13h18m58s
-        az= 63.4°        az=296.9°          Altitude=54.4° Ari
-Dawn  :  4h24m    Dusk : 22h16m    Day    : 14h55.7m
-4 May 2019	Rise  :  5h49.8m  Set  : 20h49.0m  Transit: 13h18m52s
-        az= 62.9°        az=297.4°          Altitude=54.7° Ari
-Dawn  :  4h21m    Dusk : 22h18m    Day    : 14h59.1m
-5 May 2019	Rise  :  5h48.1m  Set  : 20h50.6m  Transit: 13h18m47s
-        az= 62.4°        az=297.9°          Altitude=55.0° Ari
-Dawn  :  4h19m    Dusk : 22h21m    Day    : 15h02.5m
-6 May 2019	Rise  :  5h46.3m  Set  : 20h52.2m  Transit: 13h18m42s
-        az= 61.9°        az=298.4°          Altitude=55.2° Ari
-Dawn  :  4h16m    Dusk : 22h23m    Day    : 15h05.9m
-7 May 2019	Rise  :  5h44.6m  Set  : 20h53.7m  Transit: 13h18m38s
-        az= 61.4°        az=298.9°          Altitude=55.5° Ari
-Dawn  :  4h14m    Dusk : 22h25m    Day    : 15h09.2m
-8 May 2019	Rise  :  5h42.8m  Set  : 20h55.3m  Transit: 13h18m34s
-        az= 61.0°        az=299.4°          Altitude=55.8° Ari
-Dawn  :  4h12m    Dusk : 22h27m    Day    : 15h12.5m
-9 May 2019	Rise  :  5h41.2m  Set  : 20h56.9m  Transit: 13h18m31s
-        az= 60.5°        az=299.8°          Altitude=56.1° Ari
-Dawn  :  4h09m    Dusk : 22h30m    Day    : 15h15.7m
-10 May 2019	Rise  :  5h39.5m  Set  : 20h58.5m  Transit: 13h18m29s
-        az= 60.0°        az=300.3°          Altitude=56.3° Ari
-Dawn  :  4h07m    Dusk : 22h32m    Day    : 15h19.0m
-11 May 2019	Rise  :  5h37.9m  Set  : 21h00.0m  Transit: 13h18m27s
-        az= 59.5°        az=300.7°          Altitude=56.6° Ari
-Dawn  :  4h04m    Dusk : 22h34m    Day    : 15h22.1m
-12 May 2019	Rise  :  5h36.3m  Set  : 21h01.6m  Transit: 13h18m25s
-        az= 59.1°        az=301.2°          Altitude=56.8° Ari
-Dawn  :  4h02m    Dusk : 22h37m    Day    : 15h25.3m
-13 May 2019	Rise  :  5h34.7m  Set  : 21h03.1m  Transit: 13h18m25s
-        az= 58.7°        az=301.6°          Altitude=57.1° Ari
-Dawn  :  4h00m    Dusk : 22h39m    Day    : 15h28.4m
-14 May 2019	Rise  :  5h33.2m  Set  : 21h04.6m  Transit: 13h18m24s
-        az= 58.2°        az=302.1°          Altitude=57.3° Ari
-Dawn  :  3h57m    Dusk : 22h41m    Day    : 15h31.4m
-15 May 2019	Rise  :  5h31.7m  Set  : 21h06.1m  Transit: 13h18m25s
-        az= 57.8°        az=302.5°          Altitude=57.6° Tau
-Dawn  :  3h55m    Dusk : 22h43m    Day    : 15h34.4m
-16 May 2019	Rise  :  5h30.2m  Set  : 21h07.6m  Transit: 13h18m25s
-        az= 57.4°        az=302.9°          Altitude=57.8° Tau
-Dawn  :  3h53m    Dusk : 22h46m    Day    : 15h37.3m
-17 May 2019	Rise  :  5h28.8m  Set  : 21h09.0m  Transit: 13h18m27s
-        az= 57.0°        az=303.3°          Altitude=58.0° Tau
-Dawn  :  3h51m    Dusk : 22h48m    Day    : 15h40.2m
-18 May 2019	Rise  :  5h27.4m  Set  : 21h10.5m  Transit: 13h18m29s
-        az= 56.5°        az=303.7°          Altitude=58.3° Tau
-Dawn  :  3h48m    Dusk : 22h50m    Day    : 15h43.1m
-19 May 2019	Rise  :  5h26.0m  Set  : 21h11.9m  Transit: 13h18m31s
-        az= 56.2°        az=304.1°          Altitude=58.5° Tau
-Dawn  :  3h46m    Dusk : 22h53m    Day    : 15h45.9m
-20 May 2019	Rise  :  5h24.7m  Set  : 21h13.3m  Transit: 13h18m34s
-        az= 55.8°        az=304.5°          Altitude=58.7° Tau
-Dawn  :  3h44m    Dusk : 22h55m    Day    : 15h48.6m
-21 May 2019	Rise  :  5h23.4m  Set  : 21h14.7m  Transit: 13h18m38s
-        az= 55.4°        az=304.9°          Altitude=58.9° Tau
-Dawn  :  3h42m    Dusk : 22h57m    Day    : 15h51.3m
-22 May 2019	Rise  :  5h22.2m  Set  : 21h16.1m  Transit: 13h18m42s
-        az= 55.0°        az=305.2°          Altitude=59.1° Tau
-Dawn  :  3h40m    Dusk : 22h59m    Day    : 15h53.9m
-23 May 2019	Rise  :  5h21.0m  Set  : 21h17.4m  Transit: 13h18m46s
-        az= 54.7°        az=305.6°          Altitude=59.3° Tau
-Dawn  :  3h38m    Dusk : 23h01m    Day    : 15h56.5m
-24 May 2019	Rise  :  5h19.8m  Set  : 21h18.8m  Transit: 13h18m52s
-        az= 54.3°        az=305.9°          Altitude=59.5° Tau
-Dawn  :  3h36m    Dusk : 23h04m    Day    : 15h59.0m
-25 May 2019	Rise  :  5h18.7m  Set  : 21h20.1m  Transit: 13h18m57s
-        az= 54.0°        az=306.3°          Altitude=59.7° Tau
-Dawn  :  3h34m    Dusk : 23h06m    Day    : 16h01.4m
-26 May 2019	Rise  :  5h17.6m  Set  : 21h21.3m  Transit: 13h19m04s
-        az= 53.6°        az=306.6°          Altitude=59.8° Tau
-Dawn  :  3h32m    Dusk : 23h08m    Day    : 16h03.8m
-27 May 2019	Rise  :  5h16.5m  Set  : 21h22.6m  Transit: 13h19m10s
-        az= 53.3°        az=306.9°          Altitude=60.0° Tau
-Dawn  :  3h30m    Dusk : 23h10m    Day    : 16h06.1m
-28 May 2019	Rise  :  5h15.5m  Set  : 21h23.8m  Transit: 13h19m17s
-        az= 53.0°        az=307.2°          Altitude=60.2° Tau
-Dawn  :  3h28m    Dusk : 23h12m    Day    : 16h08.3m
-29 May 2019	Rise  :  5h14.6m  Set  : 21h25.0m  Transit: 13h19m25s
-        az= 52.7°        az=307.5°          Altitude=60.3° Tau
-Dawn  :  3h26m    Dusk : 23h14m    Day    : 16h10.4m
-30 May 2019	Rise  :  5h13.6m  Set  : 21h26.2m  Transit: 13h19m33s
-        az= 52.4°        az=307.8°          Altitude=60.5° Tau
-Dawn  :  3h25m    Dusk : 23h16m    Day    : 16h12.5m
-31 May 2019	Rise  :  5h12.8m  Set  : 21h27.3m  Transit: 13h19m42s
-        az= 52.1°        az=308.0°          Altitude=60.6° Tau
-Dawn  :  3h23m    Dusk : 23h18m    Day    : 16h14.5m
-1 Jun 2019	Rise  :  5h11.9m  Set  : 21h28.4m  Transit: 13h19m51s
-        az= 51.9°        az=308.3°          Altitude=60.8° Tau
-Dawn  :  3h21m    Dusk : 23h20m    Day    : 16h16.4m
-2 Jun 2019	Rise  :  5h11.2m  Set  : 21h29.4m  Transit: 13h20m00s
-        az= 51.6°        az=308.5°          Altitude=60.9° Tau
-Dawn  :  3h20m    Dusk : 23h22m    Day    : 16h18.3m
-3 Jun 2019	Rise  :  5h10.4m  Set  : 21h30.5m  Transit: 13h20m10s
-        az= 51.4°        az=308.8°          Altitude=61.0° Tau
-Dawn  :  3h18m    Dusk : 23h23m    Day    : 16h20.0m
-4 Jun 2019	Rise  :  5h09.8m  Set  : 21h31.5m  Transit: 13h20m20s
-        az= 51.1°        az=309.0°          Altitude=61.1° Tau
-Dawn  :  3h17m    Dusk : 23h25m    Day    : 16h21.7m
-5 Jun 2019	Rise  :  5h09.1m  Set  : 21h32.4m  Transit: 13h20m31s
-        az= 50.9°        az=309.2°          Altitude=61.2° Tau
-Dawn  :  3h15m    Dusk : 23h27m    Day    : 16h23.3m
-6 Jun 2019	Rise  :  5h08.5m  Set  : 21h33.3m  Transit: 13h20m41s
-        az= 50.7°        az=309.4°          Altitude=61.4° Tau
-Dawn  :  3h14m    Dusk : 23h28m    Day    : 16h24.8m
-7 Jun 2019	Rise  :  5h08.0m  Set  : 21h34.2m  Transit: 13h20m53s
-        az= 50.5°        az=309.6°          Altitude=61.5° Tau
-Dawn  :  3h13m    Dusk : 23h30m    Day    : 16h26.2m
-8 Jun 2019	Rise  :  5h07.5m  Set  : 21h35.1m  Transit: 13h21m04s
-        az= 50.3°        az=309.8°          Altitude=61.5° Tau
-Dawn  :  3h12m    Dusk : 23h31m    Day    : 16h27.6m
-9 Jun 2019	Rise  :  5h07.1m  Set  : 21h35.9m  Transit: 13h21m16s
-        az= 50.2°        az=309.9°          Altitude=61.6° Tau
-Dawn  :  3h11m    Dusk : 23h33m    Day    : 16h28.8m
-10 Jun 2019	Rise  :  5h06.7m  Set  : 21h36.6m  Transit: 13h21m27s
-        az= 50.0°        az=310.1°          Altitude=61.7° Tau
-Dawn  :  3h10m    Dusk : 23h34m    Day    : 16h29.9m
-11 Jun 2019	Rise  :  5h06.3m  Set  : 21h37.3m  Transit: 13h21m39s
-        az= 49.9°        az=310.2°          Altitude=61.8° Tau
-Dawn  :  3h09m    Dusk : 23h35m    Day    : 16h31.0m
-12 Jun 2019	Rise  :  5h06.0m  Set  : 21h38.0m  Transit: 13h21m52s
-        az= 49.7°        az=310.3°          Altitude=61.9° Tau
-Dawn  :  3h08m    Dusk : 23h36m    Day    : 16h31.9m
-13 Jun 2019	Rise  :  5h05.8m  Set  : 21h38.6m  Transit: 13h22m04s
-        az= 49.6°        az=310.5°          Altitude=61.9° Tau
-Dawn  :  3h07m    Dusk : 23h37m    Day    : 16h32.8m
-14 Jun 2019	Rise  :  5h05.6m  Set  : 21h39.2m  Transit: 13h22m17s
-        az= 49.5°        az=310.6°          Altitude=62.0° Tau
-Dawn  :  3h07m    Dusk : 23h38m    Day    : 16h33.6m
-15 Jun 2019	Rise  :  5h05.5m  Set  : 21h39.7m  Transit: 13h22m29s
-        az= 49.4°        az=310.6°          Altitude=62.0° Tau
-Dawn  :  3h06m    Dusk : 23h39m    Day    : 16h34.2m
-16 Jun 2019	Rise  :  5h05.4m  Set  : 21h40.2m  Transit: 13h22m42s
-        az= 49.3°        az=310.7°          Altitude=62.1° Tau
-Dawn  :  3h06m    Dusk : 23h40m    Day    : 16h34.8m
-17 Jun 2019	Rise  :  5h05.4m  Set  : 21h40.6m  Transit: 13h22m55s
-        az= 49.3°        az=310.8°          Altitude=62.1° Tau
-Dawn  :  3h05m    Dusk : 23h41m    Day    : 16h35.3m
-18 Jun 2019	Rise  :  5h05.4m  Set  : 21h41.0m  Transit: 13h23m08s
-        az= 49.2°        az=310.8°          Altitude=62.1° Tau
-Dawn  :  3h05m    Dusk : 23h41m    Day    : 16h35.6m
-19 Jun 2019	Rise  :  5h05.4m  Set  : 21h41.3m  Transit: 13h23m21s
-        az= 49.2°        az=310.8°          Altitude=62.1° Tau
-Dawn  :  3h05m    Dusk : 23h42m    Day    : 16h35.9m
-20 Jun 2019	Rise  :  5h05.6m  Set  : 21h41.6m  Transit: 13h23m34s
-        az= 49.1°        az=310.9°          Altitude=62.1° Tau
-Dawn  :  3h05m    Dusk : 23h42m    Day    : 16h36.1m
-21 Jun 2019	Rise  :  5h05.7m  Set  : 21h41.8m  Transit: 13h23m47s
-        az= 49.1°        az=310.9°          Altitude=62.1° Tau
-Dawn  :  3h05m    Dusk : 23h42m    Day    : 16h36.1m
-22 Jun 2019	Rise  :  5h05.9m  Set  : 21h42.0m  Transit: 13h24m00s
-        az= 49.1°        az=310.9°          Altitude=62.1° Tau
-Dawn  :  3h05m    Dusk : 23h42m    Day    : 16h36.1m
-23 Jun 2019	Rise  :  5h06.2m  Set  : 21h42.2m  Transit: 13h24m13s
-        az= 49.1°        az=310.8°          Altitude=62.1° Gem
-Dawn  :  3h06m    Dusk : 23h42m    Day    : 16h36.0m
-24 Jun 2019	Rise  :  5h06.5m  Set  : 21h42.2m  Transit: 13h24m26s
-        az= 49.2°        az=310.8°          Altitude=62.1° Gem
-Dawn  :  3h06m    Dusk : 23h42m    Day    : 16h35.7m
-25 Jun 2019	Rise  :  5h06.9m  Set  : 21h42.3m  Transit: 13h24m38s
-        az= 49.2°        az=310.8°          Altitude=62.1° Gem
-Dawn  :  3h07m    Dusk : 23h42m    Day    : 16h35.4m
-26 Jun 2019	Rise  :  5h07.3m  Set  : 21h42.3m  Transit: 13h24m51s
-        az= 49.3°        az=310.7°          Altitude=62.1° Gem
-Dawn  :  3h07m    Dusk : 23h42m    Day    : 16h35.0m
-27 Jun 2019	Rise  :  5h07.7m  Set  : 21h42.2m  Transit: 13h25m04s
-        az= 49.3°        az=310.6°          Altitude=62.0° Gem
-Dawn  :  3h08m    Dusk : 23h42m    Day    : 16h34.4m
-28 Jun 2019	Rise  :  5h08.2m  Set  : 21h42.1m  Transit: 13h25m16s
-        az= 49.4°        az=310.5°          Altitude=62.0° Gem
-Dawn  :  3h09m    Dusk : 23h41m    Day    : 16h33.8m
-29 Jun 2019	Rise  :  5h08.8m  Set  : 21h41.9m  Transit: 13h25m28s
-        az= 49.5°        az=310.4°          Altitude=61.9° Gem
-Dawn  :  3h10m    Dusk : 23h41m    Day    : 16h33.1m
-30 Jun 2019	Rise  :  5h09.4m  Set  : 21h41.7m  Transit: 13h25m40s
-        az= 49.6°        az=310.3°          Altitude=61.9° Gem
-Dawn  :  3h11m    Dusk : 23h40m    Day    : 16h32.3m
-1 Jul 2019	Rise  :  5h10.0m  Set  : 21h41.4m  Transit: 13h25m52s
-        az= 49.7°        az=310.2°          Altitude=61.8° Gem
-Dawn  :  3h12m    Dusk : 23h39m    Day    : 16h31.4m
-2 Jul 2019	Rise  :  5h10.7m  Set  : 21h41.1m  Transit: 13h26m04s
-        az= 49.9°        az=310.0°          Altitude=61.7° Gem
-Dawn  :  3h13m    Dusk : 23h38m    Day    : 16h30.3m
-3 Jul 2019	Rise  :  5h11.4m  Set  : 21h40.7m  Transit: 13h26m15s
-        az= 50.0°        az=309.9°          Altitude=61.7° Gem
-Dawn  :  3h14m    Dusk : 23h37m    Day    : 16h29.2m
-4 Jul 2019	Rise  :  5h12.2m  Set  : 21h40.2m  Transit: 13h26m26s
-        az= 50.2°        az=309.7°          Altitude=61.6° Gem
-Dawn  :  3h16m    Dusk : 23h36m    Day    : 16h28.0m
-5 Jul 2019	Rise  :  5h13.0m  Set  : 21h39.8m  Transit: 13h26m37s
-        az= 50.3°        az=309.5°          Altitude=61.5° Gem
-Dawn  :  3h17m    Dusk : 23h35m    Day    : 16h26.8m
-6 Jul 2019	Rise  :  5h13.9m  Set  : 21h39.2m  Transit: 13h26m47s
-        az= 50.5°        az=309.4°          Altitude=61.4° Gem
-Dawn  :  3h19m    Dusk : 23h34m    Day    : 16h25.4m
-7 Jul 2019	Rise  :  5h14.7m  Set  : 21h38.7m  Transit: 13h26m57s
-        az= 50.7°        az=309.2°          Altitude=61.3° Gem
-Dawn  :  3h20m    Dusk : 23h33m    Day    : 16h23.9m
-8 Jul 2019	Rise  :  5h15.7m  Set  : 21h38.0m  Transit: 13h27m07s
-        az= 50.9°        az=308.9°          Altitude=61.2° Gem
-Dawn  :  3h22m    Dusk : 23h31m    Day    : 16h22.4m
-9 Jul 2019	Rise  :  5h16.6m  Set  : 21h37.3m  Transit: 13h27m16s
-        az= 51.1°        az=308.7°          Altitude=61.1° Gem
-Dawn  :  3h23m    Dusk : 23h30m    Day    : 16h20.7m
-10 Jul 2019	Rise  :  5h17.6m  Set  : 21h36.6m  Transit: 13h27m24s
-        az= 51.4°        az=308.5°          Altitude=60.9° Gem
-Dawn  :  3h25m    Dusk : 23h28m    Day    : 16h19.0m
-11 Jul 2019	Rise  :  5h18.6m  Set  : 21h35.8m  Transit: 13h27m33s
-        az= 51.6°        az=308.2°          Altitude=60.8° Gem
-Dawn  :  3h27m    Dusk : 23h27m    Day    : 16h17.2m
-12 Jul 2019	Rise  :  5h19.7m  Set  : 21h35.0m  Transit: 13h27m40s
-        az= 51.9°        az=308.0°          Altitude=60.7° Gem
-Dawn  :  3h29m    Dusk : 23h25m    Day    : 16h15.3m
-13 Jul 2019	Rise  :  5h20.8m  Set  : 21h34.1m  Transit: 13h27m48s
-        az= 52.1°        az=307.7°          Altitude=60.5° Gem
-Dawn  :  3h31m    Dusk : 23h23m    Day    : 16h13.4m
-14 Jul 2019	Rise  :  5h21.9m  Set  : 21h33.2m  Transit: 13h27m54s
-        az= 52.4°        az=307.4°          Altitude=60.4° Gem
-Dawn  :  3h33m    Dusk : 23h22m    Day    : 16h11.3m
-15 Jul 2019	Rise  :  5h23.0m  Set  : 21h32.3m  Transit: 13h28m01s
-        az= 52.7°        az=307.1°          Altitude=60.2° Gem
-Dawn  :  3h34m    Dusk : 23h20m    Day    : 16h09.2m
-16 Jul 2019	Rise  :  5h24.2m  Set  : 21h31.3m  Transit: 13h28m06s
-        az= 53.0°        az=306.8°          Altitude=60.1° Gem
-Dawn  :  3h36m    Dusk : 23h18m    Day    : 16h07.1m
-17 Jul 2019	Rise  :  5h25.4m  Set  : 21h30.2m  Transit: 13h28m12s
-        az= 53.3°        az=306.5°          Altitude=59.9° Gem
-Dawn  :  3h39m    Dusk : 23h16m    Day    : 16h04.8m
-18 Jul 2019	Rise  :  5h26.6m  Set  : 21h29.1m  Transit: 13h28m17s
-        az= 53.6°        az=306.2°          Altitude=59.7° Gem
-Dawn  :  3h41m    Dusk : 23h14m    Day    : 16h02.5m
-19 Jul 2019	Rise  :  5h27.9m  Set  : 21h28.0m  Transit: 13h28m21s
-        az= 53.9°        az=305.9°          Altitude=59.6° Gem
-Dawn  :  3h43m    Dusk : 23h12m    Day    : 16h00.1m
-20 Jul 2019	Rise  :  5h29.2m  Set  : 21h26.8m  Transit: 13h28m24s
-        az= 54.3°        az=305.5°          Altitude=59.4° Gem
-Dawn  :  3h45m    Dusk : 23h10m    Day    : 15h57.7m
-21 Jul 2019	Rise  :  5h30.5m  Set  : 21h25.6m  Transit: 13h28m28s
-        az= 54.6°        az=305.2°          Altitude=59.2° Gem
-Dawn  :  3h47m    Dusk : 23h08m    Day    : 15h55.2m
-22 Jul 2019	Rise  :  5h31.8m  Set  : 21h24.4m  Transit: 13h28m30s
-        az= 55.0°        az=304.8°          Altitude=59.0° Cnc
-Dawn  :  3h49m    Dusk : 23h06m    Day    : 15h52.6m
-23 Jul 2019	Rise  :  5h33.1m  Set  : 21h23.1m  Transit: 13h28m32s
-        az= 55.3°        az=304.4°          Altitude=58.8° Cnc
-Dawn  :  3h51m    Dusk : 23h04m    Day    : 15h50.0m
-24 Jul 2019	Rise  :  5h34.5m  Set  : 21h21.7m  Transit: 13h28m34s
-        az= 55.7°        az=304.0°          Altitude=58.6° Cnc
-Dawn  :  3h53m    Dusk : 23h02m    Day    : 15h47.3m
-25 Jul 2019	Rise  :  5h35.9m  Set  : 21h20.4m  Transit: 13h28m34s
-        az= 56.1°        az=303.7°          Altitude=58.4° Cnc
-Dawn  :  3h56m    Dusk : 23h00m    Day    : 15h44.5m
-26 Jul 2019	Rise  :  5h37.3m  Set  : 21h19.0m  Transit: 13h28m35s
-        az= 56.5°        az=303.3°          Altitude=58.1° Cnc
-Dawn  :  3h58m    Dusk : 22h58m    Day    : 15h41.7m
-27 Jul 2019	Rise  :  5h38.7m  Set  : 21h17.5m  Transit: 13h28m35s
-        az= 56.9°        az=302.9°          Altitude=57.9° Cnc
-Dawn  :  4h00m    Dusk : 22h55m    Day    : 15h38.9m
-28 Jul 2019	Rise  :  5h40.1m  Set  : 21h16.1m  Transit: 13h28m34s
-        az= 57.3°        az=302.4°          Altitude=57.7° Cnc
-Dawn  :  4h02m    Dusk : 22h53m    Day    : 15h36.0m
-29 Jul 2019	Rise  :  5h41.5m  Set  : 21h14.6m  Transit: 13h28m32s
-        az= 57.7°        az=302.0°          Altitude=57.5° Cnc
-Dawn  :  4h04m    Dusk : 22h51m    Day    : 15h33.0m
-30 Jul 2019	Rise  :  5h43.0m  Set  : 21h13.0m  Transit: 13h28m30s
-        az= 58.1°        az=301.6°          Altitude=57.2° Cnc
-Dawn  :  4h07m    Dusk : 22h48m    Day    : 15h30.0m
-31 Jul 2019	Rise  :  5h44.5m  Set  : 21h11.5m  Transit: 13h28m28s
-        az= 58.6°        az=301.2°          Altitude=57.0° Cnc
-Dawn  :  4h09m    Dusk : 22h46m    Day    : 15h27.0m
-1 Aug 2019	Rise  :  5h45.9m  Set  : 21h09.9m  Transit: 13h28m24s
-        az= 59.0°        az=300.7°          Altitude=56.7° Cnc
-Dawn  :  4h11m    Dusk : 22h44m    Day    : 15h23.9m
-2 Aug 2019	Rise  :  5h47.4m  Set  : 21h08.2m  Transit: 13h28m20s
-        az= 59.4°        az=300.3°          Altitude=56.5° Cnc
-Dawn  :  4h13m    Dusk : 22h41m    Day    : 15h20.8m
-3 Aug 2019	Rise  :  5h48.9m  Set  : 21h06.6m  Transit: 13h28m16s
-        az= 59.9°        az=299.8°          Altitude=56.2° Cnc
-Dawn  :  4h16m    Dusk : 22h39m    Day    : 15h17.6m
-4 Aug 2019	Rise  :  5h50.4m  Set  : 21h04.9m  Transit: 13h28m11s
-        az= 60.4°        az=299.3°          Altitude=56.0° Cnc
-Dawn  :  4h18m    Dusk : 22h37m    Day    : 15h14.4m
-5 Aug 2019	Rise  :  5h52.0m  Set  : 21h03.2m  Transit: 13h28m05s
-        az= 60.8°        az=298.9°          Altitude=55.7° Cnc
-Dawn  :  4h20m    Dusk : 22h34m    Day    : 15h11.2m
-6 Aug 2019	Rise  :  5h53.5m  Set  : 21h01.4m  Transit: 13h27m59s
-        az= 61.3°        az=298.4°          Altitude=55.4° Cnc
-Dawn  :  4h22m    Dusk : 22h32m    Day    : 15h07.9m
-7 Aug 2019	Rise  :  5h55.0m  Set  : 20h59.7m  Transit: 13h27m52s
-        az= 61.8°        az=297.9°          Altitude=55.1° Cnc
-Dawn  :  4h25m    Dusk : 22h29m    Day    : 15h04.6m
-8 Aug 2019	Rise  :  5h56.6m  Set  : 20h57.9m  Transit: 13h27m44s
-        az= 62.3°        az=297.4°          Altitude=54.9° Cnc
-Dawn  :  4h27m    Dusk : 22h27m    Day    : 15h01.3m
-9 Aug 2019	Rise  :  5h58.1m  Set  : 20h56.0m  Transit: 13h27m36s
-        az= 62.8°        az=296.9°          Altitude=54.6° Cnc
-Dawn  :  4h29m    Dusk : 22h24m    Day    : 14h57.9m
-10 Aug 2019	Rise  :  5h59.7m  Set  : 20h54.2m  Transit: 13h27m28s
-        az= 63.3°        az=296.4°          Altitude=54.3° Cnc
-Dawn  :  4h31m    Dusk : 22h22m    Day    : 14h54.5m
-11 Aug 2019	Rise  :  6h01.2m  Set  : 20h52.3m  Transit: 13h27m18s
-        az= 63.8°        az=295.9°          Altitude=54.0° Cnc
-Dawn  :  4h33m    Dusk : 22h19m    Day    : 14h51.1m
-12 Aug 2019	Rise  :  6h02.8m  Set  : 20h50.4m  Transit: 13h27m08s
-        az= 64.3°        az=295.4°          Altitude=53.7° Leo
-Dawn  :  4h36m    Dusk : 22h17m    Day    : 14h47.7m
-13 Aug 2019	Rise  :  6h04.3m  Set  : 20h48.5m  Transit: 13h26m58s
-        az= 64.8°        az=294.9°          Altitude=53.4° Leo
-Dawn  :  4h38m    Dusk : 22h14m    Day    : 14h44.2m
-14 Aug 2019	Rise  :  6h05.9m  Set  : 20h46.6m  Transit: 13h26m47s
-        az= 65.3°        az=294.4°          Altitude=53.1° Leo
-Dawn  :  4h40m    Dusk : 22h12m    Day    : 14h40.7m
-15 Aug 2019	Rise  :  6h07.5m  Set  : 20h44.6m  Transit: 13h26m35s
-        az= 65.8°        az=293.8°          Altitude=52.8° Leo
-Dawn  :  4h42m    Dusk : 22h09m    Day    : 14h37.2m
-16 Aug 2019	Rise  :  6h09.0m  Set  : 20h42.7m  Transit: 13h26m23s
-        az= 66.4°        az=293.3°          Altitude=52.5° Leo
-Dawn  :  4h44m    Dusk : 22h07m    Day    : 14h33.6m
-17 Aug 2019	Rise  :  6h10.6m  Set  : 20h40.7m  Transit: 13h26m10s
-        az= 66.9°        az=292.8°          Altitude=52.1° Leo
-Dawn  :  4h46m    Dusk : 22h04m    Day    : 14h30.1m
-18 Aug 2019	Rise  :  6h12.2m  Set  : 20h38.7m  Transit: 13h25m57s
-        az= 67.5°        az=292.2°          Altitude=51.8° Leo
-Dawn  :  4h48m    Dusk : 22h02m    Day    : 14h26.5m
-19 Aug 2019	Rise  :  6h13.7m  Set  : 20h36.6m  Transit: 13h25m44s
-        az= 68.0°        az=291.7°          Altitude=51.5° Leo
-Dawn  :  4h51m    Dusk : 21h59m    Day    : 14h22.9m
-20 Aug 2019	Rise  :  6h15.3m  Set  : 20h34.6m  Transit: 13h25m29s
-        az= 68.5°        az=291.1°          Altitude=51.2° Leo
-Dawn  :  4h53m    Dusk : 21h57m    Day    : 14h19.3m
-21 Aug 2019	Rise  :  6h16.9m  Set  : 20h32.5m  Transit: 13h25m15s
-        az= 69.1°        az=290.6°          Altitude=50.8° Leo
-Dawn  :  4h55m    Dusk : 21h54m    Day    : 14h15.6m
-22 Aug 2019	Rise  :  6h18.5m  Set  : 20h30.4m  Transit: 13h25m00s
-        az= 69.7°        az=290.0°          Altitude=50.5° Leo
-Dawn  :  4h57m    Dusk : 21h52m    Day    : 14h12.0m
-23 Aug 2019	Rise  :  6h20.1m  Set  : 20h28.3m  Transit: 13h24m44s
-        az= 70.2°        az=289.4°          Altitude=50.2° Leo
-Dawn  :  4h59m    Dusk : 21h49m    Day    : 14h08.3m
-24 Aug 2019	Rise  :  6h21.6m  Set  : 20h26.2m  Transit: 13h24m29s
-        az= 70.8°        az=288.9°          Altitude=49.8° Leo
-Dawn  :  5h01m    Dusk : 21h47m    Day    : 14h04.6m
-25 Aug 2019	Rise  :  6h23.2m  Set  : 20h24.1m  Transit: 13h24m12s
-        az= 71.4°        az=288.3°          Altitude=49.5° Leo
-Dawn  :  5h03m    Dusk : 21h44m    Day    : 14h00.9m
-26 Aug 2019	Rise  :  6h24.8m  Set  : 20h22.0m  Transit: 13h23m56s
-        az= 71.9°        az=287.7°          Altitude=49.1° Leo
-Dawn  :  5h05m    Dusk : 21h41m    Day    : 13h57.2m
-27 Aug 2019	Rise  :  6h26.4m  Set  : 20h19.8m  Transit: 13h23m39s
-        az= 72.5°        az=287.2°          Altitude=48.8° Leo
-Dawn  :  5h07m    Dusk : 21h39m    Day    : 13h53.4m
-28 Aug 2019	Rise  :  6h28.0m  Set  : 20h17.7m  Transit: 13h23m21s
-        az= 73.1°        az=286.6°          Altitude=48.4° Leo
-Dawn  :  5h09m    Dusk : 21h36m    Day    : 13h49.7m
-29 Aug 2019	Rise  :  6h29.5m  Set  : 20h15.5m  Transit: 13h23m03s
-        az= 73.7°        az=286.0°          Altitude=48.1° Leo
-Dawn  :  5h11m    Dusk : 21h34m    Day    : 13h46.0m
-30 Aug 2019	Rise  :  6h31.1m  Set  : 20h13.3m  Transit: 13h22m45s
-        az= 74.2°        az=285.4°          Altitude=47.7° Leo
-Dawn  :  5h13m    Dusk : 21h31m    Day    : 13h42.2m
-31 Aug 2019	Rise  :  6h32.7m  Set  : 20h11.1m  Transit: 13h22m27s
-        az= 74.8°        az=284.8°          Altitude=47.4° Leo
-Dawn  :  5h15m    Dusk : 21h29m    Day    : 13h38.4m
-1 Sep 2019	Rise  :  6h34.3m  Set  : 20h08.9m  Transit: 13h22m08s
-        az= 75.4°        az=284.2°          Altitude=47.0° Leo
-Dawn  :  5h17m    Dusk : 21h26m    Day    : 13h34.6m
-2 Sep 2019	Rise  :  6h35.9m  Set  : 20h06.7m  Transit: 13h21m49s
-        az= 76.0°        az=283.6°          Altitude=46.6° Leo
-Dawn  :  5h19m    Dusk : 21h23m    Day    : 13h30.8m
-3 Sep 2019	Rise  :  6h37.4m  Set  : 20h04.5m  Transit: 13h21m30s
-        az= 76.6°        az=283.0°          Altitude=46.3° Leo
-Dawn  :  5h21m    Dusk : 21h21m    Day    : 13h27.0m
-4 Sep 2019	Rise  :  6h39.0m  Set  : 20h02.2m  Transit: 13h21m10s
-        az= 77.2°        az=282.5°          Altitude=45.9° Leo
-Dawn  :  5h22m    Dusk : 21h18m    Day    : 13h23.2m
-5 Sep 2019	Rise  :  6h40.6m  Set  : 20h00.0m  Transit: 13h20m50s
-        az= 77.8°        az=281.8°          Altitude=45.5° Leo
-Dawn  :  5h24m    Dusk : 21h16m    Day    : 13h19.4m
-6 Sep 2019	Rise  :  6h42.2m  Set  : 19h57.8m  Transit: 13h20m30s
-        az= 78.4°        az=281.2°          Altitude=45.2° Leo
-Dawn  :  5h26m    Dusk : 21h13m    Day    : 13h15.6m
-7 Sep 2019	Rise  :  6h43.8m  Set  : 19h55.5m  Transit: 13h20m09s
-        az= 79.0°        az=280.6°          Altitude=44.8° Leo
-Dawn  :  5h28m    Dusk : 21h11m    Day    : 13h11.8m
-8 Sep 2019	Rise  :  6h45.3m  Set  : 19h53.3m  Transit: 13h19m49s
-        az= 79.6°        az=280.0°          Altitude=44.4° Leo
-Dawn  :  5h30m    Dusk : 21h08m    Day    : 13h07.9m
-9 Sep 2019	Rise  :  6h46.9m  Set  : 19h51.0m  Transit: 13h19m28s
-        az= 80.2°        az=279.4°          Altitude=44.0° Leo
-Dawn  :  5h32m    Dusk : 21h06m    Day    : 13h04.1m
-10 Sep 2019	Rise  :  6h48.5m  Set  : 19h48.7m  Transit: 13h19m07s
-        az= 80.8°        az=278.8°          Altitude=43.7° Leo
-Dawn  :  5h34m    Dusk : 21h03m    Day    : 13h00.2m
-11 Sep 2019	Rise  :  6h50.1m  Set  : 19h46.4m  Transit: 13h18m46s
-        az= 81.5°        az=278.2°          Altitude=43.3° Leo
-Dawn  :  5h35m    Dusk : 21h01m    Day    : 12h56.4m
-12 Sep 2019	Rise  :  6h51.6m  Set  : 19h44.2m  Transit: 13h18m25s
-        az= 82.1°        az=277.6°          Altitude=42.9° Leo
-Dawn  :  5h37m    Dusk : 20h58m    Day    : 12h52.5m
-13 Sep 2019	Rise  :  6h53.2m  Set  : 19h41.9m  Transit: 13h18m03s
-        az= 82.7°        az=277.0°          Altitude=42.5° Leo
-Dawn  :  5h39m    Dusk : 20h56m    Day    : 12h48.7m
-14 Sep 2019	Rise  :  6h54.8m  Set  : 19h39.6m  Transit: 13h17m42s
-        az= 83.3°        az=276.4°          Altitude=42.1° Leo
-Dawn  :  5h41m    Dusk : 20h53m    Day    : 12h44.8m
-15 Sep 2019	Rise  :  6h56.4m  Set  : 19h37.3m  Transit: 13h17m21s
-        az= 83.9°        az=275.8°          Altitude=41.8° Leo
-Dawn  :  5h43m    Dusk : 20h51m    Day    : 12h40.9m
-16 Sep 2019	Rise  :  6h57.9m  Set  : 19h35.0m  Transit: 13h16m59s
-        az= 84.5°        az=275.1°          Altitude=41.4° Leo
-Dawn  :  5h44m    Dusk : 20h48m    Day    : 12h37.1m
-17 Sep 2019	Rise  :  6h59.5m  Set  : 19h32.7m  Transit: 13h16m38s
-        az= 85.2°        az=274.5°          Altitude=41.0° Leo
-Dawn  :  5h46m    Dusk : 20h46m    Day    : 12h33.2m
-18 Sep 2019	Rise  :  7h01.1m  Set  : 19h30.4m  Transit: 13h16m16s
-        az= 85.8°        az=273.9°          Altitude=40.6° Vir
-Dawn  :  5h48m    Dusk : 20h43m    Day    : 12h29.3m
-19 Sep 2019	Rise  :  7h02.7m  Set  : 19h28.1m  Transit: 13h15m55s
-        az= 86.4°        az=273.3°          Altitude=40.2° Vir
-Dawn  :  5h50m    Dusk : 20h41m    Day    : 12h25.5m
-20 Sep 2019	Rise  :  7h04.3m  Set  : 19h25.8m  Transit: 13h15m33s
-        az= 87.0°        az=272.7°          Altitude=39.8° Vir
-Dawn  :  5h51m    Dusk : 20h38m    Day    : 12h21.6m
-21 Sep 2019	Rise  :  7h05.9m  Set  : 19h23.6m  Transit: 13h15m12s
-        az= 87.6°        az=272.0°          Altitude=39.4° Vir
-Dawn  :  5h53m    Dusk : 20h36m    Day    : 12h17.7m
-22 Sep 2019	Rise  :  7h07.4m  Set  : 19h21.3m  Transit: 13h14m51s
-        az= 88.3°        az=271.4°          Altitude=39.1° Vir
-Dawn  :  5h55m    Dusk : 20h34m    Day    : 12h13.8m
-23 Sep 2019	Rise  :  7h09.0m  Set  : 19h19.0m  Transit: 13h14m30s
-        az= 88.9°        az=270.8°          Altitude=38.7° Vir
-Dawn  :  5h57m    Dusk : 20h31m    Day    : 12h09.9m
-24 Sep 2019	Rise  :  7h10.6m  Set  : 19h16.7m  Transit: 13h14m09s
-        az= 89.5°        az=270.2°          Altitude=38.3° Vir
-Dawn  :  5h58m    Dusk : 20h29m    Day    : 12h06.0m
-25 Sep 2019	Rise  :  7h12.2m  Set  : 19h14.4m  Transit: 13h13m48s
-        az= 90.1°        az=269.6°          Altitude=37.9° Vir
-Dawn  :  6h00m    Dusk : 20h26m    Day    : 12h02.2m
-26 Sep 2019	Rise  :  7h13.8m  Set  : 19h12.1m  Transit: 13h13m27s
-        az= 90.8°        az=268.9°          Altitude=37.5° Vir
-Dawn  :  6h02m    Dusk : 20h24m    Day    : 11h58.3m
-27 Sep 2019	Rise  :  7h15.4m  Set  : 19h09.8m  Transit: 13h13m07s
-        az= 91.4°        az=268.3°          Altitude=37.1° Vir
-Dawn  :  6h03m    Dusk : 20h22m    Day    : 11h54.4m
-28 Sep 2019	Rise  :  7h17.0m  Set  : 19h07.5m  Transit: 13h12m46s
-        az= 92.0°        az=267.7°          Altitude=36.7° Vir
-Dawn  :  6h05m    Dusk : 20h19m    Day    : 11h50.5m
-29 Sep 2019	Rise  :  7h18.7m  Set  : 19h05.3m  Transit: 13h12m26s
-        az= 92.6°        az=267.1°          Altitude=36.3° Vir
-Dawn  :  6h07m    Dusk : 20h17m    Day    : 11h46.6m
-30 Sep 2019	Rise  :  7h20.3m  Set  : 19h03.0m  Transit: 13h12m07s
-        az= 93.3°        az=266.4°          Altitude=35.9° Vir
-Dawn  :  6h08m    Dusk : 20h15m    Day    : 11h42.7m
-1 Oct 2019	Rise  :  7h21.9m  Set  : 19h00.7m  Transit: 13h11m47s
-        az= 93.9°        az=265.8°          Altitude=35.6° Vir
-Dawn  :  6h10m    Dusk : 20h12m    Day    : 11h38.9m
-2 Oct 2019	Rise  :  7h23.5m  Set  : 18h58.5m  Transit: 13h11m28s
-        az= 94.5°        az=265.2°          Altitude=35.2° Vir
-Dawn  :  6h12m    Dusk : 20h10m    Day    : 11h35.0m
-3 Oct 2019	Rise  :  7h25.1m  Set  : 18h56.2m  Transit: 13h11m09s
-        az= 95.1°        az=264.6°          Altitude=34.8° Vir
-Dawn  :  6h13m    Dusk : 20h08m    Day    : 11h31.1m
-4 Oct 2019	Rise  :  7h26.8m  Set  : 18h54.0m  Transit: 13h10m50s
-        az= 95.7°        az=264.0°          Altitude=34.4° Vir
-Dawn  :  6h15m    Dusk : 20h06m    Day    : 11h27.2m
-5 Oct 2019	Rise  :  7h28.4m  Set  : 18h51.8m  Transit: 13h10m32s
-        az= 96.4°        az=263.4°          Altitude=34.0° Vir
-Dawn  :  6h17m    Dusk : 20h03m    Day    : 11h23.4m
-6 Oct 2019	Rise  :  7h30.0m  Set  : 18h49.5m  Transit: 13h10m14s
-        az= 97.0°        az=262.7°          Altitude=33.6° Vir
-Dawn  :  6h18m    Dusk : 20h01m    Day    : 11h19.5m
-7 Oct 2019	Rise  :  7h31.7m  Set  : 18h47.3m  Transit: 13h09m57s
-        az= 97.6°        az=262.1°          Altitude=33.2° Vir
-Dawn  :  6h20m    Dusk : 19h59m    Day    : 11h15.6m
-8 Oct 2019	Rise  :  7h33.3m  Set  : 18h45.1m  Transit: 13h09m39s
-        az= 98.2°        az=261.5°          Altitude=32.9° Vir
-Dawn  :  6h22m    Dusk : 19h57m    Day    : 11h11.8m
-9 Oct 2019	Rise  :  7h35.0m  Set  : 18h42.9m  Transit: 13h09m23s
-        az= 98.8°        az=260.9°          Altitude=32.5° Vir
-Dawn  :  6h23m    Dusk : 19h54m    Day    : 11h07.9m
-10 Oct 2019	Rise  :  7h36.6m  Set  : 18h40.7m  Transit: 13h09m06s
-        az= 99.4°        az=260.3°          Altitude=32.1° Vir
-Dawn  :  6h25m    Dusk : 19h52m    Day    : 11h04.1m
-11 Oct 2019	Rise  :  7h38.3m  Set  : 18h38.5m  Transit: 13h08m50s
-        az=100.0°        az=259.7°          Altitude=31.7° Vir
-Dawn  :  6h26m    Dusk : 19h50m    Day    : 11h00.2m
-12 Oct 2019	Rise  :  7h40.0m  Set  : 18h36.3m  Transit: 13h08m35s
-        az=100.6°        az=259.1°          Altitude=31.4° Vir
-Dawn  :  6h28m    Dusk : 19h48m    Day    : 10h56.4m
-13 Oct 2019	Rise  :  7h41.6m  Set  : 18h34.2m  Transit: 13h08m20s
-        az=101.3°        az=258.5°          Altitude=31.0° Vir
-Dawn  :  6h30m    Dusk : 19h46m    Day    : 10h52.5m
-14 Oct 2019	Rise  :  7h43.3m  Set  : 18h32.0m  Transit: 13h08m06s
-        az=101.9°        az=257.9°          Altitude=30.6° Vir
-Dawn  :  6h31m    Dusk : 19h44m    Day    : 10h48.7m
-15 Oct 2019	Rise  :  7h45.0m  Set  : 18h29.9m  Transit: 13h07m52s
-        az=102.5°        az=257.3°          Altitude=30.2° Vir
-Dawn  :  6h33m    Dusk : 19h42m    Day    : 10h44.9m
-16 Oct 2019	Rise  :  7h46.7m  Set  : 18h27.8m  Transit: 13h07m39s
-        az=103.1°        az=256.7°          Altitude=29.9° Vir
-Dawn  :  6h35m    Dusk : 19h40m    Day    : 10h41.1m
-17 Oct 2019	Rise  :  7h48.4m  Set  : 18h25.7m  Transit: 13h07m26s
-        az=103.7°        az=256.1°          Altitude=29.5° Vir
-Dawn  :  6h36m    Dusk : 19h38m    Day    : 10h37.3m
-18 Oct 2019	Rise  :  7h50.1m  Set  : 18h23.6m  Transit: 13h07m14s
-        az=104.3°        az=255.5°          Altitude=29.1° Vir
-Dawn  :  6h38m    Dusk : 19h36m    Day    : 10h33.5m
-19 Oct 2019	Rise  :  7h51.8m  Set  : 18h21.5m  Transit: 13h07m02s
-        az=104.8°        az=254.9°          Altitude=28.8° Vir
-Dawn  :  6h39m    Dusk : 19h34m    Day    : 10h29.7m
-20 Oct 2019	Rise  :  7h53.5m  Set  : 18h19.4m  Transit: 13h06m52s
-        az=105.4°        az=254.3°          Altitude=28.4° Vir
-Dawn  :  6h41m    Dusk : 19h32m    Day    : 10h26.0m
-21 Oct 2019	Rise  :  7h55.2m  Set  : 18h17.4m  Transit: 13h06m41s
-        az=106.0°        az=253.7°          Altitude=28.1° Vir
-Dawn  :  6h43m    Dusk : 19h30m    Day    : 10h22.2m
-22 Oct 2019	Rise  :  7h56.9m  Set  : 18h15.4m  Transit: 13h06m32s
-        az=106.6°        az=253.1°          Altitude=27.7° Vir
-Dawn  :  6h44m    Dusk : 19h28m    Day    : 10h18.5m
-23 Oct 2019	Rise  :  7h58.6m  Set  : 18h13.4m  Transit: 13h06m23s
-        az=107.2°        az=252.6°          Altitude=27.4° Vir
-Dawn  :  6h46m    Dusk : 19h26m    Day    : 10h14.8m
-24 Oct 2019	Rise  :  8h00.3m  Set  : 18h11.4m  Transit: 13h06m15s
-        az=107.8°        az=252.0°          Altitude=27.0° Vir
-Dawn  :  6h47m    Dusk : 19h24m    Day    : 10h11.0m
-25 Oct 2019	Rise  :  8h02.1m  Set  : 18h09.4m  Transit: 13h06m08s
-        az=108.3°        az=251.4°          Altitude=26.7° Vir
-Dawn  :  6h49m    Dusk : 19h22m    Day    : 10h07.3m
-26 Oct 2019	Rise  :  8h03.8m  Set  : 18h07.5m  Transit: 13h06m01s
-        az=108.9°        az=250.9°          Altitude=26.3° Vir
-Dawn  :  6h51m    Dusk : 19h21m    Day    : 10h03.7m
-27 Oct 2019	Rise  :  7h05.5m  Set  : 17h05.5m  Transit: 12h05m55s
-        az=109.5°        az=250.3°          Altitude=26.0° Vir
-Dawn  :  5h52m    Dusk : 18h19m    Day    : 10h00.0m
-28 Oct 2019	Rise  :  7h07.3m  Set  : 17h03.6m  Transit: 12h05m50s
-        az=110.0°        az=249.7°          Altitude=25.6° Vir
-Dawn  :  5h54m    Dusk : 18h17m    Day    :  9h56.3m
-29 Oct 2019	Rise  :  7h09.0m  Set  : 17h01.7m  Transit: 12h05m46s
-        az=110.6°        az=249.2°          Altitude=25.3° Vir
-Dawn  :  5h55m    Dusk : 18h15m    Day    :  9h52.7m
-30 Oct 2019	Rise  :  7h10.8m  Set  : 16h59.9m  Transit: 12h05m42s
-        az=111.1°        az=248.6°          Altitude=25.0° Vir
-Dawn  :  5h57m    Dusk : 18h14m    Day    :  9h49.1m
-31 Oct 2019	Rise  :  7h12.5m  Set  : 16h58.0m  Transit: 12h05m39s
-        az=111.7°        az=248.1°          Altitude=24.6° Vir
-Dawn  :  5h58m    Dusk : 18h12m    Day    :  9h45.5m
-1 Nov 2019	Rise  :  7h14.3m  Set  : 16h56.2m  Transit: 12h05m37s
-        az=112.2°        az=247.6°          Altitude=24.3° Lib
-Dawn  :  6h00m    Dusk : 18h10m    Day    :  9h42.0m
-2 Nov 2019	Rise  :  7h16.0m  Set  : 16h54.4m  Transit: 12h05m36s
-        az=112.7°        az=247.0°          Altitude=24.0° Lib
-Dawn  :  6h02m    Dusk : 18h09m    Day    :  9h38.4m
-3 Nov 2019	Rise  :  7h17.8m  Set  : 16h52.7m  Transit: 12h05m35s
-        az=113.3°        az=246.5°          Altitude=23.7° Lib
-Dawn  :  6h03m    Dusk : 18h07m    Day    :  9h34.9m
-4 Nov 2019	Rise  :  7h19.5m  Set  : 16h51.0m  Transit: 12h05m36s
-        az=113.8°        az=246.0°          Altitude=23.4° Lib
-Dawn  :  6h05m    Dusk : 18h06m    Day    :  9h31.4m
-5 Nov 2019	Rise  :  7h21.3m  Set  : 16h49.3m  Transit: 12h05m37s
-        az=114.3°        az=245.5°          Altitude=23.1° Lib
-Dawn  :  6h06m    Dusk : 18h04m    Day    :  9h28.0m
-6 Nov 2019	Rise  :  7h23.0m  Set  : 16h47.6m  Transit: 12h05m38s
-        az=114.8°        az=245.0°          Altitude=22.8° Lib
-Dawn  :  6h08m    Dusk : 18h03m    Day    :  9h24.5m
-7 Nov 2019	Rise  :  7h24.8m  Set  : 16h45.9m  Transit: 12h05m41s
-        az=115.3°        az=244.5°          Altitude=22.5° Lib
-Dawn  :  6h09m    Dusk : 18h01m    Day    :  9h21.1m
-8 Nov 2019	Rise  :  7h26.5m  Set  : 16h44.3m  Transit: 12h05m45s
-        az=115.8°        az=244.0°          Altitude=22.2° Lib
-Dawn  :  6h11m    Dusk : 18h00m    Day    :  9h17.8m
-9 Nov 2019	Rise  :  7h28.3m  Set  : 16h42.7m  Transit: 12h05m49s
-        az=116.3°        az=243.5°          Altitude=21.9° Lib
-Dawn  :  6h12m    Dusk : 17h59m    Day    :  9h14.5m
-10 Nov 2019	Rise  :  7h30.0m  Set  : 16h41.2m  Transit: 12h05m54s
-        az=116.8°        az=243.0°          Altitude=21.6° Lib
-Dawn  :  6h14m    Dusk : 17h57m    Day    :  9h11.2m
-11 Nov 2019	Rise  :  7h31.7m  Set  : 16h39.7m  Transit: 12h06m00s
-        az=117.3°        az=242.5°          Altitude=21.3° Lib
-Dawn  :  6h15m    Dusk : 17h56m    Day    :  9h07.9m
-12 Nov 2019	Rise  :  7h33.5m  Set  : 16h38.2m  Transit: 12h06m07s
-        az=117.8°        az=242.0°          Altitude=21.1° Lib
-Dawn  :  6h17m    Dusk : 17h55m    Day    :  9h04.7m
-13 Nov 2019	Rise  :  7h35.2m  Set  : 16h36.7m  Transit: 12h06m15s
-        az=118.2°        az=241.6°          Altitude=20.8° Lib
-Dawn  :  6h18m    Dusk : 17h53m    Day    :  9h01.5m
-14 Nov 2019	Rise  :  7h36.9m  Set  : 16h35.3m  Transit: 12h06m24s
-        az=118.7°        az=241.1°          Altitude=20.5° Lib
-Dawn  :  6h20m    Dusk : 17h52m    Day    :  8h58.4m
-15 Nov 2019	Rise  :  7h38.6m  Set  : 16h33.9m  Transit: 12h06m33s
-        az=119.2°        az=240.7°          Altitude=20.3° Lib
-Dawn  :  6h21m    Dusk : 17h51m    Day    :  8h55.3m
-16 Nov 2019	Rise  :  7h40.3m  Set  : 16h32.6m  Transit: 12h06m43s
-        az=119.6°        az=240.2°          Altitude=20.0° Lib
-Dawn  :  6h23m    Dusk : 17h50m    Day    :  8h52.3m
-17 Nov 2019	Rise  :  7h42.0m  Set  : 16h31.3m  Transit: 12h06m54s
-        az=120.0°        az=239.8°          Altitude=19.8° Lib
-Dawn  :  6h24m    Dusk : 17h49m    Day    :  8h49.3m
-18 Nov 2019	Rise  :  7h43.7m  Set  : 16h30.0m  Transit: 12h07m06s
-        az=120.5°        az=239.4°          Altitude=19.5° Lib
-Dawn  :  6h26m    Dusk : 17h48m    Day    :  8h46.4m
-19 Nov 2019	Rise  :  7h45.3m  Set  : 16h28.8m  Transit: 12h07m19s
-        az=120.9°        az=239.0°          Altitude=19.3° Lib
-Dawn  :  6h27m    Dusk : 17h47m    Day    :  8h43.5m
-20 Nov 2019	Rise  :  7h47.0m  Set  : 16h27.6m  Transit: 12h07m33s
-        az=121.3°        az=238.6°          Altitude=19.1° Lib
-Dawn  :  6h29m    Dusk : 17h46m    Day    :  8h40.7m
-21 Nov 2019	Rise  :  7h48.6m  Set  : 16h26.5m  Transit: 12h07m48s
-        az=121.7°        az=238.2°          Altitude=18.9° Lib
-Dawn  :  6h30m    Dusk : 17h45m    Day    :  8h37.9m
-22 Nov 2019	Rise  :  7h50.2m  Set  : 16h25.4m  Transit: 12h08m03s
-        az=122.1°        az=237.8°          Altitude=18.6° Lib
-Dawn  :  6h31m    Dusk : 17h44m    Day    :  8h35.2m
-23 Nov 2019	Rise  :  7h51.8m  Set  : 16h24.4m  Transit: 12h08m19s
-        az=122.4°        az=237.4°          Altitude=18.4° Lib
-Dawn  :  6h33m    Dusk : 17h43m    Day    :  8h32.5m
-24 Nov 2019	Rise  :  7h53.4m  Set  : 16h23.4m  Transit: 12h08m36s
-        az=122.8°        az=237.1°          Altitude=18.2° Sco
-Dawn  :  6h34m    Dusk : 17h43m    Day    :  8h30.0m
-25 Nov 2019	Rise  :  7h55.0m  Set  : 16h22.4m  Transit: 12h08m54s
-        az=123.2°        az=236.7°          Altitude=18.0° Sco
-Dawn  :  6h35m    Dusk : 17h42m    Day    :  8h27.4m
-26 Nov 2019	Rise  :  7h56.5m  Set  : 16h21.5m  Transit: 12h09m12s
-        az=123.5°        az=236.4°          Altitude=17.8° Sco
-Dawn  :  6h37m    Dusk : 17h41m    Day    :  8h25.0m
-27 Nov 2019	Rise  :  7h58.0m  Set  : 16h20.6m  Transit: 12h09m32s
-        az=123.9°        az=236.0°          Altitude=17.6° Sco
-Dawn  :  6h38m    Dusk : 17h41m    Day    :  8h22.6m
-28 Nov 2019	Rise  :  7h59.5m  Set  : 16h19.8m  Transit: 12h09m52s
-        az=124.2°        az=235.7°          Altitude=17.5° Sco
-Dawn  :  6h39m    Dusk : 17h40m    Day    :  8h20.3m
-29 Nov 2019	Rise  :  8h01.0m  Set  : 16h19.1m  Transit: 12h10m12s
-        az=124.5°        az=235.4°          Altitude=17.3° Sco
-Dawn  :  6h41m    Dusk : 17h39m    Day    :  8h18.1m
-30 Nov 2019	Rise  :  8h02.4m  Set  : 16h18.3m  Transit: 12h10m34s
-        az=124.8°        az=235.1°          Altitude=17.1° Sco
-Dawn  :  6h42m    Dusk : 17h39m    Day    :  8h15.9m
-1 Dec 2019	Rise  :  8h03.8m  Set  : 16h17.7m  Transit: 12h10m56s
-        az=125.1°        az=234.8°          Altitude=17.0° Oph
-Dawn  :  6h43m    Dusk : 17h38m    Day    :  8h13.8m
-2 Dec 2019	Rise  :  8h05.2m  Set  : 16h17.1m  Transit: 12h11m18s
-        az=125.4°        az=234.5°          Altitude=16.8° Oph
-Dawn  :  6h44m    Dusk : 17h38m    Day    :  8h11.8m
-3 Dec 2019	Rise  :  8h06.6m  Set  : 16h16.5m  Transit: 12h11m42s
-        az=125.6°        az=234.3°          Altitude=16.7° Oph
-Dawn  :  6h45m    Dusk : 17h38m    Day    :  8h09.9m
-4 Dec 2019	Rise  :  8h07.9m  Set  : 16h16.0m  Transit: 12h12m06s
-        az=125.9°        az=234.0°          Altitude=16.5° Oph
-Dawn  :  6h47m    Dusk : 17h37m    Day    :  8h08.1m
-5 Dec 2019	Rise  :  8h09.2m  Set  : 16h15.5m  Transit: 12h12m30s
-        az=126.1°        az=233.8°          Altitude=16.4° Oph
-Dawn  :  6h48m    Dusk : 17h37m    Day    :  8h06.4m
-6 Dec 2019	Rise  :  8h10.4m  Set  : 16h15.1m  Transit: 12h12m55s
-        az=126.4°        az=233.6°          Altitude=16.3° Oph
-Dawn  :  6h49m    Dusk : 17h37m    Day    :  8h04.7m
-7 Dec 2019	Rise  :  8h11.6m  Set  : 16h14.8m  Transit: 12h13m20s
-        az=126.6°        az=233.3°          Altitude=16.2° Oph
-Dawn  :  6h50m    Dusk : 17h37m    Day    :  8h03.2m
-8 Dec 2019	Rise  :  8h12.8m  Set  : 16h14.5m  Transit: 12h13m46s
-        az=126.8°        az=233.2°          Altitude=16.0° Oph
-Dawn  :  6h51m    Dusk : 17h36m    Day    :  8h01.7m
-9 Dec 2019	Rise  :  8h13.9m  Set  : 16h14.3m  Transit: 12h14m13s
-        az=127.0°        az=233.0°          Altitude=15.9° Oph
-Dawn  :  6h52m    Dusk : 17h36m    Day    :  8h00.3m
-10 Dec 2019	Rise  :  8h15.0m  Set  : 16h14.1m  Transit: 12h14m40s
-        az=127.2°        az=232.8°          Altitude=15.9° Oph
-Dawn  :  6h53m    Dusk : 17h36m    Day    :  7h59.1m
-11 Dec 2019	Rise  :  8h16.1m  Set  : 16h14.0m  Transit: 12h15m07s
-        az=127.3°        az=232.6°          Altitude=15.8° Oph
-Dawn  :  6h54m    Dusk : 17h36m    Day    :  7h57.9m
-12 Dec 2019	Rise  :  8h17.1m  Set  : 16h13.9m  Transit: 12h15m34s
-        az=127.5°        az=232.5°          Altitude=15.7° Oph
-Dawn  :  6h55m    Dusk : 17h36m    Day    :  7h56.8m
-13 Dec 2019	Rise  :  8h18.0m  Set  : 16h13.9m  Transit: 12h16m02s
-        az=127.6°        az=232.4°          Altitude=15.6° Oph
-Dawn  :  6h55m    Dusk : 17h36m    Day    :  7h55.9m
-14 Dec 2019	Rise  :  8h19.0m  Set  : 16h13.9m  Transit: 12h16m31s
-        az=127.7°        az=232.2°          Altitude=15.6° Oph
-Dawn  :  6h56m    Dusk : 17h37m    Day    :  7h55.0m
-15 Dec 2019	Rise  :  8h19.8m  Set  : 16h14.0m  Transit: 12h16m59s
-        az=127.8°        az=232.1°          Altitude=15.5° Oph
-Dawn  :  6h57m    Dusk : 17h37m    Day    :  7h54.2m
-16 Dec 2019	Rise  :  8h20.6m  Set  : 16h14.2m  Transit: 12h17m28s
-        az=127.9°        az=232.1°          Altitude=15.4° Oph
-Dawn  :  6h58m    Dusk : 17h37m    Day    :  7h53.6m
-17 Dec 2019	Rise  :  8h21.4m  Set  : 16h14.4m  Transit: 12h17m58s
-        az=128.0°        az=232.0°          Altitude=15.4° Oph
-Dawn  :  6h58m    Dusk : 17h37m    Day    :  7h53.0m
-18 Dec 2019	Rise  :  8h22.1m  Set  : 16h14.7m  Transit: 12h18m27s
-        az=128.1°        az=231.9°          Altitude=15.4° Oph
-Dawn  :  6h59m    Dusk : 17h38m    Day    :  7h52.6m
-19 Dec 2019	Rise  :  8h22.8m  Set  : 16h15.0m  Transit: 12h18m56s
-        az=128.1°        az=231.9°          Altitude=15.3° Sgr
-Dawn  :  7h00m    Dusk : 17h38m    Day    :  7h52.2m
-20 Dec 2019	Rise  :  8h23.4m  Set  : 16h15.4m  Transit: 12h19m26s
-        az=128.1°        az=231.8°          Altitude=15.3° Sgr
-Dawn  :  7h00m    Dusk : 17h38m    Day    :  7h52.0m
-21 Dec 2019	Rise  :  8h24.0m  Set  : 16h15.8m  Transit: 12h19m56s
-        az=128.2°        az=231.8°          Altitude=15.3° Sgr
-Dawn  :  7h01m    Dusk : 17h39m    Day    :  7h51.8m
-22 Dec 2019	Rise  :  8h24.5m  Set  : 16h16.3m  Transit: 12h20m26s
-        az=128.2°        az=231.8°          Altitude=15.3° Sgr
-Dawn  :  7h01m    Dusk : 17h39m    Day    :  7h51.8m
-23 Dec 2019	Rise  :  8h25.0m  Set  : 16h16.9m  Transit: 12h20m56s
-        az=128.2°        az=231.8°          Altitude=15.3° Sgr
-Dawn  :  7h02m    Dusk : 17h40m    Day    :  7h51.9m
-24 Dec 2019	Rise  :  8h25.4m  Set  : 16h17.5m  Transit: 12h21m26s
-        az=128.1°        az=231.9°          Altitude=15.3° Sgr
-Dawn  :  7h02m    Dusk : 17h41m    Day    :  7h52.1m
-25 Dec 2019	Rise  :  8h25.8m  Set  : 16h18.2m  Transit: 12h21m56s
-        az=128.1°        az=231.9°          Altitude=15.4° Sgr
-Dawn  :  7h03m    Dusk : 17h41m    Day    :  7h52.4m
-26 Dec 2019	Rise  :  8h26.1m  Set  : 16h18.9m  Transit: 12h22m26s
-        az=128.0°        az=232.0°          Altitude=15.4° Sgr
-Dawn  :  7h03m    Dusk : 17h42m    Day    :  7h52.8m
-27 Dec 2019	Rise  :  8h26.3m  Set  : 16h19.6m  Transit: 12h22m55s
-        az=128.0°        az=232.0°          Altitude=15.4° Sgr
-Dawn  :  7h03m    Dusk : 17h43m    Day    :  7h53.3m
-28 Dec 2019	Rise  :  8h26.5m  Set  : 16h20.4m  Transit: 12h23m25s
-        az=127.9°        az=232.1°          Altitude=15.5° Sgr
-Dawn  :  7h04m    Dusk : 17h43m    Day    :  7h53.9m
-29 Dec 2019	Rise  :  8h26.6m  Set  : 16h21.3m  Transit: 12h23m54s
-        az=127.8°        az=232.2°          Altitude=15.5° Sgr
-Dawn  :  7h04m    Dusk : 17h44m    Day    :  7h54.7m
-30 Dec 2019	Rise  :  8h26.7m  Set  : 16h22.2m  Transit: 12h24m24s
-        az=127.7°        az=232.4°          Altitude=15.6° Sgr
-Dawn  :  7h04m    Dusk : 17h45m    Day    :  7h55.5m
-31 Dec 2019	Rise  :  8h26.7m  Set  : 16h23.2m  Transit: 12h24m52s
-        az=127.6°        az=232.5°          Altitude=15.7° Sgr
-Dawn  :  7h04m    Dusk : 17h46m    Day    :  7h56.4m
-1 Jan 2020	Rise  :  8h26.7m  Set  : 16h24.2m  Transit: 12h25m21s
-        az=127.4°        az=232.6°          Altitude=15.7° Sgr
-Dawn  :  7h04m    Dusk : 17h47m    Day    :  7h57.5m
+1 Jan 2019	Rise  :  8h35.1m  Set  : 16h10.1m  Transit: 12h22m31s
+        az=129.6°        az=230.4°          Altitude=13.6° Sgr
+Dawn  :  7h07m    Dusk : 17h38m    Day    :  7h35.0m
+2 Jan 2019	Rise  :  8h35.0m  Set  : 16h11.2m  Transit: 12h22m59s
+        az=129.4°        az=230.6°          Altitude=13.7° Sgr
+Dawn  :  7h07m    Dusk : 17h39m    Day    :  7h36.3m
+3 Jan 2019	Rise  :  8h34.7m  Set  : 16h12.4m  Transit: 12h23m27s
+        az=129.2°        az=230.8°          Altitude=13.8° Sgr
+Dawn  :  7h07m    Dusk : 17h40m    Day    :  7h37.7m
+4 Jan 2019	Rise  :  8h34.4m  Set  : 16h13.6m  Transit: 12h23m55s
+        az=129.0°        az=231.0°          Altitude=13.9° Sgr
+Dawn  :  7h07m    Dusk : 17h41m    Day    :  7h39.2m
+5 Jan 2019	Rise  :  8h34.1m  Set  : 16h14.9m  Transit: 12h24m22s
+        az=128.8°        az=231.2°          Altitude=14.0° Sgr
+Dawn  :  7h07m    Dusk : 17h42m    Day    :  7h40.8m
+6 Jan 2019	Rise  :  8h33.7m  Set  : 16h16.2m  Transit: 12h24m48s
+        az=128.6°        az=231.5°          Altitude=14.1° Sgr
+Dawn  :  7h07m    Dusk : 17h43m    Day    :  7h42.5m
+7 Jan 2019	Rise  :  8h33.2m  Set  : 16h17.6m  Transit: 12h25m15s
+        az=128.4°        az=231.7°          Altitude=14.2° Sgr
+Dawn  :  7h06m    Dusk : 17h44m    Day    :  7h44.4m
+8 Jan 2019	Rise  :  8h32.7m  Set  : 16h19.0m  Transit: 12h25m40s
+        az=128.1°        az=232.0°          Altitude=14.3° Sgr
+Dawn  :  7h06m    Dusk : 17h46m    Day    :  7h46.3m
+9 Jan 2019	Rise  :  8h32.1m  Set  : 16h20.4m  Transit: 12h26m06s
+        az=127.8°        az=232.3°          Altitude=14.5° Sgr
+Dawn  :  7h06m    Dusk : 17h47m    Day    :  7h48.3m
+10 Jan 2019	Rise  :  8h31.5m  Set  : 16h21.9m  Transit: 12h26m30s
+        az=127.6°        az=232.5°          Altitude=14.6° Sgr
+Dawn  :  7h05m    Dusk : 17h48m    Day    :  7h50.4m
+11 Jan 2019	Rise  :  8h30.8m  Set  : 16h23.4m  Transit: 12h26m54s
+        az=127.3°        az=232.8°          Altitude=14.8° Sgr
+Dawn  :  7h05m    Dusk : 17h49m    Day    :  7h52.7m
+12 Jan 2019	Rise  :  8h30.0m  Set  : 16h25.0m  Transit: 12h27m18s
+        az=126.9°        az=233.2°          Altitude=14.9° Sgr
+Dawn  :  7h04m    Dusk : 17h51m    Day    :  7h55.0m
+13 Jan 2019	Rise  :  8h29.2m  Set  : 16h26.6m  Transit: 12h27m41s
+        az=126.6°        az=233.5°          Altitude=15.1° Sgr
+Dawn  :  7h04m    Dusk : 17h52m    Day    :  7h57.4m
+14 Jan 2019	Rise  :  8h28.3m  Set  : 16h28.2m  Transit: 12h28m03s
+        az=126.3°        az=233.8°          Altitude=15.3° Sgr
+Dawn  :  7h03m    Dusk : 17h53m    Day    :  7h59.8m
+15 Jan 2019	Rise  :  8h27.4m  Set  : 16h29.8m  Transit: 12h28m25s
+        az=125.9°        az=234.2°          Altitude=15.4° Sgr
+Dawn  :  7h02m    Dusk : 17h55m    Day    :  8h02.4m
+16 Jan 2019	Rise  :  8h26.5m  Set  : 16h31.5m  Transit: 12h28m45s
+        az=125.6°        az=234.5°          Altitude=15.6° Sgr
+Dawn  :  7h02m    Dusk : 17h56m    Day    :  8h05.1m
+17 Jan 2019	Rise  :  8h25.4m  Set  : 16h33.2m  Transit: 12h29m06s
+        az=125.2°        az=234.9°          Altitude=15.8° Sgr
+Dawn  :  7h01m    Dusk : 17h58m    Day    :  8h07.8m
+18 Jan 2019	Rise  :  8h24.4m  Set  : 16h34.9m  Transit: 12h29m25s
+        az=124.8°        az=235.3°          Altitude=16.0° Sgr
+Dawn  :  7h00m    Dusk : 17h59m    Day    :  8h10.6m
+19 Jan 2019	Rise  :  8h23.3m  Set  : 16h36.7m  Transit: 12h29m44s
+        az=124.4°        az=235.7°          Altitude=16.2° Sgr
+Dawn  :  6h59m    Dusk : 18h01m    Day    :  8h13.4m
+20 Jan 2019	Rise  :  8h22.1m  Set  : 16h38.5m  Transit: 12h30m02s
+        az=124.0°        az=236.1°          Altitude=16.4° Sgr
+Dawn  :  6h58m    Dusk : 18h02m    Day    :  8h16.4m
+21 Jan 2019	Rise  :  8h20.9m  Set  : 16h40.3m  Transit: 12h30m19s
+        az=123.6°        az=236.5°          Altitude=16.7° Cap
+Dawn  :  6h58m    Dusk : 18h04m    Day    :  8h19.4m
+22 Jan 2019	Rise  :  8h19.6m  Set  : 16h42.1m  Transit: 12h30m35s
+        az=123.2°        az=237.0°          Altitude=16.9° Cap
+Dawn  :  6h57m    Dusk : 18h05m    Day    :  8h22.5m
+23 Jan 2019	Rise  :  8h18.3m  Set  : 16h43.9m  Transit: 12h30m51s
+        az=122.8°        az=237.4°          Altitude=17.1° Cap
+Dawn  :  6h56m    Dusk : 18h07m    Day    :  8h25.6m
+24 Jan 2019	Rise  :  8h17.0m  Set  : 16h45.8m  Transit: 12h31m06s
+        az=122.3°        az=237.8°          Altitude=17.4° Cap
+Dawn  :  6h54m    Dusk : 18h08m    Day    :  8h28.8m
+25 Jan 2019	Rise  :  8h15.6m  Set  : 16h47.7m  Transit: 12h31m20s
+        az=121.9°        az=238.3°          Altitude=17.6° Cap
+Dawn  :  6h53m    Dusk : 18h10m    Day    :  8h32.1m
+26 Jan 2019	Rise  :  8h14.2m  Set  : 16h49.6m  Transit: 12h31m33s
+        az=121.4°        az=238.8°          Altitude=17.8° Cap
+Dawn  :  6h52m    Dusk : 18h12m    Day    :  8h35.4m
+27 Jan 2019	Rise  :  8h12.7m  Set  : 16h51.5m  Transit: 12h31m46s
+        az=120.9°        az=239.2°          Altitude=18.1° Cap
+Dawn  :  6h51m    Dusk : 18h13m    Day    :  8h38.8m
+28 Jan 2019	Rise  :  8h11.2m  Set  : 16h53.4m  Transit: 12h31m58s
+        az=120.4°        az=239.7°          Altitude=18.4° Cap
+Dawn  :  6h50m    Dusk : 18h15m    Day    :  8h42.2m
+29 Jan 2019	Rise  :  8h09.6m  Set  : 16h55.3m  Transit: 12h32m09s
+        az=120.0°        az=240.2°          Altitude=18.6° Cap
+Dawn  :  6h48m    Dusk : 18h17m    Day    :  8h45.7m
+30 Jan 2019	Rise  :  8h08.0m  Set  : 16h57.2m  Transit: 12h32m19s
+        az=119.5°        az=240.7°          Altitude=18.9° Cap
+Dawn  :  6h47m    Dusk : 18h18m    Day    :  8h49.2m
+31 Jan 2019	Rise  :  8h06.4m  Set  : 16h59.2m  Transit: 12h32m29s
+        az=119.0°        az=241.2°          Altitude=19.2° Cap
+Dawn  :  6h46m    Dusk : 18h20m    Day    :  8h52.8m
+1 Feb 2019	Rise  :  8h04.8m  Set  : 17h01.1m  Transit: 12h32m37s
+        az=118.4°        az=241.8°          Altitude=19.5° Cap
+Dawn  :  6h44m    Dusk : 18h22m    Day    :  8h56.4m
+2 Feb 2019	Rise  :  8h03.1m  Set  : 17h03.1m  Transit: 12h32m45s
+        az=117.9°        az=242.3°          Altitude=19.7° Cap
+Dawn  :  6h43m    Dusk : 18h23m    Day    :  9h00.0m
+3 Feb 2019	Rise  :  8h01.4m  Set  : 17h05.1m  Transit: 12h32m52s
+        az=117.4°        az=242.8°          Altitude=20.0° Cap
+Dawn  :  6h42m    Dusk : 18h25m    Day    :  9h03.7m
+4 Feb 2019	Rise  :  7h59.6m  Set  : 17h07.0m  Transit: 12h32m58s
+        az=116.9°        az=243.4°          Altitude=20.3° Cap
+Dawn  :  6h40m    Dusk : 18h27m    Day    :  9h07.4m
+5 Feb 2019	Rise  :  7h57.8m  Set  : 17h09.0m  Transit: 12h33m04s
+        az=116.3°        az=243.9°          Altitude=20.6° Cap
+Dawn  :  6h39m    Dusk : 18h28m    Day    :  9h11.2m
+6 Feb 2019	Rise  :  7h56.0m  Set  : 17h11.0m  Transit: 12h33m08s
+        az=115.8°        az=244.4°          Altitude=20.9° Cap
+Dawn  :  6h37m    Dusk : 18h30m    Day    :  9h15.0m
+7 Feb 2019	Rise  :  7h54.2m  Set  : 17h13.0m  Transit: 12h33m12s
+        az=115.2°        az=245.0°          Altitude=21.2° Cap
+Dawn  :  6h35m    Dusk : 18h32m    Day    :  9h18.8m
+8 Feb 2019	Rise  :  7h52.3m  Set  : 17h15.0m  Transit: 12h33m15s
+        az=114.6°        az=245.6°          Altitude=21.6° Cap
+Dawn  :  6h34m    Dusk : 18h34m    Day    :  9h22.7m
+9 Feb 2019	Rise  :  7h50.4m  Set  : 17h16.9m  Transit: 12h33m17s
+        az=114.1°        az=246.1°          Altitude=21.9° Cap
+Dawn  :  6h32m    Dusk : 18h35m    Day    :  9h26.6m
+10 Feb 2019	Rise  :  7h48.5m  Set  : 17h18.9m  Transit: 12h33m18s
+        az=113.5°        az=246.7°          Altitude=22.2° Cap
+Dawn  :  6h30m    Dusk : 18h37m    Day    :  9h30.5m
+11 Feb 2019	Rise  :  7h46.5m  Set  : 17h20.9m  Transit: 12h33m19s
+        az=112.9°        az=247.3°          Altitude=22.5° Cap
+Dawn  :  6h29m    Dusk : 18h39m    Day    :  9h34.4m
+12 Feb 2019	Rise  :  7h44.5m  Set  : 17h22.9m  Transit: 12h33m19s
+        az=112.4°        az=247.9°          Altitude=22.9° Cap
+Dawn  :  6h27m    Dusk : 18h41m    Day    :  9h38.4m
+13 Feb 2019	Rise  :  7h42.5m  Set  : 17h24.9m  Transit: 12h33m18s
+        az=111.8°        az=248.5°          Altitude=23.2° Cap
+Dawn  :  6h25m    Dusk : 18h43m    Day    :  9h42.4m
+14 Feb 2019	Rise  :  7h40.5m  Set  : 17h26.9m  Transit: 12h33m16s
+        az=111.2°        az=249.1°          Altitude=23.5° Cap
+Dawn  :  6h23m    Dusk : 18h44m    Day    :  9h46.4m
+15 Feb 2019	Rise  :  7h38.4m  Set  : 17h28.8m  Transit: 12h33m13s
+        az=110.6°        az=249.7°          Altitude=23.9° Cap
+Dawn  :  6h21m    Dusk : 18h46m    Day    :  9h50.4m
+16 Feb 2019	Rise  :  7h36.4m  Set  : 17h30.8m  Transit: 12h33m10s
+        az=110.0°        az=250.3°          Altitude=24.2° Cap
+Dawn  :  6h19m    Dusk : 18h48m    Day    :  9h54.4m
+17 Feb 2019	Rise  :  7h34.3m  Set  : 17h32.8m  Transit: 12h33m06s
+        az=109.4°        az=250.9°          Altitude=24.6° Aqr
+Dawn  :  6h17m    Dusk : 18h50m    Day    :  9h58.5m
+18 Feb 2019	Rise  :  7h32.2m  Set  : 17h34.7m  Transit: 12h33m01s
+        az=108.8°        az=251.5°          Altitude=24.9° Aqr
+Dawn  :  6h16m    Dusk : 18h52m    Day    : 10h02.6m
+19 Feb 2019	Rise  :  7h30.0m  Set  : 17h36.7m  Transit: 12h32m56s
+        az=108.1°        az=252.1°          Altitude=25.3° Aqr
+Dawn  :  6h14m    Dusk : 18h53m    Day    : 10h06.7m
+20 Feb 2019	Rise  :  7h27.9m  Set  : 17h38.7m  Transit: 12h32m50s
+        az=107.5°        az=252.7°          Altitude=25.6° Aqr
+Dawn  :  6h12m    Dusk : 18h55m    Day    : 10h10.8m
+21 Feb 2019	Rise  :  7h25.7m  Set  : 17h40.6m  Transit: 12h32m43s
+        az=106.9°        az=253.4°          Altitude=26.0° Aqr
+Dawn  :  6h10m    Dusk : 18h57m    Day    : 10h14.9m
+22 Feb 2019	Rise  :  7h23.5m  Set  : 17h42.6m  Transit: 12h32m36s
+        az=106.3°        az=254.0°          Altitude=26.3° Aqr
+Dawn  :  6h07m    Dusk : 18h59m    Day    : 10h19.1m
+23 Feb 2019	Rise  :  7h21.3m  Set  : 17h44.5m  Transit: 12h32m28s
+        az=105.7°        az=254.6°          Altitude=26.7° Aqr
+Dawn  :  6h05m    Dusk : 19h01m    Day    : 10h23.2m
+24 Feb 2019	Rise  :  7h19.1m  Set  : 17h46.5m  Transit: 12h32m20s
+        az=105.0°        az=255.3°          Altitude=27.1° Aqr
+Dawn  :  6h03m    Dusk : 19h02m    Day    : 10h27.4m
+25 Feb 2019	Rise  :  7h16.9m  Set  : 17h48.4m  Transit: 12h32m10s
+        az=104.4°        az=255.9°          Altitude=27.4° Aqr
+Dawn  :  6h01m    Dusk : 19h04m    Day    : 10h31.6m
+26 Feb 2019	Rise  :  7h14.6m  Set  : 17h50.3m  Transit: 12h32m01s
+        az=103.8°        az=256.5°          Altitude=27.8° Aqr
+Dawn  :  5h59m    Dusk : 19h06m    Day    : 10h35.7m
+27 Feb 2019	Rise  :  7h12.3m  Set  : 17h52.3m  Transit: 12h31m51s
+        az=103.1°        az=257.2°          Altitude=28.2° Aqr
+Dawn  :  5h57m    Dusk : 19h08m    Day    : 10h39.9m
+28 Feb 2019	Rise  :  7h10.1m  Set  : 17h54.2m  Transit: 12h31m40s
+        az=102.5°        az=257.8°          Altitude=28.6° Aqr
+Dawn  :  5h55m    Dusk : 19h10m    Day    : 10h44.1m
+1 Mar 2019	Rise  :  7h07.8m  Set  : 17h56.1m  Transit: 12h31m28s
+        az=101.8°        az=258.5°          Altitude=28.9° Aqr
+Dawn  :  5h52m    Dusk : 19h12m    Day    : 10h48.4m
+2 Mar 2019	Rise  :  7h05.5m  Set  : 17h58.0m  Transit: 12h31m17s
+        az=101.2°        az=259.1°          Altitude=29.3° Aqr
+Dawn  :  5h50m    Dusk : 19h14m    Day    : 10h52.6m
+3 Mar 2019	Rise  :  7h03.2m  Set  : 18h00.0m  Transit: 12h31m05s
+        az=100.5°        az=259.8°          Altitude=29.7° Aqr
+Dawn  :  5h48m    Dusk : 19h15m    Day    : 10h56.8m
+4 Mar 2019	Rise  :  7h00.8m  Set  : 18h01.9m  Transit: 12h30m52s
+        az= 99.9°        az=260.4°          Altitude=30.1° Aqr
+Dawn  :  5h46m    Dusk : 19h17m    Day    : 11h01.0m
+5 Mar 2019	Rise  :  6h58.5m  Set  : 18h03.8m  Transit: 12h30m39s
+        az= 99.2°        az=261.1°          Altitude=30.5° Aqr
+Dawn  :  5h43m    Dusk : 19h19m    Day    : 11h05.3m
+6 Mar 2019	Rise  :  6h56.2m  Set  : 18h05.7m  Transit: 12h30m25s
+        az= 98.6°        az=261.7°          Altitude=30.9° Aqr
+Dawn  :  5h41m    Dusk : 19h21m    Day    : 11h09.5m
+7 Mar 2019	Rise  :  6h53.8m  Set  : 18h07.6m  Transit: 12h30m11s
+        az= 97.9°        az=262.4°          Altitude=31.3° Aqr
+Dawn  :  5h39m    Dusk : 19h23m    Day    : 11h13.8m
+8 Mar 2019	Rise  :  6h51.4m  Set  : 18h09.5m  Transit: 12h29m57s
+        az= 97.3°        az=263.0°          Altitude=31.6° Aqr
+Dawn  :  5h36m    Dusk : 19h25m    Day    : 11h18.0m
+9 Mar 2019	Rise  :  6h49.1m  Set  : 18h11.3m  Transit: 12h29m42s
+        az= 96.6°        az=263.7°          Altitude=32.0° Aqr
+Dawn  :  5h34m    Dusk : 19h27m    Day    : 11h22.3m
+10 Mar 2019	Rise  :  6h46.7m  Set  : 18h13.2m  Transit: 12h29m27s
+        az= 96.0°        az=264.4°          Altitude=32.4° Aqr
+Dawn  :  5h32m    Dusk : 19h29m    Day    : 11h26.5m
+11 Mar 2019	Rise  :  6h44.3m  Set  : 18h15.1m  Transit: 12h29m11s
+        az= 95.3°        az=265.0°          Altitude=32.8° Aqr
+Dawn  :  5h29m    Dusk : 19h31m    Day    : 11h30.8m
+12 Mar 2019	Rise  :  6h41.9m  Set  : 18h17.0m  Transit: 12h28m56s
+        az= 94.6°        az=265.7°          Altitude=33.2° Aqr
+Dawn  :  5h27m    Dusk : 19h32m    Day    : 11h35.0m
+13 Mar 2019	Rise  :  6h39.5m  Set  : 18h18.8m  Transit: 12h28m40s
+        az= 94.0°        az=266.3°          Altitude=33.6° Psc
+Dawn  :  5h24m    Dusk : 19h34m    Day    : 11h39.3m
+14 Mar 2019	Rise  :  6h37.1m  Set  : 18h20.7m  Transit: 12h28m23s
+        az= 93.3°        az=267.0°          Altitude=34.0° Psc
+Dawn  :  5h22m    Dusk : 19h36m    Day    : 11h43.6m
+15 Mar 2019	Rise  :  6h34.7m  Set  : 18h22.6m  Transit: 12h28m06s
+        az= 92.6°        az=267.7°          Altitude=34.4° Psc
+Dawn  :  5h19m    Dusk : 19h38m    Day    : 11h47.8m
+16 Mar 2019	Rise  :  6h32.3m  Set  : 18h24.4m  Transit: 12h27m49s
+        az= 92.0°        az=268.3°          Altitude=34.8° Psc
+Dawn  :  5h17m    Dusk : 19h40m    Day    : 11h52.1m
+17 Mar 2019	Rise  :  6h29.9m  Set  : 18h26.3m  Transit: 12h27m32s
+        az= 91.3°        az=269.0°          Altitude=35.2° Psc
+Dawn  :  5h14m    Dusk : 19h42m    Day    : 11h56.4m
+18 Mar 2019	Rise  :  6h27.5m  Set  : 18h28.1m  Transit: 12h27m15s
+        az= 90.7°        az=269.7°          Altitude=35.6° Psc
+Dawn  :  5h12m    Dusk : 19h44m    Day    : 12h00.6m
+19 Mar 2019	Rise  :  6h25.0m  Set  : 18h30.0m  Transit: 12h26m57s
+        az= 90.0°        az=270.3°          Altitude=36.0° Psc
+Dawn  :  5h09m    Dusk : 19h46m    Day    : 12h04.9m
+20 Mar 2019	Rise  :  6h22.6m  Set  : 18h31.8m  Transit: 12h26m40s
+        az= 89.3°        az=271.0°          Altitude=36.4° Psc
+Dawn  :  5h07m    Dusk : 19h48m    Day    : 12h09.2m
+21 Mar 2019	Rise  :  6h20.2m  Set  : 18h33.6m  Transit: 12h26m22s
+        az= 88.7°        az=271.7°          Altitude=36.8° Psc
+Dawn  :  5h04m    Dusk : 19h50m    Day    : 12h13.5m
+22 Mar 2019	Rise  :  6h17.8m  Set  : 18h35.5m  Transit: 12h26m04s
+        az= 88.0°        az=272.3°          Altitude=37.2° Psc
+Dawn  :  5h01m    Dusk : 19h52m    Day    : 12h17.7m
+23 Mar 2019	Rise  :  6h15.3m  Set  : 18h37.3m  Transit: 12h25m46s
+        az= 87.3°        az=273.0°          Altitude=37.5° Psc
+Dawn  :  4h59m    Dusk : 19h54m    Day    : 12h22.0m
+24 Mar 2019	Rise  :  6h12.9m  Set  : 18h39.1m  Transit: 12h25m28s
+        az= 86.7°        az=273.7°          Altitude=37.9° Psc
+Dawn  :  4h56m    Dusk : 19h56m    Day    : 12h26.2m
+25 Mar 2019	Rise  :  6h10.5m  Set  : 18h41.0m  Transit: 12h25m10s
+        az= 86.0°        az=274.3°          Altitude=38.3° Psc
+Dawn  :  4h54m    Dusk : 19h58m    Day    : 12h30.5m
+26 Mar 2019	Rise  :  6h08.0m  Set  : 18h42.8m  Transit: 12h24m51s
+        az= 85.4°        az=275.0°          Altitude=38.7° Psc
+Dawn  :  4h51m    Dusk : 20h00m    Day    : 12h34.8m
+27 Mar 2019	Rise  :  6h05.6m  Set  : 18h44.6m  Transit: 12h24m33s
+        az= 84.7°        az=275.6°          Altitude=39.1° Psc
+Dawn  :  4h48m    Dusk : 20h02m    Day    : 12h39.0m
+28 Mar 2019	Rise  :  6h03.2m  Set  : 18h46.5m  Transit: 12h24m15s
+        az= 84.0°        az=276.3°          Altitude=39.5° Psc
+Dawn  :  4h46m    Dusk : 20h04m    Day    : 12h43.3m
+29 Mar 2019	Rise  :  6h00.8m  Set  : 18h48.3m  Transit: 12h23m57s
+        az= 83.4°        az=277.0°          Altitude=39.9° Psc
+Dawn  :  4h43m    Dusk : 20h06m    Day    : 12h47.5m
+30 Mar 2019	Rise  :  5h58.3m  Set  : 18h50.1m  Transit: 12h23m39s
+        az= 82.7°        az=277.6°          Altitude=40.3° Psc
+Dawn  :  4h40m    Dusk : 20h08m    Day    : 12h51.8m
+31 Mar 2019	Rise  :  6h55.9m  Set  : 19h51.9m  Transit: 13h23m21s
+        az= 82.1°        az=278.3°          Altitude=40.7° Psc
+Dawn  :  5h38m    Dusk : 21h11m    Day    : 12h56.0m
+1 Apr 2019	Rise  :  6h53.5m  Set  : 19h53.8m  Transit: 13h23m03s
+        az= 81.4°        az=278.9°          Altitude=41.1° Psc
+Dawn  :  5h35m    Dusk : 21h13m    Day    : 13h00.3m
+2 Apr 2019	Rise  :  6h51.1m  Set  : 19h55.6m  Transit: 13h22m46s
+        az= 80.8°        az=279.6°          Altitude=41.4° Psc
+Dawn  :  5h32m    Dusk : 21h15m    Day    : 13h04.5m
+3 Apr 2019	Rise  :  6h48.7m  Set  : 19h57.4m  Transit: 13h22m28s
+        az= 80.1°        az=280.2°          Altitude=41.8° Psc
+Dawn  :  5h30m    Dusk : 21h17m    Day    : 13h08.7m
+4 Apr 2019	Rise  :  6h46.3m  Set  : 19h59.2m  Transit: 13h22m11s
+        az= 79.5°        az=280.9°          Altitude=42.2° Psc
+Dawn  :  5h27m    Dusk : 21h19m    Day    : 13h13.0m
+5 Apr 2019	Rise  :  6h43.9m  Set  : 20h01.1m  Transit: 13h21m53s
+        az= 78.8°        az=281.5°          Altitude=42.6° Psc
+Dawn  :  5h24m    Dusk : 21h21m    Day    : 13h17.2m
+6 Apr 2019	Rise  :  6h41.5m  Set  : 20h02.9m  Transit: 13h21m36s
+        az= 78.2°        az=282.2°          Altitude=43.0° Psc
+Dawn  :  5h21m    Dusk : 21h23m    Day    : 13h21.4m
+7 Apr 2019	Rise  :  6h39.1m  Set  : 20h04.7m  Transit: 13h21m19s
+        az= 77.5°        az=282.8°          Altitude=43.3° Psc
+Dawn  :  5h19m    Dusk : 21h26m    Day    : 13h25.6m
+8 Apr 2019	Rise  :  6h36.7m  Set  : 20h06.5m  Transit: 13h21m03s
+        az= 76.9°        az=283.5°          Altitude=43.7° Psc
+Dawn  :  5h16m    Dusk : 21h28m    Day    : 13h29.8m
+9 Apr 2019	Rise  :  6h34.4m  Set  : 20h08.4m  Transit: 13h20m46s
+        az= 76.2°        az=284.1°          Altitude=44.1° Psc
+Dawn  :  5h13m    Dusk : 21h30m    Day    : 13h34.0m
+10 Apr 2019	Rise  :  6h32.0m  Set  : 20h10.2m  Transit: 13h20m30s
+        az= 75.6°        az=284.8°          Altitude=44.5° Psc
+Dawn  :  5h10m    Dusk : 21h32m    Day    : 13h38.2m
+11 Apr 2019	Rise  :  6h29.6m  Set  : 20h12.0m  Transit: 13h20m14s
+        az= 75.0°        az=285.4°          Altitude=44.8° Psc
+Dawn  :  5h08m    Dusk : 21h35m    Day    : 13h42.4m
+12 Apr 2019	Rise  :  6h27.3m  Set  : 20h13.8m  Transit: 13h19m59s
+        az= 74.3°        az=286.0°          Altitude=45.2° Psc
+Dawn  :  5h05m    Dusk : 21h37m    Day    : 13h46.5m
+13 Apr 2019	Rise  :  6h25.0m  Set  : 20h15.7m  Transit: 13h19m43s
+        az= 73.7°        az=286.7°          Altitude=45.6° Psc
+Dawn  :  5h02m    Dusk : 21h39m    Day    : 13h50.7m
+14 Apr 2019	Rise  :  6h22.6m  Set  : 20h17.5m  Transit: 13h19m28s
+        az= 73.1°        az=287.3°          Altitude=45.9° Psc
+Dawn  :  4h59m    Dusk : 21h41m    Day    : 13h54.8m
+15 Apr 2019	Rise  :  6h20.3m  Set  : 20h19.3m  Transit: 13h19m13s
+        az= 72.5°        az=287.9°          Altitude=46.3° Psc
+Dawn  :  4h57m    Dusk : 21h44m    Day    : 13h59.0m
+16 Apr 2019	Rise  :  6h18.0m  Set  : 20h21.1m  Transit: 13h18m59s
+        az= 71.8°        az=288.5°          Altitude=46.6° Psc
+Dawn  :  4h54m    Dusk : 21h46m    Day    : 14h03.1m
+17 Apr 2019	Rise  :  6h15.7m  Set  : 20h23.0m  Transit: 13h18m45s
+        az= 71.2°        az=289.1°          Altitude=47.0° Psc
+Dawn  :  4h51m    Dusk : 21h48m    Day    : 14h07.2m
+18 Apr 2019	Rise  :  6h13.5m  Set  : 20h24.8m  Transit: 13h18m31s
+        az= 70.6°        az=289.8°          Altitude=47.3° Psc
+Dawn  :  4h48m    Dusk : 21h51m    Day    : 14h11.3m
+19 Apr 2019	Rise  :  6h11.2m  Set  : 20h26.6m  Transit: 13h18m18s
+        az= 70.0°        az=290.4°          Altitude=47.7° Psc
+Dawn  :  4h45m    Dusk : 21h53m    Day    : 14h15.4m
+20 Apr 2019	Rise  :  6h09.0m  Set  : 20h28.4m  Transit: 13h18m05s
+        az= 69.4°        az=291.0°          Altitude=48.0° Ari
+Dawn  :  4h42m    Dusk : 21h56m    Day    : 14h19.5m
+21 Apr 2019	Rise  :  6h06.7m  Set  : 20h30.2m  Transit: 13h17m52s
+        az= 68.8°        az=291.6°          Altitude=48.4° Ari
+Dawn  :  4h40m    Dusk : 21h58m    Day    : 14h23.5m
+22 Apr 2019	Rise  :  6h04.5m  Set  : 20h32.1m  Transit: 13h17m40s
+        az= 68.2°        az=292.2°          Altitude=48.7° Ari
+Dawn  :  4h37m    Dusk : 22h00m    Day    : 14h27.6m
+23 Apr 2019	Rise  :  6h02.3m  Set  : 20h33.9m  Transit: 13h17m29s
+        az= 67.6°        az=292.8°          Altitude=49.0° Ari
+Dawn  :  4h34m    Dusk : 22h03m    Day    : 14h31.6m
+24 Apr 2019	Rise  :  6h00.1m  Set  : 20h35.7m  Transit: 13h17m18s
+        az= 67.0°        az=293.3°          Altitude=49.4° Ari
+Dawn  :  4h31m    Dusk : 22h05m    Day    : 14h35.6m
+25 Apr 2019	Rise  :  5h57.9m  Set  : 20h37.5m  Transit: 13h17m07s
+        az= 66.4°        az=293.9°          Altitude=49.7° Ari
+Dawn  :  4h28m    Dusk : 22h08m    Day    : 14h39.6m
+26 Apr 2019	Rise  :  5h55.8m  Set  : 20h39.3m  Transit: 13h16m57s
+        az= 65.8°        az=294.5°          Altitude=50.0° Ari
+Dawn  :  4h25m    Dusk : 22h10m    Day    : 14h43.5m
+27 Apr 2019	Rise  :  5h53.7m  Set  : 20h41.1m  Transit: 13h16m47s
+        az= 65.3°        az=295.1°          Altitude=50.3° Ari
+Dawn  :  4h23m    Dusk : 22h13m    Day    : 14h47.5m
+28 Apr 2019	Rise  :  5h51.5m  Set  : 20h42.9m  Transit: 13h16m38s
+        az= 64.7°        az=295.7°          Altitude=50.7° Ari
+Dawn  :  4h20m    Dusk : 22h15m    Day    : 14h51.4m
+29 Apr 2019	Rise  :  5h49.5m  Set  : 20h44.7m  Transit: 13h16m30s
+        az= 64.1°        az=296.2°          Altitude=51.0° Ari
+Dawn  :  4h17m    Dusk : 22h18m    Day    : 14h55.3m
+30 Apr 2019	Rise  :  5h47.4m  Set  : 20h46.5m  Transit: 13h16m22s
+        az= 63.6°        az=296.8°          Altitude=51.3° Ari
+Dawn  :  4h14m    Dusk : 22h21m    Day    : 14h59.1m
+1 May 2019	Rise  :  5h45.3m  Set  : 20h48.3m  Transit: 13h16m14s
+        az= 63.0°        az=297.3°          Altitude=51.6° Ari
+Dawn  :  4h11m    Dusk : 22h23m    Day    : 15h03.0m
+2 May 2019	Rise  :  5h43.3m  Set  : 20h50.1m  Transit: 13h16m07s
+        az= 62.5°        az=297.9°          Altitude=51.9° Ari
+Dawn  :  4h08m    Dusk : 22h26m    Day    : 15h06.8m
+3 May 2019	Rise  :  5h41.3m  Set  : 20h51.9m  Transit: 13h16m01s
+        az= 61.9°        az=298.4°          Altitude=52.2° Ari
+Dawn  :  4h06m    Dusk : 22h28m    Day    : 15h10.6m
+4 May 2019	Rise  :  5h39.3m  Set  : 20h53.7m  Transit: 13h15m55s
+        az= 61.4°        az=299.0°          Altitude=52.5° Ari
+Dawn  :  4h03m    Dusk : 22h31m    Day    : 15h14.4m
+5 May 2019	Rise  :  5h37.4m  Set  : 20h55.5m  Transit: 13h15m50s
+        az= 60.8°        az=299.5°          Altitude=52.8° Ari
+Dawn  :  4h00m    Dusk : 22h34m    Day    : 15h18.1m
+6 May 2019	Rise  :  5h35.4m  Set  : 20h57.2m  Transit: 13h15m45s
+        az= 60.3°        az=300.0°          Altitude=53.1° Ari
+Dawn  :  3h57m    Dusk : 22h36m    Day    : 15h21.8m
+7 May 2019	Rise  :  5h33.5m  Set  : 20h59.0m  Transit: 13h15m41s
+        az= 59.8°        az=300.5°          Altitude=53.3° Ari
+Dawn  :  3h54m    Dusk : 22h39m    Day    : 15h25.4m
+8 May 2019	Rise  :  5h31.7m  Set  : 21h00.7m  Transit: 13h15m37s
+        az= 59.3°        az=301.0°          Altitude=53.6° Ari
+Dawn  :  3h52m    Dusk : 22h42m    Day    : 15h29.1m
+9 May 2019	Rise  :  5h29.8m  Set  : 21h02.5m  Transit: 13h15m34s
+        az= 58.8°        az=301.5°          Altitude=53.9° Ari
+Dawn  :  3h49m    Dusk : 22h45m    Day    : 15h32.6m
+10 May 2019	Rise  :  5h28.0m  Set  : 21h04.2m  Transit: 13h15m32s
+        az= 58.3°        az=302.0°          Altitude=54.1° Ari
+Dawn  :  3h46m    Dusk : 22h47m    Day    : 15h36.2m
+11 May 2019	Rise  :  5h26.2m  Set  : 21h05.9m  Transit: 13h15m30s
+        az= 57.8°        az=302.5°          Altitude=54.4° Ari
+Dawn  :  3h43m    Dusk : 22h50m    Day    : 15h39.7m
+12 May 2019	Rise  :  5h24.5m  Set  : 21h07.6m  Transit: 13h15m28s
+        az= 57.3°        az=303.0°          Altitude=54.6° Ari
+Dawn  :  3h40m    Dusk : 22h53m    Day    : 15h43.1m
+13 May 2019	Rise  :  5h22.7m  Set  : 21h09.3m  Transit: 13h15m27s
+        az= 56.8°        az=303.5°          Altitude=54.9° Ari
+Dawn  :  3h38m    Dusk : 22h56m    Day    : 15h46.5m
+14 May 2019	Rise  :  5h21.0m  Set  : 21h11.0m  Transit: 13h15m27s
+        az= 56.4°        az=303.9°          Altitude=55.1° Ari
+Dawn  :  3h35m    Dusk : 22h58m    Day    : 15h49.9m
+15 May 2019	Rise  :  5h19.4m  Set  : 21h12.6m  Transit: 13h15m27s
+        az= 55.9°        az=304.4°          Altitude=55.4° Tau
+Dawn  :  3h32m    Dusk : 23h01m    Day    : 15h53.2m
+16 May 2019	Rise  :  5h17.8m  Set  : 21h14.3m  Transit: 13h15m28s
+        az= 55.4°        az=304.9°          Altitude=55.6° Tau
+Dawn  :  3h29m    Dusk : 23h04m    Day    : 15h56.5m
+17 May 2019	Rise  :  5h16.2m  Set  : 21h15.9m  Transit: 13h15m30s
+        az= 55.0°        az=305.3°          Altitude=55.8° Tau
+Dawn  :  3h26m    Dusk : 23h07m    Day    : 15h59.7m
+18 May 2019	Rise  :  5h14.6m  Set  : 21h17.5m  Transit: 13h15m32s
+        az= 54.6°        az=305.7°          Altitude=56.1° Tau
+Dawn  :  3h24m    Dusk : 23h10m    Day    : 16h02.8m
+19 May 2019	Rise  :  5h13.1m  Set  : 21h19.1m  Transit: 13h15m34s
+        az= 54.1°        az=306.1°          Altitude=56.3° Tau
+Dawn  :  3h21m    Dusk : 23h12m    Day    : 16h05.9m
+20 May 2019	Rise  :  5h11.6m  Set  : 21h20.6m  Transit: 13h15m37s
+        az= 53.7°        az=306.6°          Altitude=56.5° Tau
+Dawn  :  3h18m    Dusk : 23h15m    Day    : 16h09.0m
+21 May 2019	Rise  :  5h10.2m  Set  : 21h22.1m  Transit: 13h15m41s
+        az= 53.3°        az=307.0°          Altitude=56.7° Tau
+Dawn  :  3h16m    Dusk : 23h18m    Day    : 16h12.0m
+22 May 2019	Rise  :  5h08.8m  Set  : 21h23.7m  Transit: 13h15m45s
+        az= 52.9°        az=307.3°          Altitude=56.9° Tau
+Dawn  :  3h13m    Dusk : 23h21m    Day    : 16h14.9m
+23 May 2019	Rise  :  5h07.4m  Set  : 21h25.2m  Transit: 13h15m49s
+        az= 52.5°        az=307.7°          Altitude=57.1° Tau
+Dawn  :  3h10m    Dusk : 23h24m    Day    : 16h17.7m
+24 May 2019	Rise  :  5h06.1m  Set  : 21h26.6m  Transit: 13h15m55s
+        az= 52.1°        az=308.1°          Altitude=57.3° Tau
+Dawn  :  3h08m    Dusk : 23h26m    Day    : 16h20.5m
+25 May 2019	Rise  :  5h04.9m  Set  : 21h28.1m  Transit: 13h16m00s
+        az= 51.8°        az=308.5°          Altitude=57.5° Tau
+Dawn  :  3h05m    Dusk : 23h29m    Day    : 16h23.2m
+26 May 2019	Rise  :  5h03.6m  Set  : 21h29.5m  Transit: 13h16m06s
+        az= 51.4°        az=308.8°          Altitude=57.6° Tau
+Dawn  :  3h03m    Dusk : 23h32m    Day    : 16h25.8m
+27 May 2019	Rise  :  5h02.5m  Set  : 21h30.8m  Transit: 13h16m13s
+        az= 51.1°        az=309.2°          Altitude=57.8° Tau
+Dawn  :  3h00m    Dusk : 23h35m    Day    : 16h28.4m
+28 May 2019	Rise  :  5h01.3m  Set  : 21h32.2m  Transit: 13h16m20s
+        az= 50.7°        az=309.5°          Altitude=58.0° Tau
+Dawn  :  2h57m    Dusk : 23h37m    Day    : 16h30.9m
+29 May 2019	Rise  :  5h00.2m  Set  : 21h33.5m  Transit: 13h16m28s
+        az= 50.4°        az=309.8°          Altitude=58.1° Tau
+Dawn  :  2h55m    Dusk : 23h40m    Day    : 16h33.3m
+30 May 2019	Rise  :  4h59.2m  Set  : 21h34.8m  Transit: 13h16m36s
+        az= 50.1°        az=310.1°          Altitude=58.3° Tau
+Dawn  :  2h53m    Dusk : 23h43m    Day    : 16h35.6m
+31 May 2019	Rise  :  4h58.2m  Set  : 21h36.0m  Transit: 13h16m45s
+        az= 49.8°        az=310.4°          Altitude=58.4° Tau
+Dawn  :  2h50m    Dusk : 23h45m    Day    : 16h37.8m
+1 Jun 2019	Rise  :  4h57.3m  Set  : 21h37.2m  Transit: 13h16m54s
+        az= 49.5°        az=310.7°          Altitude=58.6° Tau
+Dawn  :  2h48m    Dusk : 23h48m    Day    : 16h40.0m
+2 Jun 2019	Rise  :  4h56.4m  Set  : 21h38.4m  Transit: 13h17m03s
+        az= 49.2°        az=310.9°          Altitude=58.7° Tau
+Dawn  :  2h46m    Dusk : 23h51m    Day    : 16h42.0m
+3 Jun 2019	Rise  :  4h55.5m  Set  : 21h39.6m  Transit: 13h17m13s
+        az= 49.0°        az=311.2°          Altitude=58.8° Tau
+Dawn  :  2h43m    Dusk : 23h53m    Day    : 16h44.0m
+4 Jun 2019	Rise  :  4h54.8m  Set  : 21h40.7m  Transit: 13h17m23s
+        az= 48.7°        az=311.4°          Altitude=58.9° Tau
+Dawn  :  2h41m    Dusk : 23h56m    Day    : 16h45.9m
+5 Jun 2019	Rise  :  4h54.0m  Set  : 21h41.7m  Transit: 13h17m34s
+        az= 48.5°        az=311.7°          Altitude=59.1° Tau
+Dawn  :  2h39m    Dusk : 23h58m    Day    : 16h47.7m
+6 Jun 2019	Rise  :  4h53.3m  Set  : 21h42.7m  Transit: 13h17m44s
+        az= 48.3°        az=311.9°          Altitude=59.2° Tau
+Dawn  :  2h37m    Dusk :  0h00m    Day    : 16h49.4m
+7 Jun 2019	Rise  :  4h52.7m  Set  : 21h43.7m  Transit: 13h17m55s
+        az= 48.0°        az=312.1°          Altitude=59.3° Tau
+Dawn  :  2h35m    Dusk :  0h00m    Day    : 16h51.0m
+8 Jun 2019	Rise  :  4h52.1m  Set  : 21h44.6m  Transit: 13h18m07s
+        az= 47.8°        az=312.3°          Altitude=59.4° Tau
+Dawn  :  2h33m    Dusk :  0h03m    Day    : 16h52.5m
+9 Jun 2019	Rise  :  4h51.6m  Set  : 21h45.5m  Transit: 13h18m18s
+        az= 47.7°        az=312.5°          Altitude=59.4° Tau
+Dawn  :  2h31m    Dusk :  0h05m    Day    : 16h53.8m
+10 Jun 2019	Rise  :  4h51.2m  Set  : 21h46.3m  Transit: 13h18m30s
+        az= 47.5°        az=312.6°          Altitude=59.5° Tau
+Dawn  :  2h30m    Dusk :  0h07m    Day    : 16h55.1m
+11 Jun 2019	Rise  :  4h50.8m  Set  : 21h47.1m  Transit: 13h18m42s
+        az= 47.3°        az=312.8°          Altitude=59.6° Tau
+Dawn  :  2h28m    Dusk :  0h09m    Day    : 16h56.3m
+12 Jun 2019	Rise  :  4h50.4m  Set  : 21h47.8m  Transit: 13h18m55s
+        az= 47.2°        az=312.9°          Altitude=59.7° Tau
+Dawn  :  2h27m    Dusk :  0h11m    Day    : 16h57.4m
+13 Jun 2019	Rise  :  4h50.1m  Set  : 21h48.4m  Transit: 13h19m07s
+        az= 47.0°        az=313.0°          Altitude=59.7° Tau
+Dawn  :  2h25m    Dusk :  0h13m    Day    : 16h58.3m
+14 Jun 2019	Rise  :  4h49.9m  Set  : 21h49.1m  Transit: 13h19m19s
+        az= 46.9°        az=313.1°          Altitude=59.8° Tau
+Dawn  :  2h24m    Dusk :  0h14m    Day    : 16h59.2m
+15 Jun 2019	Rise  :  4h49.7m  Set  : 21h49.6m  Transit: 13h19m32s
+        az= 46.8°        az=313.2°          Altitude=59.8° Tau
+Dawn  :  2h23m    Dusk :  0h16m    Day    : 16h59.9m
+16 Jun 2019	Rise  :  4h49.6m  Set  : 21h50.1m  Transit: 13h19m45s
+        az= 46.7°        az=313.3°          Altitude=59.9° Tau
+Dawn  :  2h22m    Dusk :  0h17m    Day    : 17h00.6m
+17 Jun 2019	Rise  :  4h49.5m  Set  : 21h50.6m  Transit: 13h19m58s
+        az= 46.7°        az=313.4°          Altitude=59.9° Tau
+Dawn  :  2h22m    Dusk :  0h18m    Day    : 17h01.1m
+18 Jun 2019	Rise  :  4h49.5m  Set  : 21h51.0m  Transit: 13h20m11s
+        az= 46.6°        az=313.4°          Altitude=59.9° Tau
+Dawn  :  2h21m    Dusk :  0h19m    Day    : 17h01.5m
+19 Jun 2019	Rise  :  4h49.5m  Set  : 21h51.4m  Transit: 13h20m24s
+        az= 46.6°        az=313.5°          Altitude=59.9° Tau
+Dawn  :  2h21m    Dusk :  0h20m    Day    : 17h01.8m
+20 Jun 2019	Rise  :  4h49.6m  Set  : 21h51.6m  Transit: 13h20m37s
+        az= 46.5°        az=313.5°          Altitude=60.0° Tau
+Dawn  :  2h20m    Dusk :  0h21m    Day    : 17h02.0m
+21 Jun 2019	Rise  :  4h49.8m  Set  : 21h51.9m  Transit: 13h20m50s
+        az= 46.5°        az=313.5°          Altitude=60.0° Tau
+Dawn  :  2h20m    Dusk :  0h21m    Day    : 17h02.1m
+22 Jun 2019	Rise  :  4h50.0m  Set  : 21h52.1m  Transit: 13h21m03s
+        az= 46.5°        az=313.5°          Altitude=60.0° Tau
+Dawn  :  2h21m    Dusk :  0h21m    Day    : 17h02.1m
+23 Jun 2019	Rise  :  4h50.3m  Set  : 21h52.2m  Transit: 13h21m16s
+        az= 46.5°        az=313.4°          Altitude=59.9° Gem
+Dawn  :  2h21m    Dusk :  0h21m    Day    : 17h01.9m
+24 Jun 2019	Rise  :  4h50.6m  Set  : 21h52.2m  Transit: 13h21m28s
+        az= 46.6°        az=313.4°          Altitude=59.9° Gem
+Dawn  :  2h22m    Dusk :  0h21m    Day    : 17h01.7m
+25 Jun 2019	Rise  :  4h51.0m  Set  : 21h52.3m  Transit: 13h21m41s
+        az= 46.6°        az=313.4°          Altitude=59.9° Gem
+Dawn  :  2h22m    Dusk :  0h21m    Day    : 17h01.3m
+26 Jun 2019	Rise  :  4h51.4m  Set  : 21h52.2m  Transit: 13h21m54s
+        az= 46.7°        az=313.3°          Altitude=59.9° Gem
+Dawn  :  2h23m    Dusk :  0h20m    Day    : 17h00.8m
+27 Jun 2019	Rise  :  4h51.9m  Set  : 21h52.1m  Transit: 13h22m07s
+        az= 46.7°        az=313.2°          Altitude=59.8° Gem
+Dawn  :  2h24m    Dusk :  0h20m    Day    : 17h00.2m
+28 Jun 2019	Rise  :  4h52.4m  Set  : 21h51.9m  Transit: 13h22m19s
+        az= 46.8°        az=313.1°          Altitude=59.8° Gem
+Dawn  :  2h26m    Dusk :  0h19m    Day    : 16h59.5m
+29 Jun 2019	Rise  :  4h53.0m  Set  : 21h51.7m  Transit: 13h22m31s
+        az= 46.9°        az=313.0°          Altitude=59.7° Gem
+Dawn  :  2h27m    Dusk :  0h18m    Day    : 16h58.7m
+30 Jun 2019	Rise  :  4h53.7m  Set  : 21h51.4m  Transit: 13h22m43s
+        az= 47.0°        az=312.9°          Altitude=59.7° Gem
+Dawn  :  2h29m    Dusk :  0h17m    Day    : 16h57.8m
+1 Jul 2019	Rise  :  4h54.4m  Set  : 21h51.1m  Transit: 13h22m55s
+        az= 47.2°        az=312.7°          Altitude=59.6° Gem
+Dawn  :  2h30m    Dusk :  0h16m    Day    : 16h56.7m
+2 Jul 2019	Rise  :  4h55.1m  Set  : 21h50.7m  Transit: 13h23m07s
+        az= 47.3°        az=312.6°          Altitude=59.6° Gem
+Dawn  :  2h32m    Dusk :  0h14m    Day    : 16h55.6m
+3 Jul 2019	Rise  :  4h55.9m  Set  : 21h50.2m  Transit: 13h23m18s
+        az= 47.5°        az=312.4°          Altitude=59.5° Gem
+Dawn  :  2h34m    Dusk :  0h13m    Day    : 16h54.3m
+4 Jul 2019	Rise  :  4h56.7m  Set  : 21h49.7m  Transit: 13h23m29s
+        az= 47.6°        az=312.2°          Altitude=59.4° Gem
+Dawn  :  2h36m    Dusk :  0h11m    Day    : 16h53.0m
+5 Jul 2019	Rise  :  4h57.6m  Set  : 21h49.2m  Transit: 13h23m40s
+        az= 47.8°        az=312.0°          Altitude=59.3° Gem
+Dawn  :  2h38m    Dusk :  0h09m    Day    : 16h51.6m
+6 Jul 2019	Rise  :  4h58.5m  Set  : 21h48.6m  Transit: 13h23m50s
+        az= 48.0°        az=311.8°          Altitude=59.2° Gem
+Dawn  :  2h40m    Dusk :  0h07m    Day    : 16h50.0m
+7 Jul 2019	Rise  :  4h59.5m  Set  : 21h47.9m  Transit: 13h24m00s
+        az= 48.2°        az=311.6°          Altitude=59.1° Gem
+Dawn  :  2h43m    Dusk :  0h05m    Day    : 16h48.4m
+8 Jul 2019	Rise  :  5h00.5m  Set  : 21h47.2m  Transit: 13h24m09s
+        az= 48.5°        az=311.4°          Altitude=59.0° Gem
+Dawn  :  2h45m    Dusk :  0h03m    Day    : 16h46.6m
+9 Jul 2019	Rise  :  5h01.6m  Set  : 21h46.4m  Transit: 13h24m19s
+        az= 48.7°        az=311.1°          Altitude=58.9° Gem
+Dawn  :  2h47m    Dusk :  0h01m    Day    : 16h44.8m
+10 Jul 2019	Rise  :  5h02.7m  Set  : 21h45.5m  Transit: 13h24m27s
+        az= 48.9°        az=310.9°          Altitude=58.8° Gem
+Dawn  :  2h50m    Dusk : 23h57m    Day    : 16h42.9m
+11 Jul 2019	Rise  :  5h03.8m  Set  : 21h44.7m  Transit: 13h24m35s
+        az= 49.2°        az=310.6°          Altitude=58.6° Gem
+Dawn  :  2h52m    Dusk : 23h55m    Day    : 16h40.9m
+12 Jul 2019	Rise  :  5h05.0m  Set  : 21h43.7m  Transit: 13h24m43s
+        az= 49.5°        az=310.3°          Altitude=58.5° Gem
+Dawn  :  2h55m    Dusk : 23h52m    Day    : 16h38.8m
+13 Jul 2019	Rise  :  5h06.2m  Set  : 21h42.7m  Transit: 13h24m51s
+        az= 49.8°        az=310.0°          Altitude=58.3° Gem
+Dawn  :  2h58m    Dusk : 23h50m    Day    : 16h36.6m
+14 Jul 2019	Rise  :  5h07.4m  Set  : 21h41.7m  Transit: 13h24m57s
+        az= 50.1°        az=309.7°          Altitude=58.2° Gem
+Dawn  :  3h00m    Dusk : 23h48m    Day    : 16h34.3m
+15 Jul 2019	Rise  :  5h08.7m  Set  : 21h40.6m  Transit: 13h25m04s
+        az= 50.4°        az=309.4°          Altitude=58.0° Gem
+Dawn  :  3h03m    Dusk : 23h45m    Day    : 16h31.9m
+16 Jul 2019	Rise  :  5h10.0m  Set  : 21h39.5m  Transit: 13h25m09s
+        az= 50.7°        az=309.1°          Altitude=57.9° Gem
+Dawn  :  3h05m    Dusk : 23h43m    Day    : 16h29.5m
+17 Jul 2019	Rise  :  5h11.3m  Set  : 21h38.3m  Transit: 13h25m15s
+        az= 51.0°        az=308.7°          Altitude=57.7° Gem
+Dawn  :  3h08m    Dusk : 23h40m    Day    : 16h27.0m
+18 Jul 2019	Rise  :  5h12.7m  Set  : 21h37.1m  Transit: 13h25m19s
+        az= 51.4°        az=308.4°          Altitude=57.5° Gem
+Dawn  :  3h11m    Dusk : 23h37m    Day    : 16h24.4m
+19 Jul 2019	Rise  :  5h14.1m  Set  : 21h35.8m  Transit: 13h25m24s
+        az= 51.7°        az=308.0°          Altitude=57.4° Gem
+Dawn  :  3h14m    Dusk : 23h35m    Day    : 16h21.8m
+20 Jul 2019	Rise  :  5h15.5m  Set  : 21h34.5m  Transit: 13h25m27s
+        az= 52.1°        az=307.7°          Altitude=57.2° Gem
+Dawn  :  3h16m    Dusk : 23h32m    Day    : 16h19.0m
+21 Jul 2019	Rise  :  5h16.9m  Set  : 21h33.2m  Transit: 13h25m30s
+        az= 52.5°        az=307.3°          Altitude=57.0° Gem
+Dawn  :  3h19m    Dusk : 23h30m    Day    : 16h16.3m
+22 Jul 2019	Rise  :  5h18.4m  Set  : 21h31.8m  Transit: 13h25m33s
+        az= 52.8°        az=306.9°          Altitude=56.8° Cnc
+Dawn  :  3h22m    Dusk : 23h27m    Day    : 16h13.4m
+23 Jul 2019	Rise  :  5h19.8m  Set  : 21h30.3m  Transit: 13h25m35s
+        az= 53.2°        az=306.5°          Altitude=56.6° Cnc
+Dawn  :  3h25m    Dusk : 23h24m    Day    : 16h10.5m
+24 Jul 2019	Rise  :  5h21.4m  Set  : 21h28.8m  Transit: 13h25m36s
+        az= 53.6°        az=306.1°          Altitude=56.4° Cnc
+Dawn  :  3h27m    Dusk : 23h22m    Day    : 16h07.5m
+25 Jul 2019	Rise  :  5h22.9m  Set  : 21h27.3m  Transit: 13h25m37s
+        az= 54.1°        az=305.7°          Altitude=56.2° Cnc
+Dawn  :  3h30m    Dusk : 23h19m    Day    : 16h04.5m
+26 Jul 2019	Rise  :  5h24.4m  Set  : 21h25.8m  Transit: 13h25m38s
+        az= 54.5°        az=305.2°          Altitude=56.0° Cnc
+Dawn  :  3h33m    Dusk : 23h16m    Day    : 16h01.4m
+27 Jul 2019	Rise  :  5h26.0m  Set  : 21h24.2m  Transit: 13h25m37s
+        az= 54.9°        az=304.8°          Altitude=55.7° Cnc
+Dawn  :  3h36m    Dusk : 23h13m    Day    : 15h58.2m
+28 Jul 2019	Rise  :  5h27.6m  Set  : 21h22.6m  Transit: 13h25m37s
+        az= 55.4°        az=304.4°          Altitude=55.5° Cnc
+Dawn  :  3h38m    Dusk : 23h11m    Day    : 15h55.0m
+29 Jul 2019	Rise  :  5h29.2m  Set  : 21h20.9m  Transit: 13h25m35s
+        az= 55.8°        az=303.9°          Altitude=55.3° Cnc
+Dawn  :  3h41m    Dusk : 23h08m    Day    : 15h51.7m
+30 Jul 2019	Rise  :  5h30.8m  Set  : 21h19.2m  Transit: 13h25m33s
+        az= 56.3°        az=303.4°          Altitude=55.0° Cnc
+Dawn  :  3h44m    Dusk : 23h05m    Day    : 15h48.4m
+31 Jul 2019	Rise  :  5h32.4m  Set  : 21h17.5m  Transit: 13h25m30s
+        az= 56.7°        az=303.0°          Altitude=54.8° Cnc
+Dawn  :  3h47m    Dusk : 23h02m    Day    : 15h45.1m
+1 Aug 2019	Rise  :  5h34.1m  Set  : 21h15.7m  Transit: 13h25m27s
+        az= 57.2°        az=302.5°          Altitude=54.5° Cnc
+Dawn  :  3h49m    Dusk : 22h59m    Day    : 15h41.7m
+2 Aug 2019	Rise  :  5h35.7m  Set  : 21h13.9m  Transit: 13h25m23s
+        az= 57.7°        az=302.0°          Altitude=54.3° Cnc
+Dawn  :  3h52m    Dusk : 22h57m    Day    : 15h38.2m
+3 Aug 2019	Rise  :  5h37.4m  Set  : 21h12.1m  Transit: 13h25m19s
+        az= 58.2°        az=301.5°          Altitude=54.0° Cnc
+Dawn  :  3h55m    Dusk : 22h54m    Day    : 15h34.8m
+4 Aug 2019	Rise  :  5h39.0m  Set  : 21h10.3m  Transit: 13h25m14s
+        az= 58.6°        az=301.0°          Altitude=53.8° Cnc
+Dawn  :  3h57m    Dusk : 22h51m    Day    : 15h31.2m
+5 Aug 2019	Rise  :  5h40.7m  Set  : 21h08.4m  Transit: 13h25m08s
+        az= 59.2°        az=300.5°          Altitude=53.5° Cnc
+Dawn  :  4h00m    Dusk : 22h48m    Day    : 15h27.7m
+6 Aug 2019	Rise  :  5h42.4m  Set  : 21h06.5m  Transit: 13h25m02s
+        az= 59.7°        az=300.0°          Altitude=53.2° Cnc
+Dawn  :  4h03m    Dusk : 22h45m    Day    : 15h24.1m
+7 Aug 2019	Rise  :  5h44.1m  Set  : 21h04.6m  Transit: 13h24m55s
+        az= 60.2°        az=299.5°          Altitude=53.0° Cnc
+Dawn  :  4h05m    Dusk : 22h43m    Day    : 15h20.4m
+8 Aug 2019	Rise  :  5h45.8m  Set  : 21h02.6m  Transit: 13h24m47s
+        az= 60.7°        az=299.0°          Altitude=52.7° Cnc
+Dawn  :  4h08m    Dusk : 22h40m    Day    : 15h16.8m
+9 Aug 2019	Rise  :  5h47.5m  Set  : 21h00.6m  Transit: 13h24m39s
+        az= 61.2°        az=298.4°          Altitude=52.4° Cnc
+Dawn  :  4h10m    Dusk : 22h37m    Day    : 15h13.1m
+10 Aug 2019	Rise  :  5h49.2m  Set  : 20h58.6m  Transit: 13h24m30s
+        az= 61.7°        az=297.9°          Altitude=52.1° Cnc
+Dawn  :  4h13m    Dusk : 22h34m    Day    : 15h09.4m
+11 Aug 2019	Rise  :  5h51.0m  Set  : 20h56.6m  Transit: 13h24m21s
+        az= 62.3°        az=297.4°          Altitude=51.8° Cnc
+Dawn  :  4h15m    Dusk : 22h31m    Day    : 15h05.6m
+12 Aug 2019	Rise  :  5h52.7m  Set  : 20h54.5m  Transit: 13h24m11s
+        az= 62.8°        az=296.8°          Altitude=51.5° Leo
+Dawn  :  4h18m    Dusk : 22h28m    Day    : 15h01.8m
+13 Aug 2019	Rise  :  5h54.4m  Set  : 20h52.4m  Transit: 13h24m01s
+        az= 63.4°        az=296.3°          Altitude=51.2° Leo
+Dawn  :  4h21m    Dusk : 22h25m    Day    : 14h58.0m
+14 Aug 2019	Rise  :  5h56.1m  Set  : 20h50.3m  Transit: 13h23m50s
+        az= 63.9°        az=295.7°          Altitude=50.9° Leo
+Dawn  :  4h23m    Dusk : 22h23m    Day    : 14h54.2m
+15 Aug 2019	Rise  :  5h57.9m  Set  : 20h48.2m  Transit: 13h23m38s
+        az= 64.5°        az=295.2°          Altitude=50.6° Leo
+Dawn  :  4h26m    Dusk : 22h20m    Day    : 14h50.3m
+16 Aug 2019	Rise  :  5h59.6m  Set  : 20h46.1m  Transit: 13h23m26s
+        az= 65.1°        az=294.6°          Altitude=50.3° Leo
+Dawn  :  4h28m    Dusk : 22h17m    Day    : 14h46.5m
+17 Aug 2019	Rise  :  6h01.3m  Set  : 20h43.9m  Transit: 13h23m13s
+        az= 65.6°        az=294.0°          Altitude=50.0° Leo
+Dawn  :  4h30m    Dusk : 22h14m    Day    : 14h42.6m
+18 Aug 2019	Rise  :  6h03.1m  Set  : 20h41.7m  Transit: 13h23m00s
+        az= 66.2°        az=293.4°          Altitude=49.6° Leo
+Dawn  :  4h33m    Dusk : 22h11m    Day    : 14h38.7m
+19 Aug 2019	Rise  :  6h04.8m  Set  : 20h39.5m  Transit: 13h22m47s
+        az= 66.8°        az=292.9°          Altitude=49.3° Leo
+Dawn  :  4h35m    Dusk : 22h08m    Day    : 14h34.7m
+20 Aug 2019	Rise  :  6h06.6m  Set  : 20h37.3m  Transit: 13h22m32s
+        az= 67.4°        az=292.3°          Altitude=49.0° Leo
+Dawn  :  4h38m    Dusk : 22h06m    Day    : 14h30.8m
+21 Aug 2019	Rise  :  6h08.3m  Set  : 20h35.1m  Transit: 13h22m18s
+        az= 67.9°        az=291.7°          Altitude=48.7° Leo
+Dawn  :  4h40m    Dusk : 22h03m    Day    : 14h26.8m
+22 Aug 2019	Rise  :  6h10.0m  Set  : 20h32.9m  Transit: 13h22m03s
+        az= 68.5°        az=291.1°          Altitude=48.3° Leo
+Dawn  :  4h42m    Dusk : 22h00m    Day    : 14h22.8m
+23 Aug 2019	Rise  :  6h11.8m  Set  : 20h30.6m  Transit: 13h21m47s
+        az= 69.1°        az=290.5°          Altitude=48.0° Leo
+Dawn  :  4h45m    Dusk : 21h57m    Day    : 14h18.8m
+24 Aug 2019	Rise  :  6h13.5m  Set  : 20h28.3m  Transit: 13h21m32s
+        az= 69.7°        az=289.9°          Altitude=47.6° Leo
+Dawn  :  4h47m    Dusk : 21h54m    Day    : 14h14.8m
+25 Aug 2019	Rise  :  6h15.3m  Set  : 20h26.0m  Transit: 13h21m15s
+        az= 70.3°        az=289.3°          Altitude=47.3° Leo
+Dawn  :  4h49m    Dusk : 21h51m    Day    : 14h10.8m
+26 Aug 2019	Rise  :  6h17.0m  Set  : 20h23.7m  Transit: 13h20m59s
+        az= 70.9°        az=288.7°          Altitude=47.0° Leo
+Dawn  :  4h52m    Dusk : 21h49m    Day    : 14h06.7m
+27 Aug 2019	Rise  :  6h18.8m  Set  : 20h21.4m  Transit: 13h20m42s
+        az= 71.5°        az=288.1°          Altitude=46.6° Leo
+Dawn  :  4h54m    Dusk : 21h46m    Day    : 14h02.7m
+28 Aug 2019	Rise  :  6h20.5m  Set  : 20h19.1m  Transit: 13h20m24s
+        az= 72.2°        az=287.5°          Altitude=46.3° Leo
+Dawn  :  4h56m    Dusk : 21h43m    Day    : 13h58.6m
+29 Aug 2019	Rise  :  6h22.3m  Set  : 20h16.8m  Transit: 13h20m06s
+        az= 72.8°        az=286.9°          Altitude=45.9° Leo
+Dawn  :  4h58m    Dusk : 21h40m    Day    : 13h54.5m
+30 Aug 2019	Rise  :  6h24.0m  Set  : 20h14.4m  Transit: 13h19m48s
+        az= 73.4°        az=286.3°          Altitude=45.5° Leo
+Dawn  :  5h01m    Dusk : 21h37m    Day    : 13h50.4m
+31 Aug 2019	Rise  :  6h25.7m  Set  : 20h12.1m  Transit: 13h19m30s
+        az= 74.0°        az=285.6°          Altitude=45.2° Leo
+Dawn  :  5h03m    Dusk : 21h34m    Day    : 13h46.3m
+1 Sep 2019	Rise  :  6h27.5m  Set  : 20h09.7m  Transit: 13h19m11s
+        az= 74.6°        az=285.0°          Altitude=44.8° Leo
+Dawn  :  5h05m    Dusk : 21h32m    Day    : 13h42.2m
+2 Sep 2019	Rise  :  6h29.2m  Set  : 20h07.3m  Transit: 13h18m52s
+        az= 75.3°        az=284.4°          Altitude=44.5° Leo
+Dawn  :  5h07m    Dusk : 21h29m    Day    : 13h38.1m
+3 Sep 2019	Rise  :  6h31.0m  Set  : 20h04.9m  Transit: 13h18m33s
+        az= 75.9°        az=283.8°          Altitude=44.1° Leo
+Dawn  :  5h09m    Dusk : 21h26m    Day    : 13h34.0m
+4 Sep 2019	Rise  :  6h32.7m  Set  : 20h02.5m  Transit: 13h18m13s
+        az= 76.5°        az=283.1°          Altitude=43.7° Leo
+Dawn  :  5h11m    Dusk : 21h23m    Day    : 13h29.8m
+5 Sep 2019	Rise  :  6h34.5m  Set  : 20h00.2m  Transit: 13h17m53s
+        az= 77.2°        az=282.5°          Altitude=43.4° Leo
+Dawn  :  5h14m    Dusk : 21h21m    Day    : 13h25.7m
+6 Sep 2019	Rise  :  6h36.2m  Set  : 19h57.7m  Transit: 13h17m33s
+        az= 77.8°        az=281.9°          Altitude=43.0° Leo
+Dawn  :  5h16m    Dusk : 21h18m    Day    : 13h21.5m
+7 Sep 2019	Rise  :  6h37.9m  Set  : 19h55.3m  Transit: 13h17m12s
+        az= 78.4°        az=281.2°          Altitude=42.6° Leo
+Dawn  :  5h18m    Dusk : 21h15m    Day    : 13h17.4m
+8 Sep 2019	Rise  :  6h39.7m  Set  : 19h52.9m  Transit: 13h16m52s
+        az= 79.1°        az=280.6°          Altitude=42.2° Leo
+Dawn  :  5h20m    Dusk : 21h12m    Day    : 13h13.2m
+9 Sep 2019	Rise  :  6h41.4m  Set  : 19h50.5m  Transit: 13h16m31s
+        az= 79.7°        az=279.9°          Altitude=41.9° Leo
+Dawn  :  5h22m    Dusk : 21h10m    Day    : 13h09.1m
+10 Sep 2019	Rise  :  6h43.1m  Set  : 19h48.1m  Transit: 13h16m10s
+        az= 80.3°        az=279.3°          Altitude=41.5° Leo
+Dawn  :  5h24m    Dusk : 21h07m    Day    : 13h04.9m
+11 Sep 2019	Rise  :  6h44.9m  Set  : 19h45.6m  Transit: 13h15m49s
+        az= 81.0°        az=278.7°          Altitude=41.1° Leo
+Dawn  :  5h26m    Dusk : 21h04m    Day    : 13h00.7m
+12 Sep 2019	Rise  :  6h46.6m  Set  : 19h43.2m  Transit: 13h15m28s
+        az= 81.6°        az=278.0°          Altitude=40.7° Leo
+Dawn  :  5h28m    Dusk : 21h01m    Day    : 12h56.6m
+13 Sep 2019	Rise  :  6h48.4m  Set  : 19h40.7m  Transit: 13h15m06s
+        az= 82.3°        az=277.4°          Altitude=40.3° Leo
+Dawn  :  5h30m    Dusk : 20h59m    Day    : 12h52.4m
+14 Sep 2019	Rise  :  6h50.1m  Set  : 19h38.3m  Transit: 13h14m45s
+        az= 82.9°        az=276.7°          Altitude=40.0° Leo
+Dawn  :  5h32m    Dusk : 20h56m    Day    : 12h48.2m
+15 Sep 2019	Rise  :  6h51.8m  Set  : 19h35.8m  Transit: 13h14m24s
+        az= 83.6°        az=276.1°          Altitude=39.6° Leo
+Dawn  :  5h34m    Dusk : 20h53m    Day    : 12h44.0m
+16 Sep 2019	Rise  :  6h53.6m  Set  : 19h33.4m  Transit: 13h14m02s
+        az= 84.2°        az=275.4°          Altitude=39.2° Leo
+Dawn  :  5h36m    Dusk : 20h51m    Day    : 12h39.8m
+17 Sep 2019	Rise  :  6h55.3m  Set  : 19h30.9m  Transit: 13h13m41s
+        az= 84.9°        az=274.8°          Altitude=38.8° Leo
+Dawn  :  5h38m    Dusk : 20h48m    Day    : 12h35.6m
+18 Sep 2019	Rise  :  6h57.1m  Set  : 19h28.5m  Transit: 13h13m19s
+        az= 85.5°        az=274.1°          Altitude=38.4° Vir
+Dawn  :  5h40m    Dusk : 20h45m    Day    : 12h31.4m
+19 Sep 2019	Rise  :  6h58.8m  Set  : 19h26.0m  Transit: 13h12m58s
+        az= 86.2°        az=273.5°          Altitude=38.0° Vir
+Dawn  :  5h42m    Dusk : 20h43m    Day    : 12h27.2m
+20 Sep 2019	Rise  :  7h00.5m  Set  : 19h23.6m  Transit: 13h12m36s
+        az= 86.8°        az=272.8°          Altitude=37.6° Vir
+Dawn  :  5h44m    Dusk : 20h40m    Day    : 12h23.0m
+21 Sep 2019	Rise  :  7h02.3m  Set  : 19h21.1m  Transit: 13h12m15s
+        az= 87.5°        az=272.2°          Altitude=37.3° Vir
+Dawn  :  5h46m    Dusk : 20h37m    Day    : 12h18.8m
+22 Sep 2019	Rise  :  7h04.0m  Set  : 19h18.7m  Transit: 13h11m54s
+        az= 88.1°        az=271.5°          Altitude=36.9° Vir
+Dawn  :  5h48m    Dusk : 20h35m    Day    : 12h14.6m
+23 Sep 2019	Rise  :  7h05.8m  Set  : 19h16.2m  Transit: 13h11m32s
+        az= 88.8°        az=270.9°          Altitude=36.5° Vir
+Dawn  :  5h49m    Dusk : 20h32m    Day    : 12h10.4m
+24 Sep 2019	Rise  :  7h07.5m  Set  : 19h13.8m  Transit: 13h11m12s
+        az= 89.5°        az=270.2°          Altitude=36.1° Vir
+Dawn  :  5h51m    Dusk : 20h30m    Day    : 12h06.2m
+25 Sep 2019	Rise  :  7h09.3m  Set  : 19h11.3m  Transit: 13h10m51s
+        az= 90.1°        az=269.6°          Altitude=35.7° Vir
+Dawn  :  5h53m    Dusk : 20h27m    Day    : 12h02.0m
+26 Sep 2019	Rise  :  7h11.1m  Set  : 19h08.9m  Transit: 13h10m30s
+        az= 90.8°        az=268.9°          Altitude=35.3° Vir
+Dawn  :  5h55m    Dusk : 20h25m    Day    : 11h57.8m
+27 Sep 2019	Rise  :  7h12.8m  Set  : 19h06.4m  Transit: 13h10m10s
+        az= 91.4°        az=268.3°          Altitude=34.9° Vir
+Dawn  :  5h57m    Dusk : 20h22m    Day    : 11h53.6m
+28 Sep 2019	Rise  :  7h14.6m  Set  : 19h04.0m  Transit: 13h09m49s
+        az= 92.1°        az=267.6°          Altitude=34.5° Vir
+Dawn  :  5h59m    Dusk : 20h19m    Day    : 11h49.4m
+29 Sep 2019	Rise  :  7h16.4m  Set  : 19h01.6m  Transit: 13h09m29s
+        az= 92.7°        az=266.9°          Altitude=34.1° Vir
+Dawn  :  6h01m    Dusk : 20h17m    Day    : 11h45.2m
+30 Sep 2019	Rise  :  7h18.1m  Set  : 18h59.2m  Transit: 13h09m10s
+        az= 93.4°        az=266.3°          Altitude=33.8° Vir
+Dawn  :  6h03m    Dusk : 20h14m    Day    : 11h41.0m
+1 Oct 2019	Rise  :  7h19.9m  Set  : 18h56.7m  Transit: 13h08m50s
+        az= 94.0°        az=265.6°          Altitude=33.4° Vir
+Dawn  :  6h04m    Dusk : 20h12m    Day    : 11h36.8m
+2 Oct 2019	Rise  :  7h21.7m  Set  : 18h54.3m  Transit: 13h08m31s
+        az= 94.7°        az=265.0°          Altitude=33.0° Vir
+Dawn  :  6h06m    Dusk : 20h10m    Day    : 11h32.6m
+3 Oct 2019	Rise  :  7h23.5m  Set  : 18h51.9m  Transit: 13h08m12s
+        az= 95.3°        az=264.3°          Altitude=32.6° Vir
+Dawn  :  6h08m    Dusk : 20h07m    Day    : 11h28.4m
+4 Oct 2019	Rise  :  7h25.3m  Set  : 18h49.5m  Transit: 13h07m53s
+        az= 96.0°        az=263.7°          Altitude=32.2° Vir
+Dawn  :  6h10m    Dusk : 20h05m    Day    : 11h24.2m
+5 Oct 2019	Rise  :  7h27.1m  Set  : 18h47.1m  Transit: 13h07m35s
+        az= 96.6°        az=263.0°          Altitude=31.8° Vir
+Dawn  :  6h12m    Dusk : 20h02m    Day    : 11h20.0m
+6 Oct 2019	Rise  :  7h28.9m  Set  : 18h44.7m  Transit: 13h07m17s
+        az= 97.3°        az=262.4°          Altitude=31.4° Vir
+Dawn  :  6h13m    Dusk : 20h00m    Day    : 11h15.8m
+7 Oct 2019	Rise  :  7h30.7m  Set  : 18h42.3m  Transit: 13h07m00s
+        az= 97.9°        az=261.8°          Altitude=31.1° Vir
+Dawn  :  6h15m    Dusk : 19h57m    Day    : 11h11.6m
+8 Oct 2019	Rise  :  7h32.5m  Set  : 18h40.0m  Transit: 13h06m42s
+        az= 98.6°        az=261.1°          Altitude=30.7° Vir
+Dawn  :  6h17m    Dusk : 19h55m    Day    : 11h07.5m
+9 Oct 2019	Rise  :  7h34.3m  Set  : 18h37.6m  Transit: 13h06m26s
+        az= 99.2°        az=260.5°          Altitude=30.3° Vir
+Dawn  :  6h19m    Dusk : 19h53m    Day    : 11h03.3m
+10 Oct 2019	Rise  :  7h36.1m  Set  : 18h35.2m  Transit: 13h06m09s
+        az= 99.9°        az=259.8°          Altitude=29.9° Vir
+Dawn  :  6h21m    Dusk : 19h50m    Day    : 10h59.1m
+11 Oct 2019	Rise  :  7h37.9m  Set  : 18h32.9m  Transit: 13h05m53s
+        az=100.5°        az=259.2°          Altitude=29.5° Vir
+Dawn  :  6h22m    Dusk : 19h48m    Day    : 10h54.9m
+12 Oct 2019	Rise  :  7h39.8m  Set  : 18h30.6m  Transit: 13h05m38s
+        az=101.2°        az=258.5°          Altitude=29.2° Vir
+Dawn  :  6h24m    Dusk : 19h46m    Day    : 10h50.8m
+13 Oct 2019	Rise  :  7h41.6m  Set  : 18h28.2m  Transit: 13h05m23s
+        az=101.8°        az=257.9°          Altitude=28.8° Vir
+Dawn  :  6h26m    Dusk : 19h44m    Day    : 10h46.6m
+14 Oct 2019	Rise  :  7h43.4m  Set  : 18h25.9m  Transit: 13h05m09s
+        az=102.4°        az=257.3°          Altitude=28.4° Vir
+Dawn  :  6h28m    Dusk : 19h41m    Day    : 10h42.5m
+15 Oct 2019	Rise  :  7h45.3m  Set  : 18h23.6m  Transit: 13h04m55s
+        az=103.1°        az=256.6°          Altitude=28.1° Vir
+Dawn  :  6h30m    Dusk : 19h39m    Day    : 10h38.4m
+16 Oct 2019	Rise  :  7h47.1m  Set  : 18h21.4m  Transit: 13h04m42s
+        az=103.7°        az=256.0°          Altitude=27.7° Vir
+Dawn  :  6h31m    Dusk : 19h37m    Day    : 10h34.2m
+17 Oct 2019	Rise  :  7h49.0m  Set  : 18h19.1m  Transit: 13h04m29s
+        az=104.3°        az=255.4°          Altitude=27.3° Vir
+Dawn  :  6h33m    Dusk : 19h35m    Day    : 10h30.1m
+18 Oct 2019	Rise  :  7h50.8m  Set  : 18h16.8m  Transit: 13h04m17s
+        az=105.0°        az=254.8°          Altitude=27.0° Vir
+Dawn  :  6h35m    Dusk : 19h33m    Day    : 10h26.0m
+19 Oct 2019	Rise  :  7h52.7m  Set  : 18h14.6m  Transit: 13h04m05s
+        az=105.6°        az=254.1°          Altitude=26.6° Vir
+Dawn  :  6h37m    Dusk : 19h31m    Day    : 10h21.9m
+20 Oct 2019	Rise  :  7h54.6m  Set  : 18h12.4m  Transit: 13h03m55s
+        az=106.2°        az=253.5°          Altitude=26.2° Vir
+Dawn  :  6h38m    Dusk : 19h28m    Day    : 10h17.8m
+21 Oct 2019	Rise  :  7h56.4m  Set  : 18h10.2m  Transit: 13h03m44s
+        az=106.8°        az=252.9°          Altitude=25.9° Vir
+Dawn  :  6h40m    Dusk : 19h26m    Day    : 10h13.7m
+22 Oct 2019	Rise  :  7h58.3m  Set  : 18h08.0m  Transit: 13h03m35s
+        az=107.4°        az=252.3°          Altitude=25.5° Vir
+Dawn  :  6h42m    Dusk : 19h24m    Day    : 10h09.6m
+23 Oct 2019	Rise  :  8h00.2m  Set  : 18h05.8m  Transit: 13h03m26s
+        az=108.0°        az=251.7°          Altitude=25.2° Vir
+Dawn  :  6h44m    Dusk : 19h22m    Day    : 10h05.6m
+24 Oct 2019	Rise  :  8h02.1m  Set  : 18h03.7m  Transit: 13h03m18s
+        az=108.7°        az=251.1°          Altitude=24.8° Vir
+Dawn  :  6h45m    Dusk : 19h20m    Day    : 10h01.5m
+25 Oct 2019	Rise  :  8h04.0m  Set  : 18h01.5m  Transit: 13h03m11s
+        az=109.3°        az=250.5°          Altitude=24.5° Vir
+Dawn  :  6h47m    Dusk : 19h18m    Day    :  9h57.5m
+26 Oct 2019	Rise  :  8h05.9m  Set  : 17h59.4m  Transit: 13h03m04s
+        az=109.9°        az=249.9°          Altitude=24.1° Vir
+Dawn  :  6h49m    Dusk : 19h16m    Day    :  9h53.5m
+27 Oct 2019	Rise  :  7h07.8m  Set  : 16h57.3m  Transit: 12h02m58s
+        az=110.5°        az=249.3°          Altitude=23.8° Vir
+Dawn  :  5h51m    Dusk : 18h15m    Day    :  9h49.5m
+28 Oct 2019	Rise  :  7h09.7m  Set  : 16h55.3m  Transit: 12h02m53s
+        az=111.1°        az=248.7°          Altitude=23.5° Vir
+Dawn  :  5h52m    Dusk : 18h13m    Day    :  9h45.5m
+29 Oct 2019	Rise  :  7h11.6m  Set  : 16h53.2m  Transit: 12h02m49s
+        az=111.6°        az=248.1°          Altitude=23.1° Vir
+Dawn  :  5h54m    Dusk : 18h11m    Day    :  9h41.6m
+30 Oct 2019	Rise  :  7h13.5m  Set  : 16h51.2m  Transit: 12h02m45s
+        az=112.2°        az=247.5°          Altitude=22.8° Vir
+Dawn  :  5h56m    Dusk : 18h09m    Day    :  9h37.7m
+31 Oct 2019	Rise  :  7h15.4m  Set  : 16h49.2m  Transit: 12h02m42s
+        az=112.8°        az=247.0°          Altitude=22.5° Vir
+Dawn  :  5h57m    Dusk : 18h07m    Day    :  9h33.7m
+1 Nov 2019	Rise  :  7h17.4m  Set  : 16h47.2m  Transit: 12h02m40s
+        az=113.4°        az=246.4°          Altitude=22.1° Lib
+Dawn  :  5h59m    Dusk : 18h05m    Day    :  9h29.8m
+2 Nov 2019	Rise  :  7h19.3m  Set  : 16h45.3m  Transit: 12h02m39s
+        az=113.9°        az=245.8°          Altitude=21.8° Lib
+Dawn  :  6h01m    Dusk : 18h04m    Day    :  9h26.0m
+3 Nov 2019	Rise  :  7h21.2m  Set  : 16h43.3m  Transit: 12h02m38s
+        az=114.5°        az=245.3°          Altitude=21.5° Lib
+Dawn  :  6h02m    Dusk : 18h02m    Day    :  9h22.1m
+4 Nov 2019	Rise  :  7h23.1m  Set  : 16h41.4m  Transit: 12h02m38s
+        az=115.1°        az=244.7°          Altitude=21.2° Lib
+Dawn  :  6h04m    Dusk : 18h00m    Day    :  9h18.3m
+5 Nov 2019	Rise  :  7h25.0m  Set  : 16h39.6m  Transit: 12h02m40s
+        az=115.6°        az=244.2°          Altitude=20.9° Lib
+Dawn  :  6h06m    Dusk : 17h59m    Day    :  9h14.6m
+6 Nov 2019	Rise  :  7h26.9m  Set  : 16h37.7m  Transit: 12h02m41s
+        az=116.2°        az=243.6°          Altitude=20.6° Lib
+Dawn  :  6h08m    Dusk : 17h57m    Day    :  9h10.8m
+7 Nov 2019	Rise  :  7h28.8m  Set  : 16h35.9m  Transit: 12h02m44s
+        az=116.7°        az=243.1°          Altitude=20.3° Lib
+Dawn  :  6h09m    Dusk : 17h56m    Day    :  9h07.1m
+8 Nov 2019	Rise  :  7h30.7m  Set  : 16h34.2m  Transit: 12h02m48s
+        az=117.2°        az=242.6°          Altitude=20.0° Lib
+Dawn  :  6h11m    Dusk : 17h54m    Day    :  9h03.4m
+9 Nov 2019	Rise  :  7h32.6m  Set  : 16h32.4m  Transit: 12h02m52s
+        az=117.8°        az=242.1°          Altitude=19.7° Lib
+Dawn  :  6h12m    Dusk : 17h52m    Day    :  8h59.8m
+10 Nov 2019	Rise  :  7h34.5m  Set  : 16h30.7m  Transit: 12h02m57s
+        az=118.3°        az=241.5°          Altitude=19.4° Lib
+Dawn  :  6h14m    Dusk : 17h51m    Day    :  8h56.2m
+11 Nov 2019	Rise  :  7h36.4m  Set  : 16h29.0m  Transit: 12h03m03s
+        az=118.8°        az=241.0°          Altitude=19.2° Lib
+Dawn  :  6h16m    Dusk : 17h50m    Day    :  8h52.6m
+12 Nov 2019	Rise  :  7h38.3m  Set  : 16h27.4m  Transit: 12h03m10s
+        az=119.3°        az=240.5°          Altitude=18.9° Lib
+Dawn  :  6h17m    Dusk : 17h48m    Day    :  8h49.1m
+13 Nov 2019	Rise  :  7h40.2m  Set  : 16h25.8m  Transit: 12h03m18s
+        az=119.8°        az=240.0°          Altitude=18.6° Lib
+Dawn  :  6h19m    Dusk : 17h47m    Day    :  8h45.6m
+14 Nov 2019	Rise  :  7h42.1m  Set  : 16h24.2m  Transit: 12h03m26s
+        az=120.3°        az=239.6°          Altitude=18.4° Lib
+Dawn  :  6h21m    Dusk : 17h46m    Day    :  8h42.1m
+15 Nov 2019	Rise  :  7h43.9m  Set  : 16h22.7m  Transit: 12h03m36s
+        az=120.8°        az=239.1°          Altitude=18.1° Lib
+Dawn  :  6h22m    Dusk : 17h44m    Day    :  8h38.8m
+16 Nov 2019	Rise  :  7h45.8m  Set  : 16h21.2m  Transit: 12h03m46s
+        az=121.2°        az=238.6°          Altitude=17.8° Lib
+Dawn  :  6h24m    Dusk : 17h43m    Day    :  8h35.4m
+17 Nov 2019	Rise  :  7h47.6m  Set  : 16h19.7m  Transit: 12h03m57s
+        az=121.7°        az=238.1°          Altitude=17.6° Lib
+Dawn  :  6h25m    Dusk : 17h42m    Day    :  8h32.1m
+18 Nov 2019	Rise  :  7h49.4m  Set  : 16h18.3m  Transit: 12h04m09s
+        az=122.1°        az=237.7°          Altitude=17.4° Lib
+Dawn  :  6h27m    Dusk : 17h41m    Day    :  8h28.9m
+19 Nov 2019	Rise  :  7h51.2m  Set  : 16h17.0m  Transit: 12h04m22s
+        az=122.6°        az=237.3°          Altitude=17.1° Lib
+Dawn  :  6h28m    Dusk : 17h40m    Day    :  8h25.7m
+20 Nov 2019	Rise  :  7h53.0m  Set  : 16h15.6m  Transit: 12h04m36s
+        az=123.0°        az=236.8°          Altitude=16.9° Lib
+Dawn  :  6h30m    Dusk : 17h39m    Day    :  8h22.6m
+21 Nov 2019	Rise  :  7h54.8m  Set  : 16h14.3m  Transit: 12h04m50s
+        az=123.5°        az=236.4°          Altitude=16.7° Lib
+Dawn  :  6h31m    Dusk : 17h38m    Day    :  8h19.5m
+22 Nov 2019	Rise  :  7h56.6m  Set  : 16h13.1m  Transit: 12h05m06s
+        az=123.9°        az=236.0°          Altitude=16.5° Lib
+Dawn  :  6h33m    Dusk : 17h37m    Day    :  8h16.5m
+23 Nov 2019	Rise  :  7h58.3m  Set  : 16h11.9m  Transit: 12h05m22s
+        az=124.3°        az=235.6°          Altitude=16.2° Lib
+Dawn  :  6h34m    Dusk : 17h36m    Day    :  8h13.6m
+24 Nov 2019	Rise  :  8h00.0m  Set  : 16h10.8m  Transit: 12h05m39s
+        az=124.7°        az=235.2°          Altitude=16.0° Sco
+Dawn  :  6h36m    Dusk : 17h35m    Day    :  8h10.8m
+25 Nov 2019	Rise  :  8h01.7m  Set  : 16h09.7m  Transit: 12h05m57s
+        az=125.1°        az=234.8°          Altitude=15.8° Sco
+Dawn  :  6h37m    Dusk : 17h34m    Day    :  8h08.0m
+26 Nov 2019	Rise  :  8h03.4m  Set  : 16h08.7m  Transit: 12h06m15s
+        az=125.4°        az=234.4°          Altitude=15.6° Sco
+Dawn  :  6h39m    Dusk : 17h33m    Day    :  8h05.3m
+27 Nov 2019	Rise  :  8h05.0m  Set  : 16h07.7m  Transit: 12h06m35s
+        az=125.8°        az=234.1°          Altitude=15.5° Sco
+Dawn  :  6h40m    Dusk : 17h33m    Day    :  8h02.6m
+28 Nov 2019	Rise  :  8h06.7m  Set  : 16h06.7m  Transit: 12h06m55s
+        az=126.1°        az=233.7°          Altitude=15.3° Sco
+Dawn  :  6h41m    Dusk : 17h32m    Day    :  8h00.1m
+29 Nov 2019	Rise  :  8h08.3m  Set  : 16h05.8m  Transit: 12h07m15s
+        az=126.5°        az=233.4°          Altitude=15.1° Sco
+Dawn  :  6h43m    Dusk : 17h31m    Day    :  7h57.6m
+30 Nov 2019	Rise  :  8h09.8m  Set  : 16h05.0m  Transit: 12h07m37s
+        az=126.8°        az=233.1°          Altitude=14.9° Sco
+Dawn  :  6h44m    Dusk : 17h31m    Day    :  7h55.2m
+1 Dec 2019	Rise  :  8h11.3m  Set  : 16h04.2m  Transit: 12h07m59s
+        az=127.1°        az=232.8°          Altitude=14.8° Oph
+Dawn  :  6h45m    Dusk : 17h30m    Day    :  7h52.9m
+2 Dec 2019	Rise  :  8h12.8m  Set  : 16h03.5m  Transit: 12h08m21s
+        az=127.4°        az=232.5°          Altitude=14.6° Oph
+Dawn  :  6h47m    Dusk : 17h30m    Day    :  7h50.7m
+3 Dec 2019	Rise  :  8h14.3m  Set  : 16h02.8m  Transit: 12h08m45s
+        az=127.7°        az=232.2°          Altitude=14.5° Oph
+Dawn  :  6h48m    Dusk : 17h29m    Day    :  7h48.5m
+4 Dec 2019	Rise  :  8h15.7m  Set  : 16h02.2m  Transit: 12h09m08s
+        az=128.0°        az=231.9°          Altitude=14.3° Oph
+Dawn  :  6h49m    Dusk : 17h29m    Day    :  7h46.5m
+5 Dec 2019	Rise  :  8h17.1m  Set  : 16h01.7m  Transit: 12h09m33s
+        az=128.3°        az=231.7°          Altitude=14.2° Oph
+Dawn  :  6h50m    Dusk : 17h29m    Day    :  7h44.6m
+6 Dec 2019	Rise  :  8h18.4m  Set  : 16h01.2m  Transit: 12h09m58s
+        az=128.5°        az=231.4°          Altitude=14.1° Oph
+Dawn  :  6h51m    Dusk : 17h28m    Day    :  7h42.8m
+7 Dec 2019	Rise  :  8h19.7m  Set  : 16h00.8m  Transit: 12h10m23s
+        az=128.7°        az=231.2°          Altitude=14.0° Oph
+Dawn  :  6h52m    Dusk : 17h28m    Day    :  7h41.0m
+8 Dec 2019	Rise  :  8h21.0m  Set  : 16h00.4m  Transit: 12h10m49s
+        az=129.0°        az=231.0°          Altitude=13.9° Oph
+Dawn  :  6h54m    Dusk : 17h28m    Day    :  7h39.4m
+9 Dec 2019	Rise  :  8h22.2m  Set  : 16h00.1m  Transit: 12h11m16s
+        az=129.2°        az=230.8°          Altitude=13.8° Oph
+Dawn  :  6h55m    Dusk : 17h28m    Day    :  7h37.9m
+10 Dec 2019	Rise  :  8h23.4m  Set  : 15h59.8m  Transit: 12h11m42s
+        az=129.3°        az=230.6°          Altitude=13.7° Oph
+Dawn  :  6h56m    Dusk : 17h28m    Day    :  7h36.4m
+11 Dec 2019	Rise  :  8h24.5m  Set  : 15h59.6m  Transit: 12h12m10s
+        az=129.5°        az=230.4°          Altitude=13.6° Oph
+Dawn  :  6h57m    Dusk : 17h28m    Day    :  7h35.1m
+12 Dec 2019	Rise  :  8h25.6m  Set  : 15h59.5m  Transit: 12h12m37s
+        az=129.7°        az=230.3°          Altitude=13.5° Oph
+Dawn  :  6h58m    Dusk : 17h28m    Day    :  7h33.9m
+13 Dec 2019	Rise  :  8h26.6m  Set  : 15h59.4m  Transit: 12h13m05s
+        az=129.8°        az=230.1°          Altitude=13.4° Oph
+Dawn  :  6h58m    Dusk : 17h28m    Day    :  7h32.9m
+14 Dec 2019	Rise  :  8h27.5m  Set  : 15h59.4m  Transit: 12h13m34s
+        az=130.0°        az=230.0°          Altitude=13.4° Oph
+Dawn  :  6h59m    Dusk : 17h28m    Day    :  7h31.9m
+15 Dec 2019	Rise  :  8h28.5m  Set  : 15h59.5m  Transit: 12h14m02s
+        az=130.1°        az=229.9°          Altitude=13.3° Oph
+Dawn  :  7h00m    Dusk : 17h28m    Day    :  7h31.0m
+16 Dec 2019	Rise  :  8h29.3m  Set  : 15h59.6m  Transit: 12h14m31s
+        az=130.2°        az=229.8°          Altitude=13.3° Oph
+Dawn  :  7h01m    Dusk : 17h28m    Day    :  7h30.3m
+17 Dec 2019	Rise  :  8h30.1m  Set  : 15h59.8m  Transit: 12h15m00s
+        az=130.3°        az=229.7°          Altitude=13.2° Oph
+Dawn  :  7h02m    Dusk : 17h28m    Day    :  7h29.7m
+18 Dec 2019	Rise  :  8h30.9m  Set  : 16h00.0m  Transit: 12h15m30s
+        az=130.3°        az=229.6°          Altitude=13.2° Oph
+Dawn  :  7h02m    Dusk : 17h29m    Day    :  7h29.2m
+19 Dec 2019	Rise  :  8h31.6m  Set  : 16h00.4m  Transit: 12h15m59s
+        az=130.4°        az=229.6°          Altitude=13.2° Sgr
+Dawn  :  7h03m    Dusk : 17h29m    Day    :  7h28.8m
+20 Dec 2019	Rise  :  8h32.2m  Set  : 16h00.7m  Transit: 12h16m29s
+        az=130.4°        az=229.6°          Altitude=13.2° Sgr
+Dawn  :  7h04m    Dusk : 17h29m    Day    :  7h28.5m
+21 Dec 2019	Rise  :  8h32.8m  Set  : 16h01.2m  Transit: 12h16m59s
+        az=130.4°        az=229.5°          Altitude=13.1° Sgr
+Dawn  :  7h04m    Dusk : 17h30m    Day    :  7h28.4m
+22 Dec 2019	Rise  :  8h33.3m  Set  : 16h01.7m  Transit: 12h17m29s
+        az=130.5°        az=229.5°          Altitude=13.1° Sgr
+Dawn  :  7h05m    Dusk : 17h30m    Day    :  7h28.3m
+23 Dec 2019	Rise  :  8h33.8m  Set  : 16h02.2m  Transit: 12h17m59s
+        az=130.4°        az=229.6°          Altitude=13.2° Sgr
+Dawn  :  7h05m    Dusk : 17h31m    Day    :  7h28.4m
+24 Dec 2019	Rise  :  8h34.2m  Set  : 16h02.8m  Transit: 12h18m29s
+        az=130.4°        az=229.6°          Altitude=13.2° Sgr
+Dawn  :  7h06m    Dusk : 17h31m    Day    :  7h28.7m
+25 Dec 2019	Rise  :  8h34.5m  Set  : 16h03.5m  Transit: 12h18m59s
+        az=130.4°        az=229.6°          Altitude=13.2° Sgr
+Dawn  :  7h06m    Dusk : 17h32m    Day    :  7h29.0m
+26 Dec 2019	Rise  :  8h34.8m  Set  : 16h04.2m  Transit: 12h19m28s
+        az=130.3°        az=229.7°          Altitude=13.2° Sgr
+Dawn  :  7h06m    Dusk : 17h33m    Day    :  7h29.4m
+27 Dec 2019	Rise  :  8h35.0m  Set  : 16h05.0m  Transit: 12h19m58s
+        az=130.2°        az=229.8°          Altitude=13.3° Sgr
+Dawn  :  7h07m    Dusk : 17h34m    Day    :  7h30.0m
+28 Dec 2019	Rise  :  8h35.2m  Set  : 16h05.9m  Transit: 12h20m28s
+        az=130.2°        az=229.9°          Altitude=13.3° Sgr
+Dawn  :  7h07m    Dusk : 17h34m    Day    :  7h30.7m
+29 Dec 2019	Rise  :  8h35.3m  Set  : 16h06.8m  Transit: 12h20m57s
+        az=130.1°        az=230.0°          Altitude=13.4° Sgr
+Dawn  :  7h07m    Dusk : 17h35m    Day    :  7h31.5m
+30 Dec 2019	Rise  :  8h35.3m  Set  : 16h07.7m  Transit: 12h21m26s
+        az=129.9°        az=230.1°          Altitude=13.4° Sgr
+Dawn  :  7h07m    Dusk : 17h36m    Day    :  7h32.5m
+31 Dec 2019	Rise  :  8h35.3m  Set  : 16h08.8m  Transit: 12h21m55s
+        az=129.8°        az=230.3°          Altitude=13.5° Sgr
+Dawn  :  7h07m    Dusk : 17h37m    Day    :  7h33.5m
+1 Jan 2020	Rise  :  8h35.2m  Set  : 16h09.8m  Transit: 12h22m24s
+        az=129.6°        az=230.4°          Altitude=13.6° Sgr
+Dawn  :  7h07m    Dusk : 17h38m    Day    :  7h34.7m
    Print
 Glossary
 
@@ -1148,8 +1148,8 @@ This material is ©1998-2019 by CalSky.com.  About us / Imprint / Disclaimer / P
 Hard copies may be made for personal use only. No electronic copy may be located elsewhere for public access. All pages are dynamically generated. The usage of web copy tools is strictly prohibited. Commercial usage of the data only with written approval by the author. If you have any questions or comments, or plan to use results from CalSky in your publications or products, please contact us by e-mail. Credits
 Dieser Service wird in der Schweiz entwickelt und betrieben; Sie können uns auch gerne auf Deutsch schreiben.
 Software Version: 22 January 2019
-Database updated 25 min ago
-Current Users: 61
+Database updated 17 min ago
+Current Users: 63
  Submit
-25 January 2019, 08:27 UTC
-39 minutes left for this session
+25 January 2019, 12:20 UTC
+36 minutes left for this session
