@@ -18,19 +18,16 @@
 package de.moritzpetersen.moonshot.data;
 
 import java.io.IOException;
-import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.time.LocalDate;
 import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;
-import java.time.temporal.TemporalField;
 import java.util.Locale;
-import java.util.Optional;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class SunDataCsvConverter {
+public class SunDataCsvConverter extends DataCsvConverter {
   private static final Pattern SUN_RISE_SET_PATTERN = Pattern.compile(
       "(.*)\\tRise\\s*:\\s*(\\S*)\\s*Set\\s*:\\s*(\\S*).*");
   private static final Pattern TIME_PATTERN = Pattern.compile("(\\d*)h(\\d*)\\.(\\d)m");
@@ -43,20 +40,20 @@ public class SunDataCsvConverter {
     String dataFile = args.length > 0 ? args[1] : DATA_FILE;
 
     Path path = Paths.get(dataFile);
-    Files.lines(path)
-        .map(SUN_RISE_SET_PATTERN::matcher)
-        .filter(Matcher::matches)
-        .map(m -> new String[] {m.group(1), m.group(2), m.group(3)})
-        .forEach(data -> {
-          LocalDate date = LocalDate.parse(data[0], DATE_INPUT);
-          LocalTime rise = toLocalTime(data[1]);
-          LocalTime set = toLocalTime(data[2]);
-          System.out.println(date + "\t" + rise + "\t" + set + "\t" + toSecondOfDay(rise) + "\t" + toSecondOfDay(set));
-        });
+
+    new SunDataCsvConverter().parse(path);
   }
 
-  private static long toSecondOfDay(LocalTime time) {
-    return time == null ? 0 : (time.getHour() * 60 + time.getMinute()) * 60 + time.getSecond();
+  @Override
+  protected Matcher parseLine(final String line) {
+    return SUN_RISE_SET_PATTERN.matcher(line);
+  }
+
+  protected void process(String[] data) {
+    LocalDate date = LocalDate.parse(data[0], DATE_INPUT);
+    LocalTime rise = toLocalTime(data[1]);
+    LocalTime set = toLocalTime(data[2]);
+    System.out.println(date.format(DATE_OUTPUT) + "\t" + rise + "\t" + set + "\t" + toSecondOfDay(rise) + "\t" + toSecondOfDay(set));
   }
 
   private static LocalTime toLocalTime(String input) {
