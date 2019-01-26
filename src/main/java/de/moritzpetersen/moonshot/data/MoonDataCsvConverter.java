@@ -17,7 +17,6 @@ public class MoonDataCsvConverter extends DataCsvConverter {
   private static final String DATA_FILE = "data/moon_data.txt";
   private static final DateTimeFormatter DATE_INPUT =
     DateTimeFormatter.ofPattern("d MMM yyyy", Locale.US);
-  private static final DateTimeFormatter DATE_OUTPUT = DateTimeFormatter.ofPattern("dd.MM.yyyy");
 
   public static void main(String[] args) throws IOException {
     String dataFile = args.length > 0 ? args[1] : DATA_FILE;
@@ -33,11 +32,11 @@ public class MoonDataCsvConverter extends DataCsvConverter {
   }
 
   @Override
-  protected void process(final String[] data) {
+  protected OutputData process(final String[] data) {
     LocalDate date = LocalDate.parse(data[0], DATE_INPUT);
     LocalTime rise = toLocalTime(data, 1);
     LocalTime set = toLocalTime(data, 5);
-    System.out.println(date.format(DATE_OUTPUT) + "\t" + rise + "\t" + set);
+    return new OutputData(date, rise, set);
   }
 
   private LocalTime toLocalTime(final String[] data, final int start) {

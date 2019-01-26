@@ -49,11 +49,11 @@ public class SunDataCsvConverter extends DataCsvConverter {
     return SUN_RISE_SET_PATTERN.matcher(line);
   }
 
-  protected void process(String[] data) {
+  protected OutputData process(String[] data) {
     LocalDate date = LocalDate.parse(data[0], DATE_INPUT);
     LocalTime rise = toLocalTime(data[1]);
     LocalTime set = toLocalTime(data[2]);
-    System.out.println(date.format(DATE_OUTPUT) + "\t" + rise + "\t" + set + "\t" + toSecondOfDay(rise) + "\t" + toSecondOfDay(set));
+    return new OutputData(date, rise, set);
   }
 
   private static LocalTime toLocalTime(String input) {
