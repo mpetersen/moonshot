@@ -13,7 +13,7 @@ import java.util.regex.Pattern;
 import static java.lang.Integer.parseInt;
 
 public class MoonDataCsvConverter extends DataCsvConverter {
-  private static final Pattern MOON_RISE_SET_PATTERN = Pattern.compile("(\\d{1,2}\\s\\w{3}\\s\\d{4})\\s*Rise:\\s*(\\d{1,2})h(\\d{1,2})m.*Transit:\\s*(\\d{1,2})h(\\d{1,2})m.*Set:\\s(\\d{1,2})h(\\d{1,2})m.*");
+  private static final Pattern MOON_RISE_SET_PATTERN = Pattern.compile("(\\d{1,2}\\s\\w{3}\\s\\d{4})\\s*Rise:\\s*(\\d{1,2})h(\\d{1,2})m.*Transit:\\s*(\\d{1,2})h(\\d{1,2})m.*Set:\\s*(\\d{1,2})h(\\d{1,2})m.*");
   private static final String DATA_FILE = "data/moon_data.txt";
   private static final DateTimeFormatter DATE_INPUT =
     DateTimeFormatter.ofPattern("d MMM yyyy", Locale.US);
@@ -28,7 +28,11 @@ public class MoonDataCsvConverter extends DataCsvConverter {
 
   @Override
   protected Matcher parseLine(final String line) {
-    return MOON_RISE_SET_PATTERN.matcher(line);
+    Matcher m = MOON_RISE_SET_PATTERN.matcher(line);
+    if (!m.matches()) {
+      System.err.println("No match: " + line);
+    }
+    return m;
   }
 
   @Override

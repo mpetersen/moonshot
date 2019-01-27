@@ -22,6 +22,11 @@
     <properties>
         <java.version>10</java.version>
     </properties>
-
-
+    <dependencies>
+        <dependency>
+            <groupId>org.jfree</groupId>
+            <artifactId>jfreechart</artifactId>
+            <version>1.5.0</version>
+        </dependency>
+    </dependencies>
 </project>

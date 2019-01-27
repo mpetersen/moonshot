@@ -21,4 +21,4 @@ Use English language settings.
 
 ## Sun and moon correlation
 
-![Sun and moon data 2019](data/data_2019.png)
+![Sun and moon data 2019](data/diagram.png)
