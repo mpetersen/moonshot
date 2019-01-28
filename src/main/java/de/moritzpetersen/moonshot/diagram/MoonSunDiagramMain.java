@@ -36,7 +36,7 @@ public class MoonSunDiagramMain {
   private void fillDiagram(final Diagram diagram, final Path dataFile, final String name, final BasicStroke stroke, final Function<String, AstroData> dataMapper) throws IOException {
     TimeSeries riseSeries = new TimeSeries(name + "rise");
     TimeSeries setSeries = new TimeSeries(name + "set");
-    Files.lines(dataFile).map(dataMapper).filter(AstroData::isMatch).forEach(data -> {
+    Files.lines(dataFile).map(dataMapper).filter(AstroData::isValid).forEach(data -> {
         riseSeries.add(new Day(data.getDay(), data.getMonth(), data.getYear()), data.getRiseTime());
         setSeries.add(new Day(data.getDay(), data.getMonth(), data.getYear()), data.getSetTime());
     });

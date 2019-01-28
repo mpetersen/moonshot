@@ -16,3 +16,4 @@ buildNumber.properties
 *.iml
 .idea/
 data/.*
+.DS_Store

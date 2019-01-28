@@ -55,7 +55,7 @@ public class Diagram {
   }
 
   public void write(final Path outputFile) throws IOException {
-    BufferedImage bufferedImage = chart.createBufferedImage(1200, 1024);
+    BufferedImage bufferedImage = chart.createBufferedImage(1200, 800);
     String fileName = outputFile.getFileName().toString();
     String type = fileName.substring(fileName.lastIndexOf('.') + 1);
     ImageIO.write(bufferedImage, type, outputFile.toFile());
